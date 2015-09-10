@@ -1,0 +1,5 @@
+1234123   Diego   Guardia          12    I  3  	XI   10    M 20
+9181043         Alonso   Ayala       42          XI   11  IX  9
+3434123    Lucifer    Perdicion 99        L   50   XI  14   X   10
+9238123     Yisus        Crais        27      M      200   III   4  V    5
+
