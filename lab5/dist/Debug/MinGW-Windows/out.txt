@@ -1,0 +1,274 @@
+PACIENTES
+===============================================
+001) HIJAR WILLIAMS                    1611.82
+002) RAFFO ROLANDO                     4109.69
+003) EGUSQUIZA DORIS                   1667.01
+004) VEGA HENRRY                       6587.12
+005) GAVIDIA RONALD                    2109.20
+006) CORRALES IRMA                     4062.87
+007) HUAYANAY MANUEL                   2589.67
+008) ARCA LUCERO                       3538.56
+009) CERNA FIORELLA                    3976.76
+010) DURAND WALDEMAR                    476.20
+011) FORZANI ALONSO                    1940.46
+012) JUSTINO ERICKA                    2648.89
+013) DURAND LUIS                       1529.96
+014) VILCARA MILAGROS                  1797.25
+015) AGUERO HUMBERTO                   3133.66
+016) DE ALBERTO                        2386.90
+017) LOPEZ CAROLA                      3575.36
+018) VILLA MARTIN                      3339.44
+019) URBINA HELI                       2773.60
+020) SALAMANCA ALEX                    3652.90
+021) ZAMBRANO OFELIA                   1487.89
+022) MIRANDA ALFONSO                   2329.54
+023) LOZADA ANTONIO                    4128.95
+024) NORABUENA FLOR                    2760.32
+025) SALAMANCA VIRGINIA                3930.47
+026) CARBAJAL MARITZA                  3270.79
+027) MIYAKE MADELEINE                  1194.27
+028) SUAREZ RAFAEL                     2987.12
+029) MEJIA BLANCA                      2920.05
+030) MORALES KARIN                      547.65
+031) PAREDES CHRISTIAN                 1194.27
+032) FLORENCIO ALONSO                  1756.82
+033) MOSCOSO FIORELLA                  2437.09
+034) CAMACHO ELIA                      1742.42
+035) LAURA MELVIN                       914.45
+036) ORTEGA ELOY                        187.03
+037) VALVERDE RONY                     1176.87
+038) ASMAD ANNIE                       1826.84
+039) DELGADO GUILLERMO                 1295.20
+040) HENRIQUEZ ALEX                    1850.46
+041) PRADO CARLOS                      5104.17
+042) LOZADA HELI                       1312.44
+043) FARFAN ELIZABETH                   819.90
+044) CHUNG ALVARO                      3516.19
+045) VILLA TATIANA                     3110.98
+046) ANTEZANO TERESA                   1103.94
+047) PENA GLENDA                       3730.55
+048) PISCOYA CESAR                     1405.26
+049) MONTERO ANNIE                     2614.10
+050) CHAVEZ JOHAN                      3156.65
+051) SUELDO ADRIA                      4610.81
+052) LANDEO ADOLFO                     6338.32
+053) MORALES GIOVANA                   3101.48
+054) CORTEZ RONAL                      1863.87
+055) AYALA EDGAR                       1701.69
+056) SANTISTEBAN ROSA                  2920.49
+057) PASQUEL SURAMI                    2041.88
+058) BENAVENTE VIRGINIA                3257.35
+059) ALFARO JORGE                      5509.01
+060) FIGUEROA EVERT                    3111.42
+061) LOYOLA CAROLA                     1740.37
+062) PATINO DELICIA                    1095.39
+063) MOSCOSO JANET                     3043.62
+064) SUCHERO EDGAR                     2725.07
+065) HENRIQUEZ GONZALO                 4071.45
+066) LEYVA DIANA                        784.60
+067) DIAZ MAGALI                       1949.54
+068) MORALES INES                       425.18
+069) ARCA MAGALI                       4934.39
+070) CERNA DAVID                       1272.41
+071) HERNANDEZ GUILLERMO               1859.17
+072) CERNA JOSE                        1273.88
+073) VILLEGAS ALVARO                   1448.37
+074) SALAZAR LORENA                     376.94
+075) SAKAGUCHI CARLOS                  3142.42
+076) VEGA JANET                        1935.34
+077) SUELDO LOURDES                    1659.75
+078) GARCIA AMERICO                    1023.85
+079) PORTUGAL JOHANA                    631.00
+080) MERCADO ELIA                      1750.08
+081) ARROYO MARIA                      2249.54
+082) FARFAN MARGOT                     1127.57
+083) BRAVO ROBERTO                     2007.24
+084) HENRIQUEZ BEATRIZ                 1312.64
+085) CASTRO MARTHA                     1013.08
+086) AYALA ERICKA                      1139.16
+087) BARRERA ALEXANDER                 2002.70
+088) AURIS JAVIER                      1404.51
+089) ZUNIGA WILLIAMS                   1191.29
+090) WONG CHRISTIAN                    1352.73
+091) HENRIQUEZ RAUL                    1686.61
+092) JAUREGUI VICTOR                   1007.75
+093) VILLEGAS DORIS                    2588.10
+094) INFANTES LUIS                     5120.53
+095) SEDANO ELIA                        956.03
+096) PASQUEL MARGOT                    1772.19
+097) BENAVENTE YVONNE                  1882.75
+098) AURIS EVERT                       2733.96
+099) VIZCARDO MARIBEL                  1627.86
+100) FLORIAN YDALI                      629.51
+101) VEGA GONZALO                      1264.73
+102) SOMA LOURDES                       284.04
+103) DIAZ ENRIQUE                      1103.94
+104) CORTEZ CARMELA                    3373.98
+105) SALAS DANIEL                      1435.40
+106) VASQUEZ ALEX                      2249.48
+107) WONG RICARDO                       696.05
+108) ZARATE ALEXANDER                  2214.89
+109) AQUINO VALENTINA                  1625.97
+110) PAIRAZAMAN TATIANA                3400.73
+111) VILLEGAS FELICITA                 1859.11
+112) ASTETE CESAR                      1687.06
+113) MEDINA MILENA                     2172.60
+114) GUEVARA MILENA                    3034.00
+115) TORRES TATIANA                     968.64
+116) MALDONADO JOHANA                  1032.61
+117) MEREL WALTER                      1603.84
+118) RAMIREZ KARINA                    2121.73
+119) MENDOZA ROSARIO                    615.50
+120) NORABUENA CINTHIA                 1800.44
+121) LAU MARIA                         1992.14
+122) VEGA CARMELA                      2771.10
+123) QUIROGA SURAMI                    4839.17
+124) MOYA JOHNNY                       2729.10
+125) CERNA MARTIN                      1057.32
+126) PRADO JUAN                        2490.41
+127) SOLIS MARIA                       1022.03
+128) GORDILLO YVONNE                    881.79
+129) ASMAD ADRIA                       4250.91
+130) CHUMPITAZ ANGEL                   1307.60
+131) CHUMPITAZ VIRGINIA                 550.42
+132) MEJIA FRANCISCO                    640.55
+133) ZAMBRANO HUMBERTO                 2248.70
+134) MARTEL MELVIN                     3911.24
+135) SEGURA RONY                       1757.68
+136) VILCARA VICTOR                    3392.57
+137) PAIRAZAMAN MOISES                  480.43
+138) DE LUCERO                         1745.36
+139) RAFFO SURAMI                       860.88
+140) LA ALBERTO                         480.43
+141) PRADO EDGAR                       1166.58
+142) SAM INES                          2077.88
+143) VALVERDE IRMA                     1699.66
+144) ORTIZ HENRY                       2275.35
+145) RIVERO WILVER                      476.20
+146) MEREL ANNIE                       2523.75
+147) IBEROS RAFAEL                     2117.10
+148) CERNA CINTHIA                     1402.26
+149) RAMIREZ ROCIO                     2075.71
+150) BRAVO JANET                       2025.26
+151) ARCA EDRIC                        1606.18
+152) CAMACHO YDALI                      173.48
+153) MENDOZA JAIR                      1653.91
+154) PINTO DORIS                       1403.82
+155) LUNA WALDEMAR                     1807.68
+156) MALDONADO SILVANA                 1104.14
+157) SERRANO ARTURO                    1365.19
+158) URBINA RAFAEL                     3536.57
+159) YOSHINARI PAUL                    2160.52
+160) ESCALANTE INES                    2324.98
+161) VALVERDE MELVIN                    897.72
+162) GONZALES HENRY                     187.03
+163) MARTEL BRUNO                      1032.61
+164) RODRIGUEZ BLANCA                  3263.83
+165) SINCHE YVONNE                     1554.22
+166) CASANOVA RONAL                    3291.43
+167) CONTRERAS JOHANA                  3369.25
+168) ARROYO NATALIA                    3168.49
+169) RAFFO ADRIA                       2330.86
+170) FALCON ALEX                       1457.19
+171) JAUREGUI ROLANDO                  1741.14
+172) PATINO BEATRIZ                    1557.67
+173) RIOS INES                          425.18
+174) DIAZ WALTER                       2479.22
+175) SHIRAKAWA GUIDA                   3563.95
+176) ORTIZ RAUL                         513.67
+177) ACUNA ROCIO                       1352.54
+178) GAVIDIA MILAGROS                  2600.97
+179) HIJAR JENNY                        682.52
+180) VELASQUEZ EDGARD                  1174.50
+181) REYES NANCY                       3128.67
+182) ZARATE HUMBERTO                   2033.08
+183) CARO SANDRO                       3434.33
+184) REYES EDWARD                      1795.03
+185) LOZADA FELICITA                   1853.34
+186) CRUZ JOHANA                       1777.75
+187) PALOMARES HENRRY                  2406.34
+188) CALIXTO ERICK                     1604.50
+189) PISCOYA SANDRO                    2427.95
+190) PAZ SANDRA                        2570.46
+191) HIJAR MARTIN                      1560.17
+192) CORONADO JOHAN                     989.84
+193) ROMERO GLORIA                     1163.32
+194) RETAMOSO OSCAR                    1853.69
+195) FERNANDEZ ELIZABETH               1759.91
+196) MEJIA CHRISTIAN                    463.81
+197) CHUMPITAZ RONAL                   1836.94
+198) SHIRAKAWA ANGEL                   2280.87
+199) NARVAEZ JESUS                     2222.65
+200) BARRIOS CARLOS                     330.15
+201) WONG MADELEINE                    1639.32
+202) CHAVEZ SILVANA                    1262.96
+203) INFANTES ROBERTO                  1835.74
+204) LAU MONICA                        1910.75
+205) SHIRAKAWA MADELEINE               3259.13
+206) CASTRO ROLANDO                    1218.76
+207) WONG BEATRIZ                      1878.67
+208) HENRIQUEZ SILVANA                 1741.14
+209) ROSEMBERG JULIO                   1308.88
+210) CORREA MIGUEL                      785.22
+211) CALIXTO MONICA                    1540.54
+212) QUIO MARIBEL                      1244.30
+213) JUSTINO WILLIAMS                   679.62
+214) SUAREZ AMARU                       140.24
+215) BACA MILAGROS                      140.24
+216) SUAREZ MADELEINE                  1308.38
+217) PINTO SHIRLEY                     1166.73
+218) LOZADA DELIA                      1169.90
+219) DIAZ IRMA                         1196.36
+220) HERNANDEZ EMILIO                  1341.50
+221) TRIGUEROS LUZ                     1185.80
+222) ALAMO MIGUEL                      2654.16
+223) INGA CESAR                        1245.20
+224) RUIZ CAROLA                        284.04
+225) AMEZQUITA EVERT                    737.77
+226) CHANG ANGEL                       2560.79
+227) DURAND ENRIQUE                    1294.17
+228) VARGAS DANIEL                     2238.00
+229) ESCALANTE EMIGDIO                 1913.69
+230) PASQUEL HECTOR                    1319.73
+231) CABRERA GUILLERMO                  930.66
+232) CORONEL HELI                       615.50
+233) SOLIS ROLANDO                      819.90
+234) ARANA FRANCISCO                   1296.10
+235) LOZADA MARTHA                      989.84
+236) ALFARO ERICK                       720.64
+237) CABRERA SHIRLEY                    397.58
+238) SALAS MAGDA                        843.53
+239) PEREZ RICHARD                      263.61
+
+MEDICOS!!!
+===============================================
+001) ZAMORA/CABRERA/CARMEN                                 8012.16
+002) AMEZQUITA/CONTRERAS/HUMBERTO-ALFONSO                 15505.62
+003) CABRERA/MORI/GLENDA                                  32573.10
+004) SHIRAKAWA/FLORIAN/JAIME-JULIAN-PEDRO-JOSE                0.00
+005) MERCADO/CARO/OFELIA-CARMEN                            8504.75
+006) CABRERA/MORENO/DELIA-ESTEFANIA-MARIA                     0.00
+007) DEL-CASTILLO/CHUNG/FELICITA-ERIKA                    14270.10
+008) SAENZ/ARANDA/WILMER                                   4627.92
+009) CHUNG/ZUNIGA/ZKENIA-IRMA                              7216.58
+010) ZEGARRA/CABELLO/CINTHIA-MILENA                       26146.00
+011) DEL-CASTILLO/MEJIA/GUSTAVO-ALONSO                    19375.42
+012) ORTIZ/GUEVARA/YLIANA-FLOR                            51653.70
+013) ACUNA/AYLLON/BLANCA-LUZ                              11335.23
+014) COLLADO/VILLA/RAUL                                    7669.08
+015) URBINA/ANTEZANO/VALENTINA-PAULA                      30623.58
+016) LANDEO/ESTRADA/MIGUEL-ALEX-ANTONIO-PEDRO                 0.00
+017) ARANDA/MINAYA/JANET-CINTHIA                           8042.29
+018) TABORI/ARIAS/ROSARIO                                 27699.35
+019) ZIMIC/SALAS/FRANCISCO                                22766.32
+020) FLORENCIO/POLO/FIORELLA-ERIKA                        32897.67
+021) PEREZ/ANTEZANO/DAVID-CARLOS                          16753.36
+022) PORTUGAL/RAFFO/ALEXANDER                              7459.64
+023) MUNOZ/VERGEL/EDGAR                                   18095.60
+024) SHIRAKAWA/SAONA/VICTORIA-MILAGROS-ISABEL                 0.00
+025) ZARATE/URBINA/DELIA                                  22926.54
+026) JOLAY/CHUMPITAZ/WALTER                               20927.00
+027) MORI/SUAREZ/EDILBERTO-JESUS-TEOBALDO                     0.00
+028) CUBA/POMAJAMBO/VICTORIA-FIORELLA                      9972.90
+029) AYALA/ZEVALLOS/JOHAN-ENRIQUE                         25222.40
+030) CALIXTO/TORRES/MIGUEL                                11595.25

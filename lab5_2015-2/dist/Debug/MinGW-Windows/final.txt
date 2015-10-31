@@ -1,0 +1,1318 @@
+                                                  Listas de clases:
+============================================================================================================================================
+     Clave: CIV224                  Curso: Analisis Estructural 1                           Número de alumnos: 14
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20079075  MEREL/SALAZAR/ANNIE-LOURDES               ____       2.-  20136871  JUSTINO/NORABUENA/VIRGINIA-KARINA         ____      
+ 3.-  20122354  CAMACHO/PAIRAZAMAN/YDALI-LUCERO           ____       4.-  20066147  ZARATE/PEREZ/ALEXANDER                    ____      
+ 5.-  20103205  ARCA/SANCHEZ/MAGALI-BEATRIZ               ____       6.-  20062703  INFANTES/MERCADO/LUIS-WALDEMAR            ____      
+ 7.-  20101701  LEE/SERRANO/ROSARIO                       ____       8.-  20062239  ZAMORA/ZAVALETA/RONAL-MANUEL              ____      
+ 9.-  20098298  VIZCARRA/CARBAJAL/IVAN-FAUSTO             ____      10.-  20110166  PRADO/ESPINOZA/MILAGROS                   ____      
+11.-  20093211  AYALA/SHIRAKAWA/VICTORIA                  ____      12.-  20051425  VALVERDE/MERCADO/NESTOR-GUSTAVO           ____      
+13.-  20062828  DELGADO/BENITES/JUVENAL                   ____      14.-  20071347  ARROYO/COLLADO/JESSICA-DELICIA            ____      
+============================================================================================================================================
+     Clave: CIV283                  Curso: Instalaciones de Edificaciones                   Número de alumnos: 17
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20156683  CERNA/CERNA/CINTHIA                       ____       2.-  20055659  MOSCOSO/LAURA/JANET-VALENTINA             ____      
+ 3.-  20103205  ARCA/SANCHEZ/MAGALI-BEATRIZ               ____       4.-  20062239  ZAMORA/ZAVALETA/RONAL-MANUEL              ____      
+ 5.-  20111288  RETAMOSO/SALAMANCA/DELIA-MARITZA          ____       6.-  20070116  PINTO/ROJAS/JUVENAL-FRANCISCO             ____      
+ 7.-  20053733  SUAREZ/CHANG/GLORIA                       ____       8.-  20057294  FLORIAN/CUBA/CHRISTIAN                    ____      
+ 9.-  20108314  NORABUENA/MOYA/HECTOR                     ____      10.-  20133005  CASANOVA/ZEGARRA/MARITZA                  ____      
+11.-  20040945  SUELDO/ANTEZANO/LUIS-JESUS                ____      12.-  20111439  SINCHE/PRECIADO/MARTHA                    ____      
+13.-  20071876  SOMA/MIRANDA/ELOISA                       ____      14.-  20141722  PINTO/SAAVEDRA/RAUL                       ____      
+15.-  20062828  DELGADO/BENITES/JUVENAL                   ____      16.-  20132872  DELGADO/JUSTINO/TERESA                    ____      
+17.-  20043941  MORENO/VERGEL/GUILLERMO                   ____      
+============================================================================================================================================
+     Clave: CIV284                  Curso: Planificacion de la Construccion                 Número de alumnos: 15
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20142807  SUELDO/RUIZ/ANTONIO                       ____       2.-  20075260  MONTERO/MONTERO/ANNIE                     ____      
+ 3.-  20155258  VILLA/SEDANO/MARTIN-JUVENAL               ____       4.-  20109606  DURAND/VALVERDE/ENRIQUE-JORGE             ____      
+ 5.-  20089309  SINCHE/RIVERO/YVONNE-SILVANA              ____       6.-  20098819  BRAVO/CORTES/JANET-FLOR                   ____      
+ 7.-  20093768  VEGA/SORIA/HENRRY                         ____       8.-  20155919  VALVERDE/MAEIREIZO/MELVIN-JAIR            ____      
+ 9.-  20101183  CONTRERAS/CHANG/JOHANA-CINTHIA            ____      10.-  20135048  VEGA/VILCARA/CARMELA-TERESA               ____      
+11.-  20046889  EPIQUEN/AVILA/ENRIQUE                     ____      12.-  20075832  TRIGUEROS/PORTUGAL/ARTURO-FAUSTO          ____      
+13.-  20098298  VIZCARRA/CARBAJAL/IVAN-FAUSTO             ____      14.-  20130239  POMAJAMBO/EGUSQUIZA/PAUL                  ____      
+15.-  20040489  ARANA/CALDERON/MILAGROS                   ____      
+============================================================================================================================================
+     Clave: CIV307                  Curso: Concreto Armado 2                                Número de alumnos: 11
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20138915  ROSEMBERG/LAU/JULIO-HENRRY                ____       2.-  20060051  ORTIZ/DURAND/RAUL                         ____      
+ 3.-  20092784  ESCALANTE/ROJAS/INES-ADRIA                ____       4.-  20126555  TRIGUEROS/JUGO/LUZ                        ____      
+ 5.-  20056663  PRADO/VERA/JUAN                           ____       6.-  20041087  CHAVEZ/BERROCAL/JOHAN                     ____      
+ 7.-  20062703  INFANTES/MERCADO/LUIS-WALDEMAR            ____       8.-  20114913  WONG/MAEIREIZO/BEATRIZ                    ____      
+ 9.-  20075891  SALAMANCA/CABRERA/NESTOR-EVERT            ____      10.-  20082434  GONZALES/GAMARRA/GIOVANA-KARINA           ____      
+11.-  20142300  AVILA/MARTEL/JAIME-MANUEL                 ____      
+============================================================================================================================================
+     Clave: CIV308                  Curso: Estructuras de Acero                             Número de alumnos: 13
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20079075  MEREL/SALAZAR/ANNIE-LOURDES               ____       2.-  20065382  VILLEGAS/LEIVA/FELICITA                   ____      
+ 3.-  20069086  AYALA/VIZCARDO/EDGAR-MANUEL               ____       4.-  20054935  CHUMPITAZ/ALCOCER/ANGEL-ERICK             ____      
+ 5.-  20057917  ZAMBRANO/MOSCOSO/OFELIA-MARIA             ____       6.-  20111117  SUAREZ/MORALES/AMARU                      ____      
+ 7.-  20090658  PATINO/BOLANOS/DELICIA-VIRGINIA           ____       8.-  20129380  BACA/CAMACHO/MILAGROS-NATALIA             ____      
+ 9.-  20155657  SAAVEDRA/GONZALES/WILMER                  ____      10.-  20079558  DIAZ/MOYA/ELIA-ANNIE                      ____      
+11.-  20093211  AYALA/SHIRAKAWA/VICTORIA                  ____      12.-  20040489  ARANA/CALDERON/MILAGROS                   ____      
+13.-  20070991  CONTRERAS/EGUSQUIZA/AMARU-ALONSO          ____      
+============================================================================================================================================
+     Clave: CIV309                  Curso: Diseno de Estructuras Especiales                 Número de alumnos: 16
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20054935  CHUMPITAZ/ALCOCER/ANGEL-ERICK             ____       2.-  20046056  MIRANDA/CHUMPITAZ/ALFONSO                 ____      
+ 3.-  20135268  ASMAD/CHAVEZ/ADRIA                        ____       4.-  20049268  LOZADA/IBEROS/HELI-BLANCA                 ____      
+ 5.-  20093768  VEGA/SORIA/HENRRY                         ____       6.-  20126555  TRIGUEROS/JUGO/LUZ                        ____      
+ 7.-  20057488  ALFARO/ALFARO/ERICK-BRUNO                 ____       8.-  20082348  VILCARA/YALLICO/MAGALI                    ____      
+ 9.-  20089674  RUIZ/ZEVALLOS/WALTER-RONY                 ____      10.-  20142181  RIOS/DURAND/CARLOS-EDILBERTO              ____      
+11.-  20141332  SANCHEZ/DEL_CASTILLO/FIORELLA-ROSARIO     ____      12.-  20079558  DIAZ/MOYA/ELIA-ANNIE                      ____      
+13.-  20142300  AVILA/MARTEL/JAIME-MANUEL                 ____      14.-  20056015  CARBAJAL/SALAS/MAGDA-ZKENIA               ____      
+15.-  20063781  ROSEMBERG/ROSEMBERG/JAIR-ALONSO           ____      16.-  20071347  ARROYO/COLLADO/JESSICA-DELICIA            ____      
+============================================================================================================================================
+     Clave: CIV313                  Curso: Puentes                                          Número de alumnos: 15
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20065927  SEGURA/MALCA/RONY                         ____       2.-  20158245  DE_LA_CUBA/JUGO/LUCERO-DELICIA            ____      
+ 3.-  20042724  VARGAS/ALAMO/DANIEL                       ____       4.-  20049268  LOZADA/IBEROS/HELI-BLANCA                 ____      
+ 5.-  20122125  LOZADA/ARGUEDAS/FELICITA-VALENTINA        ____       6.-  20089203  RAMIREZ/ASTETE/KARINA-ESTEFANIA           ____      
+ 7.-  20063057  VIZCARDO/SINCHE/MARIBEL                   ____       8.-  20131357  DIAZ/TANG/ENRIQUE                         ____      
+ 9.-  20069218  LUNA/VARGAS/WALDEMAR                      ____      10.-  20083398  JUSTINO/MARTINEZ/ENRIQUE                  ____      
+11.-  20099696  TOKESHI/GUEVARA/JAIME                     ____      12.-  20067519  ASTETE/CHANG/GUIDA                        ____      
+13.-  20105132  BENITES/RAFFO/FIORELLA-ELEONOR            ____      14.-  20059096  MIRANDA/RODRIGUEZ/JAVIER                  ____      
+15.-  20117076  GAVIDIA/TORO/BLANCA                       ____      
+============================================================================================================================================
+     Clave: CIV314                  Curso: Croncreto Pretensado                             Número de alumnos: 16
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20079075  MEREL/SALAZAR/ANNIE-LOURDES               ____       2.-  20080607  SALAS/URBINA/MAGDA-CARMEN                 ____      
+ 3.-  20122166  ESCALANTE/ESPINO/EMIGDIO-FRANCISCO        ____       4.-  20149327  PAIRAZAMAN/RAFFO/TATIANA-DELICIA          ____      
+ 5.-  20093768  VEGA/SORIA/HENRRY                         ____       6.-  20151540  SOLIS/NARVAEZ/MARIA-MADELEINE             ____      
+ 7.-  20106394  MORALES/PASQUEL/KARIN-MARIBEL             ____       8.-  20083658  AVILA/REYES/TATIANA                       ____      
+ 9.-  20082348  VILCARA/YALLICO/MAGALI                    ____      10.-  20142181  RIOS/DURAND/CARLOS-EDILBERTO              ____      
+11.-  20111192  MEJIA/RODRIGUEZ/INES-VALENTINA            ____      12.-  20096326  MENDOZA/ROMERO/VIRGINIA-YDALI             ____      
+13.-  20111439  SINCHE/PRECIADO/MARTHA                    ____      14.-  20071876  SOMA/MIRANDA/ELOISA                       ____      
+15.-  20132497  WONG/SUELDO/RICHARD                       ____      16.-  20068763  NARVAEZ/PEREZ/EVELING                     ____      
+============================================================================================================================================
+     Clave: CIV364                  Curso: Albanileria Estructural                          Número de alumnos: 21
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20085379  ASTETE/RIOS/CESAR-WILVER                  ____       2.-  20135792  DIAZ/REYES/WALTER-EDGAR                   ____      
+ 3.-  20042194  LAU/BACA/MONICA-TERESA                    ____       4.-  20081057  URBINA/CASTILLO/HELI                      ____      
+ 5.-  20158245  DE_LA_CUBA/JUGO/LUCERO-DELICIA            ____       6.-  20075062  BARRERA/MIRANDA/ALEXANDER-MARTIN          ____      
+ 7.-  20075260  MONTERO/MONTERO/ANNIE                     ____       8.-  20069086  AYALA/VIZCARDO/EDGAR-MANUEL               ____      
+ 9.-  20046056  MIRANDA/CHUMPITAZ/ALFONSO                 ____      10.-  20106102  SOLIS/CHUNG/ROLANDO                       ____      
+11.-  20151540  SOLIS/NARVAEZ/MARIA-MADELEINE             ____      12.-  20057488  ALFARO/ALFARO/ERICK-BRUNO                 ____      
+13.-  20059675  LEYVA/SAM/DIANA-DELIA                     ____      14.-  20106394  MORALES/PASQUEL/KARIN-MARIBEL             ____      
+15.-  20092823  ZAVALETA/VILCA/ERICKA-ELEONOR             ____      16.-  20111192  MEJIA/RODRIGUEZ/INES-VALENTINA            ____      
+17.-  20057166  CANO/POLO/MILAGROS-ISABEL                 ____      18.-  20111439  SINCHE/PRECIADO/MARTHA                    ____      
+19.-  20094460  GAMARRA/GAVIDIA/FAUSTO-EMIGDIO            ____      20.-  20144988  INGA/LEYVA/RONY-ALEXANDER                 ____      
+21.-  20070991  CONTRERAS/EGUSQUIZA/AMARU-ALONSO          ____      
+============================================================================================================================================
+     Clave: DEC210                  Curso: Personas Juridicas                               Número de alumnos: 18
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20080607  SALAS/URBINA/MAGDA-CARMEN                 ____       2.-  20127835  FIGUEROA/COLLADO/EVERT                    ____      
+ 3.-  20073586  EGUSQUIZA/BERROCAL/DORIS-NANCY            ____       4.-  20041087  CHAVEZ/BERROCAL/JOHAN                     ____      
+ 5.-  20040831  SUELDO/SEDANO/ADRIA                       ____       6.-  20076692  HERNANDEZ/CORRALES/GUILLERMO              ____      
+ 7.-  20129380  BACA/CAMACHO/MILAGROS-NATALIA             ____       8.-  20087432  RIVERO/CORTEZ/WILVER-ALFONSO              ____      
+ 9.-  20087754  SALAMANCA/VEGA/VIRGINIA-MARTHA            ____      10.-  20099696  TOKESHI/GUEVARA/JAIME                     ____      
+11.-  20096326  MENDOZA/ROMERO/VIRGINIA-YDALI             ____      12.-  20110166  PRADO/ESPINOZA/MILAGROS                   ____      
+13.-  20144852  GORDILLO/SANCHEZ/RONALD-JUVENAL           ____      14.-  20046546  QUIROGA/HERNANDEZ/SILVANA-ZKENIA          ____      
+15.-  20113401  TORREALBA/SALAS/DIANA-ANNIE               ____      16.-  20059096  MIRANDA/RODRIGUEZ/JAVIER                  ____      
+17.-  20043332  ZAMBRANO/TORRES/MOISES-GUILLERMO          ____      18.-  20142523  URBINA/MOYA/ISRAEL-OSCAR                  ____      
+============================================================================================================================================
+     Clave: DEC222                  Curso: Derecho Procesal Civil 1                         Número de alumnos: 13
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20042194  LAU/BACA/MONICA-TERESA                    ____       2.-  20127835  FIGUEROA/COLLADO/EVERT                    ____      
+ 3.-  20069086  AYALA/VIZCARDO/EDGAR-MANUEL               ____       4.-  20149327  PAIRAZAMAN/RAFFO/TATIANA-DELICIA          ____      
+ 5.-  20131253  RIOS/ZAMORA/INES                          ____       6.-  20092823  ZAVALETA/VILCA/ERICKA-ELEONOR             ____      
+ 7.-  20146634  LAU/ZAVALETA/YDALI-ELIA                   ____       8.-  20075891  SALAMANCA/CABRERA/NESTOR-EVERT            ____      
+ 9.-  20106168  MARTINEZ/CRUZ/EVERT-RONY                  ____      10.-  20130239  POMAJAMBO/EGUSQUIZA/PAUL                  ____      
+11.-  20132696  ZAMBRANO/MIRANDA/JUVENAL-MELVIN           ____      12.-  20068503  RIOS/ARROYO/RAUL-ENRIQUE                  ____      
+13.-  20132872  DELGADO/JUSTINO/TERESA                    ____      
+============================================================================================================================================
+     Clave: DEC231                  Curso: Derecho Civil 6: Familia                         Número de alumnos: 17
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20158245  DE_LA_CUBA/JUGO/LUCERO-DELICIA            ____       2.-  20080607  SALAS/URBINA/MAGDA-CARMEN                 ____      
+ 3.-  20127835  FIGUEROA/COLLADO/EVERT                    ____       4.-  20072765  DE_LA_HAZA/CABRERA/ALBERTO                ____      
+ 5.-  20119351  SAKAGUCHI/MORI/CARLOS-RONAL               ____       6.-  20098819  BRAVO/CORTES/JANET-FLOR                   ____      
+ 7.-  20056663  PRADO/VERA/JUAN                           ____       8.-  20124234  NARVAEZ/CASTILLO/JESUS-RAFAEL             ____      
+ 9.-  20151285  PENA/SUAREZ/GLENDA-MARGOT                 ____      10.-  20151540  SOLIS/NARVAEZ/MARIA-MADELEINE             ____      
+11.-  20135758  FIGUEROA/MEDINA/MADELEINE                 ____      12.-  20047985  ZEGARRA/PENA/CARMELA                      ____      
+13.-  20112281  CUEVA/FUENTES/CINTHIA-DELIA               ____      14.-  20082399  ZUNIGA/ROSEMBERG/REBECA                   ____      
+15.-  20142523  URBINA/MOYA/ISRAEL-OSCAR                  ____      16.-  20063462  PASQUEL/AGUERO/LUIS-MELVIN                ____      
+17.-  20043941  MORENO/VERGEL/GUILLERMO                   ____      
+============================================================================================================================================
+     Clave: DEE204                  Curso: Derecho Administrativo 2                         Número de alumnos: 10
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20043619  SUAREZ/MUNOZ/MADELEINE                    ____       2.-  20057917  ZAMBRANO/MOSCOSO/OFELIA-MARIA             ____      
+ 3.-  20124234  NARVAEZ/CASTILLO/JESUS-RAFAEL             ____       4.-  20139452  RODRIGUEZ/MORENO/BLANCA-OFELIA            ____      
+ 5.-  20040269  AYALA/CASTILLO/ERICKA-OFELIA              ____       6.-  20146634  LAU/ZAVALETA/YDALI-ELIA                   ____      
+ 7.-  20066681  CORTES/CORTEZ/RAUL-ALEX                   ____       8.-  20112281  CUEVA/FUENTES/CINTHIA-DELIA               ____      
+ 9.-  20046546  QUIROGA/HERNANDEZ/SILVANA-ZKENIA          ____      10.-  20105132  BENITES/RAFFO/FIORELLA-ELEONOR            ____      
+============================================================================================================================================
+     Clave: DEE207                  Curso: Derecho Internacional Publico                    Número de alumnos: 16
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20079075  MEREL/SALAZAR/ANNIE-LOURDES               ____       2.-  20046083  URBINA/HIJAR/RAFAEL                       ____      
+ 3.-  20043496  CHUMPITAZ/PALOMARES/VIRGINIA              ____       4.-  20042724  VARGAS/ALAMO/DANIEL                       ____      
+ 5.-  20114860  SOMA/PINTO/LOURDES-SONIA                  ____       6.-  20072011  FARFAN/SALAZAR/MARGOT                     ____      
+ 7.-  20087754  SALAMANCA/VEGA/VIRGINIA-MARTHA            ____       8.-  20135758  FIGUEROA/MEDINA/MADELEINE                 ____      
+ 9.-  20061004  FLORIAN/VALDERRAMA/JOSE                   ____      10.-  20066681  CORTES/CORTEZ/RAUL-ALEX                   ____      
+11.-  20079558  DIAZ/MOYA/ELIA-ANNIE                      ____      12.-  20053733  SUAREZ/CHANG/GLORIA                       ____      
+13.-  20056015  CARBAJAL/SALAS/MAGDA-ZKENIA               ____      14.-  20054732  URBINA/MEJIA/MAGDA-DIALY                  ____      
+15.-  20079996  CALDERON/ROSEMBERG/RHONY                  ____      16.-  20093211  AYALA/SHIRAKAWA/VICTORIA                  ____      
+============================================================================================================================================
+     Clave: DEE214                  Curso: Derecho Constitucional 1                         Número de alumnos: 16
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20127835  FIGUEROA/COLLADO/EVERT                    ____       2.-  20046056  MIRANDA/CHUMPITAZ/ALFONSO                 ____      
+ 3.-  20082229  HENRIQUEZ/DIAZ/SILVANA-DIANA              ____       4.-  20149327  PAIRAZAMAN/RAFFO/TATIANA-DELICIA          ____      
+ 5.-  20090658  PATINO/BOLANOS/DELICIA-VIRGINIA           ____       6.-  20103205  ARCA/SANCHEZ/MAGALI-BEATRIZ               ____      
+ 7.-  20072011  FARFAN/SALAZAR/MARGOT                     ____       8.-  20114913  WONG/MAEIREIZO/BEATRIZ                    ____      
+ 9.-  20040269  AYALA/CASTILLO/ERICKA-OFELIA              ____      10.-  20063978  LEYVA/LANDEO/NANCY-SONIA                  ____      
+11.-  20106168  MARTINEZ/CRUZ/EVERT-RONY                  ____      12.-  20143134  IPARRAGUIRRE/PEREZ/NICOLAS                ____      
+13.-  20155910  AVILA/DEL_CASTILLO/ANNIE                  ____      14.-  20132696  ZAMBRANO/MIRANDA/JUVENAL-MELVIN           ____      
+15.-  20076857  VILCA/ESPINO/INES                         ____      16.-  20061580  RODRIGUEZ/ARGUEDAS/ALFONSO                ____      
+============================================================================================================================================
+     Clave: DEE215                  Curso: Derecho Constitucional 2                         Número de alumnos: 17
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20107278  FALCON/PRECIADO/ALEX-HENRY                ____       2.-  20155258  VILLA/SEDANO/MARTIN-JUVENAL               ____      
+ 3.-  20114860  SOMA/PINTO/LOURDES-SONIA                  ____       4.-  20060051  ORTIZ/DURAND/RAUL                         ____      
+ 5.-  20092784  ESCALANTE/ROJAS/INES-ADRIA                ____       6.-  20090658  PATINO/BOLANOS/DELICIA-VIRGINIA           ____      
+ 7.-  20122354  CAMACHO/PAIRAZAMAN/YDALI-LUCERO           ____       8.-  20151285  PENA/SUAREZ/GLENDA-MARGOT                 ____      
+ 9.-  20087432  RIVERO/CORTEZ/WILVER-ALFONSO              ____      10.-  20097601  FUENTES/ESCALANTE/PATRICIA-ELIZABETH      ____      
+11.-  20062239  ZAMORA/ZAVALETA/RONAL-MANUEL              ____      12.-  20083398  JUSTINO/MARTINEZ/ENRIQUE                  ____      
+13.-  20046889  EPIQUEN/AVILA/ENRIQUE                     ____      14.-  20046546  QUIROGA/HERNANDEZ/SILVANA-ZKENIA          ____      
+15.-  20054732  URBINA/MEJIA/MAGDA-DIALY                  ____      16.-  20113401  TORREALBA/SALAS/DIANA-ANNIE               ____      
+17.-  20079996  CALDERON/ROSEMBERG/RHONY                  ____      
+============================================================================================================================================
+     Clave: DEL203                  Curso: Derecho Laboral General                          Número de alumnos: 13
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20127835  FIGUEROA/COLLADO/EVERT                    ____       2.-  20119351  SAKAGUCHI/MORI/CARLOS-RONAL               ____      
+ 3.-  20122354  CAMACHO/PAIRAZAMAN/YDALI-LUCERO           ____       4.-  20131357  DIAZ/TANG/ENRIQUE                         ____      
+ 5.-  20042021  RAFFO/CORONADO/ROLANDO                    ____       6.-  20055048  RIVERO/CORONADO/HECTOR-ALONSO             ____      
+ 7.-  20146634  LAU/ZAVALETA/YDALI-ELIA                   ____       8.-  20047985  ZEGARRA/PENA/CARMELA                      ____      
+ 9.-  20086004  CABRERA/TORO/FANNY                        ____      10.-  20040945  SUELDO/ANTEZANO/LUIS-JESUS                ____      
+11.-  20079996  CALDERON/ROSEMBERG/RHONY                  ____      12.-  20086512  DEL/POZO/JENNY-MAEIREIZO                  ____      
+13.-  20103519  TSUKAZAN/ORTEGA/VICTOR                    ____      
+============================================================================================================================================
+     Clave: DEL204                  Curso: Derecho Laboral Especial                         Número de alumnos: 19
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20135792  DIAZ/REYES/WALTER-EDGAR                   ____       2.-  20127835  FIGUEROA/COLLADO/EVERT                    ____      
+ 3.-  20082229  HENRIQUEZ/DIAZ/SILVANA-DIANA              ____       4.-  20089203  RAMIREZ/ASTETE/KARINA-ESTEFANIA           ____      
+ 5.-  20054931  HIJAR/LAM/MARTIN                          ____       6.-  20042021  RAFFO/CORONADO/ROLANDO                    ____      
+ 7.-  20155657  SAAVEDRA/GONZALES/WILMER                  ____       8.-  20067519  ASTETE/CHANG/GUIDA                        ____      
+ 9.-  20141332  SANCHEZ/DEL_CASTILLO/FIORELLA-ROSARIO     ____      10.-  20066681  CORTES/CORTEZ/RAUL-ALEX                   ____      
+11.-  20124163  DURAND/MIRANDA/MIGUEL-JUAN                ____      12.-  20063978  LEYVA/LANDEO/NANCY-SONIA                  ____      
+13.-  20062483  EPIQUEN/YEP/GUIDA-VICTORIA                ____      14.-  20063781  ROSEMBERG/ROSEMBERG/JAIR-ALONSO           ____      
+15.-  20095104  DIAZ/SERRANO/WALDEMAR                     ____      16.-  20049234  BOLANOS/CORREA/MARIBEL-FREYSA             ____      
+17.-  20141722  PINTO/SAAVEDRA/RAUL                       ____      18.-  20144988  INGA/LEYVA/RONY-ALEXANDER                 ____      
+19.-  20125297  HERNANDEZ/CONTRERAS/MELVIN-ALVARO         ____      
+============================================================================================================================================
+     Clave: DER202                  Curso: Sociologia del Derecho                           Número de alumnos: 13
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20107278  FALCON/PRECIADO/ALEX-HENRY                ____       2.-  20077682  LOZADA/AGUERO/ANTONIO-ELOY                ____      
+ 3.-  20049268  LOZADA/IBEROS/HELI-BLANCA                 ____       4.-  20086797  ARROYO/TOMASICHE/NATALIA                  ____      
+ 5.-  20106394  MORALES/PASQUEL/KARIN-MARIBEL             ____       6.-  20155657  SAAVEDRA/GONZALES/WILMER                  ____      
+ 7.-  20111288  RETAMOSO/SALAMANCA/DELIA-MARITZA          ____       8.-  20105269  INGA/PALOMARES/ERIKA                      ____      
+ 9.-  20075832  TRIGUEROS/PORTUGAL/ARTURO-FAUSTO          ____      10.-  20040858  ZAVALETA/CORONADO/FELICITA-ELOISA         ____      
+11.-  20071876  SOMA/MIRANDA/ELOISA                       ____      12.-  20093211  AYALA/SHIRAKAWA/VICTORIA                  ____      
+13.-  20117076  GAVIDIA/TORO/BLANCA                       ____      
+============================================================================================================================================
+     Clave: DER205                  Curso: Filosofia del Derecho                            Número de alumnos: 23
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20125340  DURAND/MEZA/WALDEMAR-EDGARD               ____       2.-  20043619  SUAREZ/MUNOZ/MADELEINE                    ____      
+ 3.-  20155258  VILLA/SEDANO/MARTIN-JUVENAL               ____       4.-  20054931  HIJAR/LAM/MARTIN                          ____      
+ 5.-  20057488  ALFARO/ALFARO/ERICK-BRUNO                 ____       6.-  20129380  BACA/CAMACHO/MILAGROS-NATALIA             ____      
+ 7.-  20156683  CERNA/CERNA/CINTHIA                       ____       8.-  20042021  RAFFO/CORONADO/ROLANDO                    ____      
+ 9.-  20072011  FARFAN/SALAZAR/MARGOT                     ____      10.-  20087754  SALAMANCA/VEGA/VIRGINIA-MARTHA            ____      
+11.-  20111288  RETAMOSO/SALAMANCA/DELIA-MARITZA          ____      12.-  20141332  SANCHEZ/DEL_CASTILLO/FIORELLA-ROSARIO     ____      
+13.-  20074873  FUENTES/GAMARRA/HUGO                      ____      14.-  20075891  SALAMANCA/CABRERA/NESTOR-EVERT            ____      
+15.-  20155910  AVILA/DEL_CASTILLO/ANNIE                  ____      16.-  20057294  FLORIAN/CUBA/CHRISTIAN                    ____      
+17.-  20056015  CARBAJAL/SALAS/MAGDA-ZKENIA               ____      18.-  20057166  CANO/POLO/MILAGROS-ISABEL                 ____      
+19.-  20063781  ROSEMBERG/ROSEMBERG/JAIR-ALONSO           ____      20.-  20095104  DIAZ/SERRANO/WALDEMAR                     ____      
+21.-  20117076  GAVIDIA/TORO/BLANCA                       ____      22.-  20071347  ARROYO/COLLADO/JESSICA-DELICIA            ____      
+23.-  20055637  LOYOLA/PEREZ/ALBERTO                      ____      
+============================================================================================================================================
+     Clave: DET211                  Curso: Legislacion Tributaria                           Número de alumnos: 14
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20077682  LOZADA/AGUERO/ANTONIO-ELOY                ____       2.-  20135268  ASMAD/CHAVEZ/ADRIA                        ____      
+ 3.-  20056663  PRADO/VERA/JUAN                           ____       4.-  20090658  PATINO/BOLANOS/DELICIA-VIRGINIA           ____      
+ 5.-  20041087  CHAVEZ/BERROCAL/JOHAN                     ____       6.-  20055659  MOSCOSO/LAURA/JANET-VALENTINA             ____      
+ 7.-  20067519  ASTETE/CHANG/GUIDA                        ____       8.-  20075891  SALAMANCA/CABRERA/NESTOR-EVERT            ____      
+ 9.-  20124809  MINAYA/BERROCAL/HELI                      ____      10.-  20144852  GORDILLO/SANCHEZ/RONALD-JUVENAL           ____      
+11.-  20086004  CABRERA/TORO/FANNY                        ____      12.-  20040945  SUELDO/ANTEZANO/LUIS-JESUS                ____      
+13.-  20080032  ESPINOZA/CHANG/SHIRLEY                    ____      14.-  20051425  VALVERDE/MERCADO/NESTOR-GUSTAVO           ____      
+============================================================================================================================================
+     Clave: FIS308                  Curso: Mecanica Cuantica 1                              Número de alumnos: 10
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20043619  SUAREZ/MUNOZ/MADELEINE                    ____       2.-  20067237  RONDON/CABRERA/ALEXANDER-ADOLFO           ____      
+ 3.-  20155910  AVILA/DEL_CASTILLO/ANNIE                  ____       4.-  20040945  SUELDO/ANTEZANO/LUIS-JESUS                ____      
+ 5.-  20141864  YEP/VALDERRAMA/ALVARO                     ____       6.-  20105132  BENITES/RAFFO/FIORELLA-ELEONOR            ____      
+ 7.-  20142092  RIOS/VILCA/SHIRLEY                        ____       8.-  20110152  CORREA/ROJAS/BEATRIZ                      ____      
+ 9.-  20132872  DELGADO/JUSTINO/TERESA                    ____      10.-  20055637  LOYOLA/PEREZ/ALBERTO                      ____      
+============================================================================================================================================
+     Clave: FIS309                  Curso: Mecanica Cuantica 2                              Número de alumnos: 15
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20069086  AYALA/VIZCARDO/EDGAR-MANUEL               ____       2.-  20046056  MIRANDA/CHUMPITAZ/ALFONSO                 ____      
+ 3.-  20114860  SOMA/PINTO/LOURDES-SONIA                  ____       4.-  20122859  CALIXTO/CASTILLO/ERICK-PAUL               ____      
+ 5.-  20082229  HENRIQUEZ/DIAZ/SILVANA-DIANA              ____       6.-  20122166  ESCALANTE/ESPINO/EMIGDIO-FRANCISCO        ____      
+ 7.-  20108660  JAUREGUI/DEL_CASTILLO/VICTOR-RICARDO      ____       8.-  20124234  NARVAEZ/CASTILLO/JESUS-RAFAEL             ____      
+ 9.-  20143134  IPARRAGUIRRE/PEREZ/NICOLAS                ____      10.-  20155910  AVILA/DEL_CASTILLO/ANNIE                  ____      
+11.-  20057294  FLORIAN/CUBA/CHRISTIAN                    ____      12.-  20159029  VILCA/LEE/NESTOR-HUGO                     ____      
+13.-  20041690  VILLA/TORO/RONAL-JAIME                    ____      14.-  20141722  PINTO/SAAVEDRA/RAUL                       ____      
+15.-  20043941  MORENO/VERGEL/GUILLERMO                   ____      
+============================================================================================================================================
+     Clave: FIS335                  Curso: Acustica                                         Número de alumnos: 17
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20080607  SALAS/URBINA/MAGDA-CARMEN                 ____       2.-  20065382  VILLEGAS/LEIVA/FELICITA                   ____      
+ 3.-  20046056  MIRANDA/CHUMPITAZ/ALFONSO                 ____       4.-  20064523  SERRANO/RAMIREZ/ARTURO-GUSTAVO            ____      
+ 5.-  20082229  HENRIQUEZ/DIAZ/SILVANA-DIANA              ____       6.-  20109606  DURAND/VALVERDE/ENRIQUE-JORGE             ____      
+ 7.-  20116369  FLORENCIO/CORONADO/ALONSO                 ____       8.-  20054931  HIJAR/LAM/MARTIN                          ____      
+ 9.-  20114913  WONG/MAEIREIZO/BEATRIZ                    ____      10.-  20099696  TOKESHI/GUEVARA/JAIME                     ____      
+11.-  20142181  RIOS/DURAND/CARLOS-EDILBERTO              ____      12.-  20066681  CORTES/CORTEZ/RAUL-ALEX                   ____      
+13.-  20122240  YEP/PRECIADO/RICHARD                      ____      14.-  20057294  FLORIAN/CUBA/CHRISTIAN                    ____      
+15.-  20057166  CANO/POLO/MILAGROS-ISABEL                 ____      16.-  20049234  BOLANOS/CORREA/MARIBEL-FREYSA             ____      
+17.-  20103519  TSUKAZAN/ORTEGA/VICTOR                    ____      
+============================================================================================================================================
+     Clave: FIS338                  Curso: Seminario de Fisica                              Número de alumnos: 11
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20143595  SUCHERO/EPIQUEN/EDGAR-JAVIER              ____       2.-  20046056  MIRANDA/CHUMPITAZ/ALFONSO                 ____      
+ 3.-  20106102  SOLIS/CHUNG/ROLANDO                       ____       4.-  20097753  SEDANO/RETAMOSO/ELIA-YOLANDA              ____      
+ 5.-  20057488  ALFARO/ALFARO/ERICK-BRUNO                 ____       6.-  20144266  TANG/MOSCOSO/JOHANA                       ____      
+ 7.-  20075891  SALAMANCA/CABRERA/NESTOR-EVERT            ____       8.-  20122240  YEP/PRECIADO/RICHARD                      ____      
+ 9.-  20041690  VILLA/TORO/RONAL-JAIME                    ____      10.-  20132497  WONG/SUELDO/RICHARD                       ____      
+11.-  20063462  PASQUEL/AGUERO/LUIS-MELVIN                ____      
+============================================================================================================================================
+     Clave: FIS366                  Curso: Electroacustica                                  Número de alumnos: 19
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20080607  SALAS/URBINA/MAGDA-CARMEN                 ____       2.-  20075062  BARRERA/MIRANDA/ALEXANDER-MARTIN          ____      
+ 3.-  20120085  GUEVARA/MIYAKE/MILENA                     ____       4.-  20108660  JAUREGUI/DEL_CASTILLO/VICTOR-RICARDO      ____      
+ 5.-  20066147  ZARATE/PEREZ/ALEXANDER                    ____       6.-  20057488  ALFARO/ALFARO/ERICK-BRUNO                 ____      
+ 7.-  20083658  AVILA/REYES/TATIANA                       ____       8.-  20082348  VILCARA/YALLICO/MAGALI                    ____      
+ 9.-  20074873  FUENTES/GAMARRA/HUGO                      ____      10.-  20079558  DIAZ/MOYA/ELIA-ANNIE                      ____      
+11.-  20075891  SALAMANCA/CABRERA/NESTOR-EVERT            ____      12.-  20067237  RONDON/CABRERA/ALEXANDER-ADOLFO           ____      
+13.-  20040945  SUELDO/ANTEZANO/LUIS-JESUS                ____      14.-  20046546  QUIROGA/HERNANDEZ/SILVANA-ZKENIA          ____      
+15.-  20111439  SINCHE/PRECIADO/MARTHA                    ____      16.-  20079996  CALDERON/ROSEMBERG/RHONY                  ____      
+17.-  20142092  RIOS/VILCA/SHIRLEY                        ____      18.-  20043332  ZAMBRANO/TORRES/MOISES-GUILLERMO          ____      
+19.-  20048451  BOLANOS/SANTISTEBAN/MARINA-GUIDA          ____      
+============================================================================================================================================
+     Clave: IEE203                  Curso: Circuitos Analogicos                             Número de alumnos: 16
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20156713  FARFAN/FALCON/ELIZABETH-KARIN             ____       2.-  20116369  FLORENCIO/CORONADO/ALONSO                 ____      
+ 3.-  20071255  ARCA/LARRIEGA/LUCERO-YLIANA               ____       4.-  20135048  VEGA/VILCARA/CARMELA-TERESA               ____      
+ 5.-  20097601  FUENTES/ESCALANTE/PATRICIA-ELIZABETH      ____       6.-  20062703  INFANTES/MERCADO/LUIS-WALDEMAR            ____      
+ 7.-  20057294  FLORIAN/CUBA/CHRISTIAN                    ____       8.-  20139358  CASTILLO/NARVAEZ/ELOISA-SILVANA           ____      
+ 9.-  20105132  BENITES/RAFFO/FIORELLA-ELEONOR            ____      10.-  20132497  WONG/SUELDO/RICHARD                       ____      
+11.-  20142092  RIOS/VILCA/SHIRLEY                        ____      12.-  20049234  BOLANOS/CORREA/MARIBEL-FREYSA             ____      
+13.-  20076857  VILCA/ESPINO/INES                         ____      14.-  20040489  ARANA/CALDERON/MILAGROS                   ____      
+15.-  20061580  RODRIGUEZ/ARGUEDAS/ALFONSO                ____      16.-  20070991  CONTRERAS/EGUSQUIZA/AMARU-ALONSO          ____      
+============================================================================================================================================
+     Clave: IEE212                  Curso: Circuitos Electricos 2                           Número de alumnos: 17
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20085379  ASTETE/RIOS/CESAR-WILVER                  ____       2.-  20107278  FALCON/PRECIADO/ALEX-HENRY                ____      
+ 3.-  20069086  AYALA/VIZCARDO/EDGAR-MANUEL               ____       4.-  20114860  SOMA/PINTO/LOURDES-SONIA                  ____      
+ 5.-  20122125  LOZADA/ARGUEDAS/FELICITA-VALENTINA        ____       6.-  20040831  SUELDO/SEDANO/ADRIA                       ____      
+ 7.-  20156683  CERNA/CERNA/CINTHIA                       ____       8.-  20155657  SAAVEDRA/GONZALES/WILMER                  ____      
+ 9.-  20062239  ZAMORA/ZAVALETA/RONAL-MANUEL              ____      10.-  20111288  RETAMOSO/SALAMANCA/DELIA-MARITZA          ____      
+11.-  20083658  AVILA/REYES/TATIANA                       ____      12.-  20141332  SANCHEZ/DEL_CASTILLO/FIORELLA-ROSARIO     ____      
+13.-  20122240  YEP/PRECIADO/RICHARD                      ____      14.-  20124809  MINAYA/BERROCAL/HELI                      ____      
+15.-  20086004  CABRERA/TORO/FANNY                        ____      16.-  20095104  DIAZ/SERRANO/WALDEMAR                     ____      
+17.-  20132696  ZAMBRANO/MIRANDA/JUVENAL-MELVIN           ____      
+============================================================================================================================================
+     Clave: IEE213                  Curso: Dibujo Electrotecnico                            Número de alumnos: 20
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20065927  SEGURA/MALCA/RONY                         ____       2.-  20142807  SUELDO/RUIZ/ANTONIO                       ____      
+ 3.-  20081057  URBINA/CASTILLO/HELI                      ____       4.-  20125340  DURAND/MEZA/WALDEMAR-EDGARD               ____      
+ 5.-  20072765  DE_LA_HAZA/CABRERA/ALBERTO                ____       6.-  20138915  ROSEMBERG/LAU/JULIO-HENRRY                ____      
+ 7.-  20122125  LOZADA/ARGUEDAS/FELICITA-VALENTINA        ____       8.-  20056663  PRADO/VERA/JUAN                           ____      
+ 9.-  20101701  LEE/SERRANO/ROSARIO                       ____      10.-  20099696  TOKESHI/GUEVARA/JAIME                     ____      
+11.-  20075891  SALAMANCA/CABRERA/NESTOR-EVERT            ____      12.-  20067237  RONDON/CABRERA/ALEXANDER-ADOLFO           ____      
+13.-  20143134  IPARRAGUIRRE/PEREZ/NICOLAS                ____      14.-  20053733  SUAREZ/CHANG/GLORIA                       ____      
+15.-  20112281  CUEVA/FUENTES/CINTHIA-DELIA               ____      16.-  20108314  NORABUENA/MOYA/HECTOR                     ____      
+17.-  20056015  CARBAJAL/SALAS/MAGDA-ZKENIA               ____      18.-  20071347  ARROYO/COLLADO/JESSICA-DELICIA            ____      
+19.-  20142523  URBINA/MOYA/ISRAEL-OSCAR                  ____      20.-  20055637  LOYOLA/PEREZ/ALBERTO                      ____      
+============================================================================================================================================
+     Clave: IEE217                  Curso: Sistemas Electricos                              Número de alumnos: 17
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20138915  ROSEMBERG/LAU/JULIO-HENRRY                ____       2.-  20042724  VARGAS/ALAMO/DANIEL                       ____      
+ 3.-  20050432  MERCADO/CORONEL/ELIA                      ____       4.-  20041087  CHAVEZ/BERROCAL/JOHAN                     ____      
+ 5.-  20131253  RIOS/ZAMORA/INES                          ____       6.-  20059675  LEYVA/SAM/DIANA-DELIA                     ____      
+ 7.-  20106394  MORALES/PASQUEL/KARIN-MARIBEL             ____       8.-  20155657  SAAVEDRA/GONZALES/WILMER                  ____      
+ 9.-  20099696  TOKESHI/GUEVARA/JAIME                     ____      10.-  20083658  AVILA/REYES/TATIANA                       ____      
+11.-  20047985  ZEGARRA/PENA/CARMELA                      ____      12.-  20096326  MENDOZA/ROMERO/VIRGINIA-YDALI             ____      
+13.-  20113401  TORREALBA/SALAS/DIANA-ANNIE               ____      14.-  20069680  ROMERO/RAFFO/JENNY-SILVIA                 ____      
+15.-  20132696  ZAMBRANO/MIRANDA/JUVENAL-MELVIN           ____      16.-  20142092  RIOS/VILCA/SHIRLEY                        ____      
+17.-  20055637  LOYOLA/PEREZ/ALBERTO                      ____      
+============================================================================================================================================
+     Clave: IEE313                  Curso: Microelectronica                                 Número de alumnos: 22
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20065382  VILLEGAS/LEIVA/FELICITA                   ____       2.-  20138915  ROSEMBERG/LAU/JULIO-HENRRY                ____      
+ 3.-  20042724  VARGAS/ALAMO/DANIEL                       ____       4.-  20116369  FLORENCIO/CORONADO/ALONSO                 ____      
+ 5.-  20126555  TRIGUEROS/JUGO/LUZ                        ____       6.-  20050577  MOSCOSO/ARIAS/FIORELLA                    ____      
+ 7.-  20101183  CONTRERAS/CHANG/JOHANA-CINTHIA            ____       8.-  20054931  HIJAR/LAM/MARTIN                          ____      
+ 9.-  20097753  SEDANO/RETAMOSO/ELIA-YOLANDA              ____      10.-  20057488  ALFARO/ALFARO/ERICK-BRUNO                 ____      
+11.-  20059675  LEYVA/SAM/DIANA-DELIA                     ____      12.-  20111288  RETAMOSO/SALAMANCA/DELIA-MARITZA          ____      
+13.-  20055048  RIVERO/CORONADO/HECTOR-ALONSO             ____      14.-  20089674  RUIZ/ZEVALLOS/WALTER-RONY                 ____      
+15.-  20046889  EPIQUEN/AVILA/ENRIQUE                     ____      16.-  20067237  RONDON/CABRERA/ALEXANDER-ADOLFO           ____      
+17.-  20142300  AVILA/MARTEL/JAIME-MANUEL                 ____      18.-  20116047  VIZCARRA/MONTERO/JAIR                     ____      
+19.-  20144852  GORDILLO/SANCHEZ/RONALD-JUVENAL           ____      20.-  20113401  TORREALBA/SALAS/DIANA-ANNIE               ____      
+21.-  20093211  AYALA/SHIRAKAWA/VICTORIA                  ____      22.-  20049234  BOLANOS/CORREA/MARIBEL-FREYSA             ____      
+============================================================================================================================================
+     Clave: IEE331                  Curso: Diseno de Redes de Computadoras                  Número de alumnos: 20
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20054935  CHUMPITAZ/ALCOCER/ANGEL-ERICK             ____       2.-  20136871  JUSTINO/NORABUENA/VIRGINIA-KARINA         ____      
+ 3.-  20098819  BRAVO/CORTES/JANET-FLOR                   ____       4.-  20093768  VEGA/SORIA/HENRRY                         ____      
+ 5.-  20131357  DIAZ/TANG/ENRIQUE                         ____       6.-  20054931  HIJAR/LAM/MARTIN                          ____      
+ 7.-  20129380  BACA/CAMACHO/MILAGROS-NATALIA             ____       8.-  20072011  FARFAN/SALAZAR/MARGOT                     ____      
+ 9.-  20083398  JUSTINO/MARTINEZ/ENRIQUE                  ____      10.-  20142181  RIOS/DURAND/CARLOS-EDILBERTO              ____      
+11.-  20105269  INGA/PALOMARES/ERIKA                      ____      12.-  20096326  MENDOZA/ROMERO/VIRGINIA-YDALI             ____      
+13.-  20122240  YEP/PRECIADO/RICHARD                      ____      14.-  20108314  NORABUENA/MOYA/HECTOR                     ____      
+15.-  20057166  CANO/POLO/MILAGROS-ISABEL                 ____      16.-  20159029  VILCA/LEE/NESTOR-HUGO                     ____      
+17.-  20113401  TORREALBA/SALAS/DIANA-ANNIE               ____      18.-  20068503  RIOS/ARROYO/RAUL-ENRIQUE                  ____      
+19.-  20141722  PINTO/SAAVEDRA/RAUL                       ____      20.-  20076857  VILCA/ESPINO/INES                         ____      
+============================================================================================================================================
+     Clave: IEE332                  Curso: Laboratorio de Redes de Computadoras             Número de alumnos: 12
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20075260  MONTERO/MONTERO/ANNIE                     ____       2.-  20072765  DE_LA_HAZA/CABRERA/ALBERTO                ____      
+ 3.-  20089309  SINCHE/RIVERO/YVONNE-SILVANA              ____       4.-  20054931  HIJAR/LAM/MARTIN                          ____      
+ 5.-  20103205  ARCA/SANCHEZ/MAGALI-BEATRIZ               ____       6.-  20101701  LEE/SERRANO/ROSARIO                       ____      
+ 7.-  20083398  JUSTINO/MARTINEZ/ENRIQUE                  ____       8.-  20066681  CORTES/CORTEZ/RAUL-ALEX                   ____      
+ 9.-  20067237  RONDON/CABRERA/ALEXANDER-ADOLFO           ____      10.-  20040945  SUELDO/ANTEZANO/LUIS-JESUS                ____      
+11.-  20063781  ROSEMBERG/ROSEMBERG/JAIR-ALONSO           ____      12.-  20111439  SINCHE/PRECIADO/MARTHA                    ____      
+============================================================================================================================================
+     Clave: IEE341                  Curso: Propagacion y Radiacion Electromagnetica         Número de alumnos: 18
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20143595  SUCHERO/EPIQUEN/EDGAR-JAVIER              ____       2.-  20135268  ASMAD/CHAVEZ/ADRIA                        ____      
+ 3.-  20101183  CONTRERAS/CHANG/JOHANA-CINTHIA            ____       4.-  20086797  ARROYO/TOMASICHE/NATALIA                  ____      
+ 5.-  20124234  NARVAEZ/CASTILLO/JESUS-RAFAEL             ____       6.-  20122354  CAMACHO/PAIRAZAMAN/YDALI-LUCERO           ____      
+ 7.-  20066147  ZARATE/PEREZ/ALEXANDER                    ____       8.-  20131253  RIOS/ZAMORA/INES                          ____      
+ 9.-  20071255  ARCA/LARRIEGA/LUCERO-YLIANA               ____      10.-  20061004  FLORIAN/VALDERRAMA/JOSE                   ____      
+11.-  20143134  IPARRAGUIRRE/PEREZ/NICOLAS                ____      12.-  20098298  VIZCARRA/CARBAJAL/IVAN-FAUSTO             ____      
+13.-  20124809  MINAYA/BERROCAL/HELI                      ____      14.-  20144852  GORDILLO/SANCHEZ/RONALD-JUVENAL           ____      
+15.-  20040858  ZAVALETA/CORONADO/FELICITA-ELOISA         ____      16.-  20159029  VILCA/LEE/NESTOR-HUGO                     ____      
+17.-  20046546  QUIROGA/HERNANDEZ/SILVANA-ZKENIA          ____      18.-  20139358  CASTILLO/NARVAEZ/ELOISA-SILVANA           ____      
+============================================================================================================================================
+     Clave: IEE351                  Curso: Temas de Ingenieria Electronica                  Número de alumnos: 14
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20075062  BARRERA/MIRANDA/ALEXANDER-MARTIN          ____       2.-  20073586  EGUSQUIZA/BERROCAL/DORIS-NANCY            ____      
+ 3.-  20155919  VALVERDE/MAEIREIZO/MELVIN-JAIR            ____       4.-  20122125  LOZADA/ARGUEDAS/FELICITA-VALENTINA        ____      
+ 5.-  20139452  RODRIGUEZ/MORENO/BLANCA-OFELIA            ____       6.-  20054931  HIJAR/LAM/MARTIN                          ____      
+ 7.-  20057488  ALFARO/ALFARO/ERICK-BRUNO                 ____       8.-  20144266  TANG/MOSCOSO/JOHANA                       ____      
+ 9.-  20135758  FIGUEROA/MEDINA/MADELEINE                 ____      10.-  20128058  HENRIQUEZ/PAREDES/PAUL-RAFAEL             ____      
+11.-  20124809  MINAYA/BERROCAL/HELI                      ____      12.-  20040858  ZAVALETA/CORONADO/FELICITA-ELOISA         ____      
+13.-  20142092  RIOS/VILCA/SHIRLEY                        ____      14.-  20048451  BOLANOS/SANTISTEBAN/MARINA-GUIDA          ____      
+============================================================================================================================================
+     Clave: IND213                  Curso: Ingenieria de Plantas                            Número de alumnos: 12
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20065382  VILLEGAS/LEIVA/FELICITA                   ____       2.-  20043496  CHUMPITAZ/PALOMARES/VIRGINIA              ____      
+ 3.-  20111117  SUAREZ/MORALES/AMARU                      ____       4.-  20119351  SAKAGUCHI/MORI/CARLOS-RONAL               ____      
+ 5.-  20155919  VALVERDE/MAEIREIZO/MELVIN-JAIR            ____       6.-  20066147  ZARATE/PEREZ/ALEXANDER                    ____      
+ 7.-  20076692  HERNANDEZ/CORRALES/GUILLERMO              ____       8.-  20099696  TOKESHI/GUEVARA/JAIME                     ____      
+ 9.-  20107815  SERRANO/IBEROS/FRANCISCO                  ____      10.-  20040858  ZAVALETA/CORONADO/FELICITA-ELOISA         ____      
+11.-  20113401  TORREALBA/SALAS/DIANA-ANNIE               ____      12.-  20132497  WONG/SUELDO/RICHARD                       ____      
+============================================================================================================================================
+     Clave: IND221                  Curso: Automatizacion Industrial                        Número de alumnos: 18
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20043496  CHUMPITAZ/PALOMARES/VIRGINIA              ____       2.-  20120085  GUEVARA/MIYAKE/MILENA                     ____      
+ 3.-  20098819  BRAVO/CORTES/JANET-FLOR                   ____       4.-  20050432  MERCADO/CORONEL/ELIA                      ____      
+ 5.-  20122354  CAMACHO/PAIRAZAMAN/YDALI-LUCERO           ____       6.-  20139452  RODRIGUEZ/MORENO/BLANCA-OFELIA            ____      
+ 7.-  20131357  DIAZ/TANG/ENRIQUE                         ____       8.-  20151285  PENA/SUAREZ/GLENDA-MARGOT                 ____      
+ 9.-  20059675  LEYVA/SAM/DIANA-DELIA                     ____      10.-  20072011  FARFAN/SALAZAR/MARGOT                     ____      
+11.-  20040269  AYALA/CASTILLO/ERICKA-OFELIA              ____      12.-  20083398  JUSTINO/MARTINEZ/ENRIQUE                  ____      
+13.-  20080032  ESPINOZA/CHANG/SHIRLEY                    ____      14.-  20082399  ZUNIGA/ROSEMBERG/REBECA                   ____      
+15.-  20069680  ROMERO/RAFFO/JENNY-SILVIA                 ____      16.-  20117076  GAVIDIA/TORO/BLANCA                       ____      
+17.-  20048451  BOLANOS/SANTISTEBAN/MARINA-GUIDA          ____      18.-  20120839  SALAZAR/PAIRAZAMAN/ANNIE-EVELING          ____      
+============================================================================================================================================
+     Clave: IND350                  Curso: Plan de Negocios                                 Número de alumnos:  7
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20143595  SUCHERO/EPIQUEN/EDGAR-JAVIER              ____       2.-  20111117  SUAREZ/MORALES/AMARU                      ____      
+ 3.-  20066681  CORTES/CORTEZ/RAUL-ALEX                   ____       4.-  20062483  EPIQUEN/YEP/GUIDA-VICTORIA                ____      
+ 5.-  20068503  RIOS/ARROYO/RAUL-ENRIQUE                  ____       6.-  20068763  NARVAEZ/PEREZ/EVELING                     ____      
+ 7.-  20144988  INGA/LEYVA/RONY-ALEXANDER                 ____      
+============================================================================================================================================
+     Clave: IND352                  Curso: Procesos de Decision                             Número de alumnos: 12
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20060051  ORTIZ/DURAND/RAUL                         ____       2.-  20109606  DURAND/VALVERDE/ENRIQUE-JORGE             ____      
+ 3.-  20122166  ESCALANTE/ESPINO/EMIGDIO-FRANCISCO        ____       4.-  20089203  RAMIREZ/ASTETE/KARINA-ESTEFANIA           ____      
+ 5.-  20101183  CONTRERAS/CHANG/JOHANA-CINTHIA            ____       6.-  20055659  MOSCOSO/LAURA/JANET-VALENTINA             ____      
+ 7.-  20040269  AYALA/CASTILLO/ERICKA-OFELIA              ____       8.-  20046889  EPIQUEN/AVILA/ENRIQUE                     ____      
+ 9.-  20053733  SUAREZ/CHANG/GLORIA                       ____      10.-  20155910  AVILA/DEL_CASTILLO/ANNIE                  ____      
+11.-  20107815  SERRANO/IBEROS/FRANCISCO                  ____      12.-  20080032  ESPINOZA/CHANG/SHIRLEY                    ____      
+============================================================================================================================================
+     Clave: IND361                  Curso: Gestion de Recursos Humanos                      Número de alumnos: 22
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20135792  DIAZ/REYES/WALTER-EDGAR                   ____       2.-  20122166  ESCALANTE/ESPINO/EMIGDIO-FRANCISCO        ____      
+ 3.-  20089203  RAMIREZ/ASTETE/KARINA-ESTEFANIA           ____       4.-  20066147  ZARATE/PEREZ/ALEXANDER                    ____      
+ 5.-  20131357  DIAZ/TANG/ENRIQUE                         ____       6.-  20087432  RIVERO/CORTEZ/WILVER-ALFONSO              ____      
+ 7.-  20070116  PINTO/ROJAS/JUVENAL-FRANCISCO             ____       8.-  20141332  SANCHEZ/DEL_CASTILLO/FIORELLA-ROSARIO     ____      
+ 9.-  20075832  TRIGUEROS/PORTUGAL/ARTURO-FAUSTO          ____      10.-  20075891  SALAMANCA/CABRERA/NESTOR-EVERT            ____      
+11.-  20067237  RONDON/CABRERA/ALEXANDER-ADOLFO           ____      12.-  20062483  EPIQUEN/YEP/GUIDA-VICTORIA                ____      
+13.-  20108314  NORABUENA/MOYA/HECTOR                     ____      14.-  20133005  CASANOVA/ZEGARRA/MARITZA                  ____      
+15.-  20107815  SERRANO/IBEROS/FRANCISCO                  ____      16.-  20040858  ZAVALETA/CORONADO/FELICITA-ELOISA         ____      
+17.-  20111439  SINCHE/PRECIADO/MARTHA                    ____      18.-  20059096  MIRANDA/RODRIGUEZ/JAVIER                  ____      
+19.-  20086512  DEL/POZO/JENNY-MAEIREIZO                  ____      20.-  20049234  BOLANOS/CORREA/MARIBEL-FREYSA             ____      
+21.-  20144988  INGA/LEYVA/RONY-ALEXANDER                 ____      22.-  20070991  CONTRERAS/EGUSQUIZA/AMARU-ALONSO          ____      
+============================================================================================================================================
+     Clave: IND362                  Curso: Mantenimiento Industrial                         Número de alumnos: 12
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20075062  BARRERA/MIRANDA/ALEXANDER-MARTIN          ____       2.-  20046056  MIRANDA/CHUMPITAZ/ALFONSO                 ____      
+ 3.-  20122859  CALIXTO/CASTILLO/ERICK-PAUL               ____       4.-  20119351  SAKAGUCHI/MORI/CARLOS-RONAL               ____      
+ 5.-  20116369  FLORENCIO/CORONADO/ALONSO                 ____       6.-  20050577  MOSCOSO/ARIAS/FIORELLA                    ____      
+ 7.-  20097601  FUENTES/ESCALANTE/PATRICIA-ELIZABETH      ____       8.-  20059675  LEYVA/SAM/DIANA-DELIA                     ____      
+ 9.-  20047985  ZEGARRA/PENA/CARMELA                      ____      10.-  20111192  MEJIA/RODRIGUEZ/INES-VALENTINA            ____      
+11.-  20130239  POMAJAMBO/EGUSQUIZA/PAUL                  ____      12.-  20111439  SINCHE/PRECIADO/MARTHA                    ____      
+============================================================================================================================================
+     Clave: IND374                  Curso: Temas de Investigacion de Operaciones            Número de alumnos: 17
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20135268  ASMAD/CHAVEZ/ADRIA                        ____       2.-  20056663  PRADO/VERA/JUAN                           ____      
+ 3.-  20112553  LOZADA/FORZANI/DELIA                      ____       4.-  20111288  RETAMOSO/SALAMANCA/DELIA-MARITZA          ____      
+ 5.-  20047985  ZEGARRA/PENA/CARMELA                      ____       6.-  20061004  FLORIAN/VALDERRAMA/JOSE                   ____      
+ 7.-  20105269  INGA/PALOMARES/ERIKA                      ____       8.-  20111192  MEJIA/RODRIGUEZ/INES-VALENTINA            ____      
+ 9.-  20155910  AVILA/DEL_CASTILLO/ANNIE                  ____      10.-  20130239  POMAJAMBO/EGUSQUIZA/PAUL                  ____      
+11.-  20094460  GAMARRA/GAVIDIA/FAUSTO-EMIGDIO            ____      12.-  20059096  MIRANDA/RODRIGUEZ/JAVIER                  ____      
+13.-  20103519  TSUKAZAN/ORTEGA/VICTOR                    ____      14.-  20043332  ZAMBRANO/TORRES/MOISES-GUILLERMO          ____      
+15.-  20117871  MARTINEZ/AQUINO/YVONNE                    ____      16.-  20125297  HERNANDEZ/CONTRERAS/MELVIN-ALVARO         ____      
+17.-  20070991  CONTRERAS/EGUSQUIZA/AMARU-ALONSO          ____      
+============================================================================================================================================
+     Clave: IND375                  Curso: Temas de Gestion                                 Número de alumnos: 20
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20125340  DURAND/MEZA/WALDEMAR-EDGARD               ____       2.-  20065382  VILLEGAS/LEIVA/FELICITA                   ____      
+ 3.-  20043496  CHUMPITAZ/PALOMARES/VIRGINIA              ____       4.-  20120085  GUEVARA/MIYAKE/MILENA                     ____      
+ 5.-  20064523  SERRANO/RAMIREZ/ARTURO-GUSTAVO            ____       6.-  20119351  SAKAGUCHI/MORI/CARLOS-RONAL               ____      
+ 7.-  20089309  SINCHE/RIVERO/YVONNE-SILVANA              ____       8.-  20124234  NARVAEZ/CASTILLO/JESUS-RAFAEL             ____      
+ 9.-  20151285  PENA/SUAREZ/GLENDA-MARGOT                 ____      10.-  20055048  RIVERO/CORONADO/HECTOR-ALONSO             ____      
+11.-  20070116  PINTO/ROJAS/JUVENAL-FRANCISCO             ____      12.-  20062483  EPIQUEN/YEP/GUIDA-VICTORIA                ____      
+13.-  20098298  VIZCARRA/CARBAJAL/IVAN-FAUSTO             ____      14.-  20057294  FLORIAN/CUBA/CHRISTIAN                    ____      
+15.-  20105132  BENITES/RAFFO/FIORELLA-ELEONOR            ____      16.-  20071876  SOMA/MIRANDA/ELOISA                       ____      
+17.-  20043332  ZAMBRANO/TORRES/MOISES-GUILLERMO          ____      18.-  20142523  URBINA/MOYA/ISRAEL-OSCAR                  ____      
+19.-  20117871  MARTINEZ/AQUINO/YVONNE                    ____      20.-  20144988  INGA/LEYVA/RONY-ALEXANDER                 ____      
+============================================================================================================================================
+     Clave: IND376                  Curso: Temas de Operaciones                             Número de alumnos:  9
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20065382  VILLEGAS/LEIVA/FELICITA                   ____       2.-  20122859  CALIXTO/CASTILLO/ERICK-PAUL               ____      
+ 3.-  20122166  ESCALANTE/ESPINO/EMIGDIO-FRANCISCO        ____       4.-  20042021  RAFFO/CORONADO/ROLANDO                    ____      
+ 5.-  20083658  AVILA/REYES/TATIANA                       ____       6.-  20070116  PINTO/ROJAS/JUVENAL-FRANCISCO             ____      
+ 7.-  20067519  ASTETE/CHANG/GUIDA                        ____       8.-  20040858  ZAVALETA/CORONADO/FELICITA-ELOISA         ____      
+ 9.-  20105132  BENITES/RAFFO/FIORELLA-ELEONOR            ____      
+============================================================================================================================================
+     Clave: INF227                  Curso: Desarrollo de Programas 2                        Número de alumnos: 12
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20082229  HENRIQUEZ/DIAZ/SILVANA-DIANA              ____       2.-  20136871  JUSTINO/NORABUENA/VIRGINIA-KARINA         ____      
+ 3.-  20089309  SINCHE/RIVERO/YVONNE-SILVANA              ____       4.-  20049268  LOZADA/IBEROS/HELI-BLANCA                 ____      
+ 5.-  20050577  MOSCOSO/ARIAS/FIORELLA                    ____       6.-  20151285  PENA/SUAREZ/GLENDA-MARGOT                 ____      
+ 7.-  20079558  DIAZ/MOYA/ELIA-ANNIE                      ____       8.-  20124809  MINAYA/BERROCAL/HELI                      ____      
+ 9.-  20139358  CASTILLO/NARVAEZ/ELOISA-SILVANA           ____      10.-  20051425  VALVERDE/MERCADO/NESTOR-GUSTAVO           ____      
+11.-  20043332  ZAMBRANO/TORRES/MOISES-GUILLERMO          ____      12.-  20043941  MORENO/VERGEL/GUILLERMO                   ____      
+============================================================================================================================================
+     Clave: INF239                  Curso: Sistemas Operativos                              Número de alumnos: 17
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20107278  FALCON/PRECIADO/ALEX-HENRY                ____       2.-  20080607  SALAS/URBINA/MAGDA-CARMEN                 ____      
+ 3.-  20075260  MONTERO/MONTERO/ANNIE                     ____       4.-  20077682  LOZADA/AGUERO/ANTONIO-ELOY                ____      
+ 5.-  20122166  ESCALANTE/ESPINO/EMIGDIO-FRANCISCO        ____       6.-  20135268  ASMAD/CHAVEZ/ADRIA                        ____      
+ 7.-  20056663  PRADO/VERA/JUAN                           ____       8.-  20086797  ARROYO/TOMASICHE/NATALIA                  ____      
+ 9.-  20057488  ALFARO/ALFARO/ERICK-BRUNO                 ____      10.-  20141332  SANCHEZ/DEL_CASTILLO/FIORELLA-ROSARIO     ____      
+11.-  20066681  CORTES/CORTEZ/RAUL-ALEX                   ____      12.-  20124163  DURAND/MIRANDA/MIGUEL-JUAN                ____      
+13.-  20062483  EPIQUEN/YEP/GUIDA-VICTORIA                ____      14.-  20159029  VILCA/LEE/NESTOR-HUGO                     ____      
+15.-  20041690  VILLA/TORO/RONAL-JAIME                    ____      16.-  20062828  DELGADO/BENITES/JUVENAL                   ____      
+17.-  20117871  MARTINEZ/AQUINO/YVONNE                    ____      
+============================================================================================================================================
+     Clave: INF245                  Curso: Ingenieria de Software                           Número de alumnos: 21
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20135792  DIAZ/REYES/WALTER-EDGAR                   ____       2.-  20072765  DE_LA_HAZA/CABRERA/ALBERTO                ____      
+ 3.-  20120085  GUEVARA/MIYAKE/MILENA                     ____       4.-  20089309  SINCHE/RIVERO/YVONNE-SILVANA              ____      
+ 5.-  20073586  EGUSQUIZA/BERROCAL/DORIS-NANCY            ____       6.-  20139452  RODRIGUEZ/MORENO/BLANCA-OFELIA            ____      
+ 7.-  20040831  SUELDO/SEDANO/ADRIA                       ____       8.-  20071255  ARCA/LARRIEGA/LUCERO-YLIANA               ____      
+ 9.-  20076692  HERNANDEZ/CORRALES/GUILLERMO              ____      10.-  20072011  FARFAN/SALAZAR/MARGOT                     ____      
+11.-  20146634  LAU/ZAVALETA/YDALI-ELIA                   ____      12.-  20062483  EPIQUEN/YEP/GUIDA-VICTORIA                ____      
+13.-  20128058  HENRIQUEZ/PAREDES/PAUL-RAFAEL             ____      14.-  20144852  GORDILLO/SANCHEZ/RONALD-JUVENAL           ____      
+15.-  20107815  SERRANO/IBEROS/FRANCISCO                  ____      16.-  20086004  CABRERA/TORO/FANNY                        ____      
+17.-  20082399  ZUNIGA/ROSEMBERG/REBECA                   ____      18.-  20117076  GAVIDIA/TORO/BLANCA                       ____      
+19.-  20117871  MARTINEZ/AQUINO/YVONNE                    ____      20.-  20063462  PASQUEL/AGUERO/LUIS-MELVIN                ____      
+21.-  20068763  NARVAEZ/PEREZ/EVELING                     ____      
+============================================================================================================================================
+     Clave: INF248                  Curso: Sistemas de Informacion 1                        Número de alumnos: 17
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20054935  CHUMPITAZ/ALCOCER/ANGEL-ERICK             ____       2.-  20082229  HENRIQUEZ/DIAZ/SILVANA-DIANA              ____      
+ 3.-  20116369  FLORENCIO/CORONADO/ALONSO                 ____       4.-  20040831  SUELDO/SEDANO/ADRIA                       ____      
+ 5.-  20112281  CUEVA/FUENTES/CINTHIA-DELIA               ____       6.-  20128058  HENRIQUEZ/PAREDES/PAUL-RAFAEL             ____      
+ 7.-  20133005  CASANOVA/ZEGARRA/MARITZA                  ____       8.-  20040858  ZAVALETA/CORONADO/FELICITA-ELOISA         ____      
+ 9.-  20080032  ESPINOZA/CHANG/SHIRLEY                    ____      10.-  20139358  CASTILLO/NARVAEZ/ELOISA-SILVANA           ____      
+11.-  20054732  URBINA/MEJIA/MAGDA-DIALY                  ____      12.-  20041690  VILLA/TORO/RONAL-JAIME                    ____      
+13.-  20117076  GAVIDIA/TORO/BLANCA                       ____      14.-  20076857  VILCA/ESPINO/INES                         ____      
+15.-  20043941  MORENO/VERGEL/GUILLERMO                   ____      16.-  20055637  LOYOLA/PEREZ/ALBERTO                      ____      
+17.-  20070991  CONTRERAS/EGUSQUIZA/AMARU-ALONSO          ____      
+============================================================================================================================================
+     Clave: INF265                  Curso: Aplicaciones de Ciencias de la Computacion         Número de alumnos: 13
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20081057  URBINA/CASTILLO/HELI                      ____       2.-  20107278  FALCON/PRECIADO/ALEX-HENRY                ____      
+ 3.-  20049268  LOZADA/IBEROS/HELI-BLANCA                 ____       4.-  20106394  MORALES/PASQUEL/KARIN-MARIBEL             ____      
+ 5.-  20155657  SAAVEDRA/GONZALES/WILMER                  ____       6.-  20092823  ZAVALETA/VILCA/ERICKA-ELEONOR             ____      
+ 7.-  20111192  MEJIA/RODRIGUEZ/INES-VALENTINA            ____       8.-  20116047  VIZCARRA/MONTERO/JAIR                     ____      
+ 9.-  20098298  VIZCARRA/CARBAJAL/IVAN-FAUSTO             ____      10.-  20056015  CARBAJAL/SALAS/MAGDA-ZKENIA               ____      
+11.-  20107815  SERRANO/IBEROS/FRANCISCO                  ____      12.-  20079996  CALDERON/ROSEMBERG/RHONY                  ____      
+13.-  20132872  DELGADO/JUSTINO/TERESA                    ____      
+============================================================================================================================================
+     Clave: INF274                  Curso: Administracion de Sistemas Operativos            Número de alumnos: 15
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20073586  EGUSQUIZA/BERROCAL/DORIS-NANCY            ____       2.-  20063057  VIZCARDO/SINCHE/MARIBEL                   ____      
+ 3.-  20071255  ARCA/LARRIEGA/LUCERO-YLIANA               ____       4.-  20076692  HERNANDEZ/CORRALES/GUILLERMO              ____      
+ 5.-  20087432  RIVERO/CORTEZ/WILVER-ALFONSO              ____       6.-  20156683  CERNA/CERNA/CINTHIA                       ____      
+ 7.-  20055659  MOSCOSO/LAURA/JANET-VALENTINA             ____       8.-  20062703  INFANTES/MERCADO/LUIS-WALDEMAR            ____      
+ 9.-  20146634  LAU/ZAVALETA/YDALI-ELIA                   ____      10.-  20066681  CORTES/CORTEZ/RAUL-ALEX                   ____      
+11.-  20111192  MEJIA/RODRIGUEZ/INES-VALENTINA            ____      12.-  20107815  SERRANO/IBEROS/FRANCISCO                  ____      
+13.-  20110152  CORREA/ROJAS/BEATRIZ                      ____      14.-  20076857  VILCA/ESPINO/INES                         ____      
+15.-  20071347  ARROYO/COLLADO/JESSICA-DELICIA            ____      
+============================================================================================================================================
+     Clave: INF281                  Curso: Lenguaje de Programacion 1                       Número de alumnos: 22
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20143595  SUCHERO/EPIQUEN/EDGAR-JAVIER              ____       2.-  20142807  SUELDO/RUIZ/ANTONIO                       ____      
+ 3.-  20081057  URBINA/CASTILLO/HELI                      ____       4.-  20057917  ZAMBRANO/MOSCOSO/OFELIA-MARIA             ____      
+ 5.-  20114860  SOMA/PINTO/LOURDES-SONIA                  ____       6.-  20043212  SAM/YALLICO/INES                          ____      
+ 7.-  20092784  ESCALANTE/ROJAS/INES-ADRIA                ____       8.-  20086797  ARROYO/TOMASICHE/NATALIA                  ____      
+ 9.-  20135048  VEGA/VILCARA/CARMELA-TERESA               ____      10.-  20106394  MORALES/PASQUEL/KARIN-MARIBEL             ____      
+11.-  20135758  FIGUEROA/MEDINA/MADELEINE                 ____      12.-  20082348  VILCARA/YALLICO/MAGALI                    ____      
+13.-  20067519  ASTETE/CHANG/GUIDA                        ____      14.-  20105269  INGA/PALOMARES/ERIKA                      ____      
+15.-  20116047  VIZCARRA/MONTERO/JAIR                     ____      16.-  20128058  HENRIQUEZ/PAREDES/PAUL-RAFAEL             ____      
+17.-  20144852  GORDILLO/SANCHEZ/RONALD-JUVENAL           ____      18.-  20086004  CABRERA/TORO/FANNY                        ____      
+19.-  20063462  PASQUEL/AGUERO/LUIS-MELVIN                ____      20.-  20061580  RODRIGUEZ/ARGUEDAS/ALFONSO                ____      
+21.-  20144988  INGA/LEYVA/RONY-ALEXANDER                 ____      22.-  20125297  HERNANDEZ/CONTRERAS/MELVIN-ALVARO         ____      
+============================================================================================================================================
+     Clave: INF627                  Curso: Programacion en el Sistema UNIX                  Número de alumnos: 15
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20042194  LAU/BACA/MONICA-TERESA                    ____       2.-  20111117  SUAREZ/MORALES/AMARU                      ____      
+ 3.-  20136871  JUSTINO/NORABUENA/VIRGINIA-KARINA         ____       4.-  20116369  FLORENCIO/CORONADO/ALONSO                 ____      
+ 5.-  20090658  PATINO/BOLANOS/DELICIA-VIRGINIA           ____       6.-  20097753  SEDANO/RETAMOSO/ELIA-YOLANDA              ____      
+ 7.-  20087754  SALAMANCA/VEGA/VIRGINIA-MARTHA            ____       8.-  20110166  PRADO/ESPINOZA/MILAGROS                   ____      
+ 9.-  20139358  CASTILLO/NARVAEZ/ELOISA-SILVANA           ____      10.-  20054732  URBINA/MEJIA/MAGDA-DIALY                  ____      
+11.-  20041690  VILLA/TORO/RONAL-JAIME                    ____      12.-  20069680  ROMERO/RAFFO/JENNY-SILVIA                 ____      
+13.-  20142092  RIOS/VILCA/SHIRLEY                        ____      14.-  20068503  RIOS/ARROYO/RAUL-ENRIQUE                  ____      
+15.-  20048451  BOLANOS/SANTISTEBAN/MARINA-GUIDA          ____      
+============================================================================================================================================
+     Clave: INF630                  Curso: Base de Datos 2                                  Número de alumnos: 20
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20125340  DURAND/MEZA/WALDEMAR-EDGARD               ____       2.-  20075062  BARRERA/MIRANDA/ALEXANDER-MARTIN          ____      
+ 3.-  20072765  DE_LA_HAZA/CABRERA/ALBERTO                ____       4.-  20120085  GUEVARA/MIYAKE/MILENA                     ____      
+ 5.-  20109606  DURAND/VALVERDE/ENRIQUE-JORGE             ____       6.-  20106102  SOLIS/CHUNG/ROLANDO                       ____      
+ 7.-  20126555  TRIGUEROS/JUGO/LUZ                        ____       8.-  20063057  VIZCARDO/SINCHE/MARIBEL                   ____      
+ 9.-  20112553  LOZADA/FORZANI/DELIA                      ____      10.-  20076692  HERNANDEZ/CORRALES/GUILLERMO              ____      
+11.-  20105269  INGA/PALOMARES/ERIKA                      ____      12.-  20074873  FUENTES/GAMARRA/HUGO                      ____      
+13.-  20142300  AVILA/MARTEL/JAIME-MANUEL                 ____      14.-  20062483  EPIQUEN/YEP/GUIDA-VICTORIA                ____      
+15.-  20107815  SERRANO/IBEROS/FRANCISCO                  ____      16.-  20105132  BENITES/RAFFO/FIORELLA-ELEONOR            ____      
+17.-  20142092  RIOS/VILCA/SHIRLEY                        ____      18.-  20063462  PASQUEL/AGUERO/LUIS-MELVIN                ____      
+19.-  20144988  INGA/LEYVA/RONY-ALEXANDER                 ____      20.-  20070991  CONTRERAS/EGUSQUIZA/AMARU-ALONSO          ____      
+============================================================================================================================================
+     Clave: INF639                  Curso: Proceso de Construccion de Software 1            Número de alumnos: 21
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20085379  ASTETE/RIOS/CESAR-WILVER                  ____       2.-  20138915  ROSEMBERG/LAU/JULIO-HENRRY                ____      
+ 3.-  20057917  ZAMBRANO/MOSCOSO/OFELIA-MARIA             ____       4.-  20093768  VEGA/SORIA/HENRRY                         ____      
+ 5.-  20090658  PATINO/BOLANOS/DELICIA-VIRGINIA           ____       6.-  20086797  ARROYO/TOMASICHE/NATALIA                  ____      
+ 7.-  20135048  VEGA/VILCARA/CARMELA-TERESA               ____       8.-  20042021  RAFFO/CORONADO/ROLANDO                    ____      
+ 9.-  20141332  SANCHEZ/DEL_CASTILLO/FIORELLA-ROSARIO     ____      10.-  20079558  DIAZ/MOYA/ELIA-ANNIE                      ____      
+11.-  20155910  AVILA/DEL_CASTILLO/ANNIE                  ____      12.-  20098298  VIZCARRA/CARBAJAL/IVAN-FAUSTO             ____      
+13.-  20133005  CASANOVA/ZEGARRA/MARITZA                  ____      14.-  20130239  POMAJAMBO/EGUSQUIZA/PAUL                  ____      
+15.-  20043038  VALDERRAMA/BERROCAL/EVERT                 ____      16.-  20082399  ZUNIGA/ROSEMBERG/REBECA                   ____      
+17.-  20054732  URBINA/MEJIA/MAGDA-DIALY                  ____      18.-  20079996  CALDERON/ROSEMBERG/RHONY                  ____      
+19.-  20132696  ZAMBRANO/MIRANDA/JUVENAL-MELVIN           ____      20.-  20059096  MIRANDA/RODRIGUEZ/JAVIER                  ____      
+21.-  20051425  VALVERDE/MERCADO/NESTOR-GUSTAVO           ____      
+============================================================================================================================================
+     Clave: INF640                  Curso: Proceso de Construccion de Software 2            Número de alumnos: 19
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20065927  SEGURA/MALCA/RONY                         ____       2.-  20143595  SUCHERO/EPIQUEN/EDGAR-JAVIER              ____      
+ 3.-  20080607  SALAS/URBINA/MAGDA-CARMEN                 ____       4.-  20111117  SUAREZ/MORALES/AMARU                      ____      
+ 5.-  20109606  DURAND/VALVERDE/ENRIQUE-JORGE             ____       6.-  20136871  JUSTINO/NORABUENA/VIRGINIA-KARINA         ____      
+ 7.-  20066147  ZARATE/PEREZ/ALEXANDER                    ____       8.-  20071255  ARCA/LARRIEGA/LUCERO-YLIANA               ____      
+ 9.-  20135048  VEGA/VILCARA/CARMELA-TERESA               ____      10.-  20124163  DURAND/MIRANDA/MIGUEL-JUAN                ____      
+11.-  20079558  DIAZ/MOYA/ELIA-ANNIE                      ____      12.-  20133005  CASANOVA/ZEGARRA/MARITZA                  ____      
+13.-  20159029  VILCA/LEE/NESTOR-HUGO                     ____      14.-  20080032  ESPINOZA/CHANG/SHIRLEY                    ____      
+15.-  20063781  ROSEMBERG/ROSEMBERG/JAIR-ALONSO           ____      16.-  20117076  GAVIDIA/TORO/BLANCA                       ____      
+17.-  20071347  ARROYO/COLLADO/JESSICA-DELICIA            ____      18.-  20120839  SALAZAR/PAIRAZAMAN/ANNIE-EVELING          ____      
+19.-  20117871  MARTINEZ/AQUINO/YVONNE                    ____      
+============================================================================================================================================
+     Clave: ING301                  Curso: Manufactura Integrada por Computadora            Número de alumnos: 17
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20079075  MEREL/SALAZAR/ANNIE-LOURDES               ____       2.-  20120085  GUEVARA/MIYAKE/MILENA                     ____      
+ 3.-  20043212  SAM/YALLICO/INES                          ____       4.-  20089309  SINCHE/RIVERO/YVONNE-SILVANA              ____      
+ 5.-  20108660  JAUREGUI/DEL_CASTILLO/VICTOR-RICARDO      ____       6.-  20086797  ARROYO/TOMASICHE/NATALIA                  ____      
+ 7.-  20055659  MOSCOSO/LAURA/JANET-VALENTINA             ____       8.-  20062703  INFANTES/MERCADO/LUIS-WALDEMAR            ____      
+ 9.-  20040269  AYALA/CASTILLO/ERICKA-OFELIA              ____      10.-  20083658  AVILA/REYES/TATIANA                       ____      
+11.-  20063978  LEYVA/LANDEO/NANCY-SONIA                  ____      12.-  20106168  MARTINEZ/CRUZ/EVERT-RONY                  ____      
+13.-  20113401  TORREALBA/SALAS/DIANA-ANNIE               ____      14.-  20142092  RIOS/VILCA/SHIRLEY                        ____      
+15.-  20043332  ZAMBRANO/TORRES/MOISES-GUILLERMO          ____      16.-  20120839  SALAZAR/PAIRAZAMAN/ANNIE-EVELING          ____      
+17.-  20043941  MORENO/VERGEL/GUILLERMO                   ____      
+============================================================================================================================================
+     Clave: LIT201                  Curso: Literatura Medieval Espanola                     Número de alumnos: 24
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20085379  ASTETE/RIOS/CESAR-WILVER                  ____       2.-  20065382  VILLEGAS/LEIVA/FELICITA                   ____      
+ 3.-  20075062  BARRERA/MIRANDA/ALEXANDER-MARTIN          ____       4.-  20155919  VALVERDE/MAEIREIZO/MELVIN-JAIR            ____      
+ 5.-  20124234  NARVAEZ/CASTILLO/JESUS-RAFAEL             ____       6.-  20041087  CHAVEZ/BERROCAL/JOHAN                     ____      
+ 7.-  20097753  SEDANO/RETAMOSO/ELIA-YOLANDA              ____       8.-  20156683  CERNA/CERNA/CINTHIA                       ____      
+ 9.-  20114913  WONG/MAEIREIZO/BEATRIZ                    ____      10.-  20087754  SALAMANCA/VEGA/VIRGINIA-MARTHA            ____      
+11.-  20083658  AVILA/REYES/TATIANA                       ____      12.-  20105269  INGA/PALOMARES/ERIKA                      ____      
+13.-  20082434  GONZALES/GAMARRA/GIOVANA-KARINA           ____      14.-  20122240  YEP/PRECIADO/RICHARD                      ____      
+15.-  20130239  POMAJAMBO/EGUSQUIZA/PAUL                  ____      16.-  20139358  CASTILLO/NARVAEZ/ELOISA-SILVANA           ____      
+17.-  20054732  URBINA/MEJIA/MAGDA-DIALY                  ____      18.-  20141864  YEP/VALDERRAMA/ALVARO                     ____      
+19.-  20132696  ZAMBRANO/MIRANDA/JUVENAL-MELVIN           ____      20.-  20103519  TSUKAZAN/ORTEGA/VICTOR                    ____      
+21.-  20043332  ZAMBRANO/TORRES/MOISES-GUILLERMO          ____      22.-  20062828  DELGADO/BENITES/JUVENAL                   ____      
+23.-  20120839  SALAZAR/PAIRAZAMAN/ANNIE-EVELING          ____      24.-  20063462  PASQUEL/AGUERO/LUIS-MELVIN                ____      
+============================================================================================================================================
+     Clave: LIT204                  Curso: Literatura Contemporanea Espanola                Número de alumnos: 11
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20107278  FALCON/PRECIADO/ALEX-HENRY                ____       2.-  20155258  VILLA/SEDANO/MARTIN-JUVENAL               ____      
+ 3.-  20057917  ZAMBRANO/MOSCOSO/OFELIA-MARIA             ____       4.-  20043212  SAM/YALLICO/INES                          ____      
+ 5.-  20155919  VALVERDE/MAEIREIZO/MELVIN-JAIR            ____       6.-  20050577  MOSCOSO/ARIAS/FIORELLA                    ____      
+ 7.-  20040831  SUELDO/SEDANO/ADRIA                       ____       8.-  20075832  TRIGUEROS/PORTUGAL/ARTURO-FAUSTO          ____      
+ 9.-  20107815  SERRANO/IBEROS/FRANCISCO                  ____      10.-  20141722  PINTO/SAAVEDRA/RAUL                       ____      
+11.-  20040489  ARANA/CALDERON/MILAGROS                   ____      
+============================================================================================================================================
+     Clave: LIT209                  Curso: Lirica peruana contemporanea                     Número de alumnos: 12
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20060051  ORTIZ/DURAND/RAUL                         ____       2.-  20050577  MOSCOSO/ARIAS/FIORELLA                    ____      
+ 3.-  20066147  ZARATE/PEREZ/ALEXANDER                    ____       4.-  20040831  SUELDO/SEDANO/ADRIA                       ____      
+ 5.-  20062703  INFANTES/MERCADO/LUIS-WALDEMAR            ____       6.-  20106394  MORALES/PASQUEL/KARIN-MARIBEL             ____      
+ 7.-  20089674  RUIZ/ZEVALLOS/WALTER-RONY                 ____       8.-  20046889  EPIQUEN/AVILA/ENRIQUE                     ____      
+ 9.-  20112281  CUEVA/FUENTES/CINTHIA-DELIA               ____      10.-  20086004  CABRERA/TORO/FANNY                        ____      
+11.-  20139358  CASTILLO/NARVAEZ/ELOISA-SILVANA           ____      12.-  20059096  MIRANDA/RODRIGUEZ/JAVIER                  ____      
+============================================================================================================================================
+     Clave: LIT234                  Curso: Lirica espanola de la edad de oro                Número de alumnos: 16
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20046083  URBINA/HIJAR/RAFAEL                       ____       2.-  20107278  FALCON/PRECIADO/ALEX-HENRY                ____      
+ 3.-  20109606  DURAND/VALVERDE/ENRIQUE-JORGE             ____       4.-  20043212  SAM/YALLICO/INES                          ____      
+ 5.-  20119351  SAKAGUCHI/MORI/CARLOS-RONAL               ____       6.-  20056663  PRADO/VERA/JUAN                           ____      
+ 7.-  20112553  LOZADA/FORZANI/DELIA                      ____       8.-  20139452  RODRIGUEZ/MORENO/BLANCA-OFELIA            ____      
+ 9.-  20059675  LEYVA/SAM/DIANA-DELIA                     ____      10.-  20124163  DURAND/MIRANDA/MIGUEL-JUAN                ____      
+11.-  20112281  CUEVA/FUENTES/CINTHIA-DELIA               ____      12.-  20128058  HENRIQUEZ/PAREDES/PAUL-RAFAEL             ____      
+13.-  20124809  MINAYA/BERROCAL/HELI                      ____      14.-  20144852  GORDILLO/SANCHEZ/RONALD-JUVENAL           ____      
+15.-  20086512  DEL/POZO/JENNY-MAEIREIZO                  ____      16.-  20068763  NARVAEZ/PEREZ/EVELING                     ____      
+============================================================================================================================================
+     Clave: LIT237                  Curso: Teoria literaria contemporanea 2                 Número de alumnos: 13
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20042194  LAU/BACA/MONICA-TERESA                    ____       2.-  20043619  SUAREZ/MUNOZ/MADELEINE                    ____      
+ 3.-  20089203  RAMIREZ/ASTETE/KARINA-ESTEFANIA           ____       4.-  20069218  LUNA/VARGAS/WALDEMAR                      ____      
+ 5.-  20041087  CHAVEZ/BERROCAL/JOHAN                     ____       6.-  20059675  LEYVA/SAM/DIANA-DELIA                     ____      
+ 7.-  20144266  TANG/MOSCOSO/JOHANA                       ____       8.-  20099696  TOKESHI/GUEVARA/JAIME                     ____      
+ 9.-  20083658  AVILA/REYES/TATIANA                       ____      10.-  20089674  RUIZ/ZEVALLOS/WALTER-RONY                 ____      
+11.-  20080032  ESPINOZA/CHANG/SHIRLEY                    ____      12.-  20043038  VALDERRAMA/BERROCAL/EVERT                 ____      
+13.-  20040489  ARANA/CALDERON/MILAGROS                   ____      
+============================================================================================================================================
+     Clave: LIT244                  Curso: Literatura Peruana del siglo XIX                 Número de alumnos: 13
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20111117  SUAREZ/MORALES/AMARU                      ____       2.-  20122859  CALIXTO/CASTILLO/ERICK-PAUL               ____      
+ 3.-  20149327  PAIRAZAMAN/RAFFO/TATIANA-DELICIA          ____       4.-  20135268  ASMAD/CHAVEZ/ADRIA                        ____      
+ 5.-  20155919  VALVERDE/MAEIREIZO/MELVIN-JAIR            ____       6.-  20050432  MERCADO/CORONEL/ELIA                      ____      
+ 7.-  20087432  RIVERO/CORTEZ/WILVER-ALFONSO              ____       8.-  20103205  ARCA/SANCHEZ/MAGALI-BEATRIZ               ____      
+ 9.-  20092823  ZAVALETA/VILCA/ERICKA-ELEONOR             ____      10.-  20061004  FLORIAN/VALDERRAMA/JOSE                   ____      
+11.-  20124163  DURAND/MIRANDA/MIGUEL-JUAN                ____      12.-  20043038  VALDERRAMA/BERROCAL/EVERT                 ____      
+13.-  20141722  PINTO/SAAVEDRA/RAUL                       ____      
+============================================================================================================================================
+     Clave: LIT246                  Curso: Deontologia y ling�istica y literatura           Número de alumnos: 20
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20143595  SUCHERO/EPIQUEN/EDGAR-JAVIER              ____       2.-  20079075  MEREL/SALAZAR/ANNIE-LOURDES               ____      
+ 3.-  20149327  PAIRAZAMAN/RAFFO/TATIANA-DELICIA          ____       4.-  20043212  SAM/YALLICO/INES                          ____      
+ 5.-  20119351  SAKAGUCHI/MORI/CARLOS-RONAL               ____       6.-  20063057  VIZCARDO/SINCHE/MARIBEL                   ____      
+ 7.-  20101183  CONTRERAS/CHANG/JOHANA-CINTHIA            ____       8.-  20108660  JAUREGUI/DEL_CASTILLO/VICTOR-RICARDO      ____      
+ 9.-  20139452  RODRIGUEZ/MORENO/BLANCA-OFELIA            ____      10.-  20076692  HERNANDEZ/CORRALES/GUILLERMO              ____      
+11.-  20092823  ZAVALETA/VILCA/ERICKA-ELEONOR             ____      12.-  20082348  VILCARA/YALLICO/MAGALI                    ____      
+13.-  20141332  SANCHEZ/DEL_CASTILLO/FIORELLA-ROSARIO     ____      14.-  20074873  FUENTES/GAMARRA/HUGO                      ____      
+15.-  20128058  HENRIQUEZ/PAREDES/PAUL-RAFAEL             ____      16.-  20057166  CANO/POLO/MILAGROS-ISABEL                 ____      
+17.-  20043038  VALDERRAMA/BERROCAL/EVERT                 ____      18.-  20132497  WONG/SUELDO/RICHARD                       ____      
+19.-  20117871  MARTINEZ/AQUINO/YVONNE                    ____      20.-  20061580  RODRIGUEZ/ARGUEDAS/ALFONSO                ____      
+============================================================================================================================================
+     Clave: LIT284                  Curso: Seminario de tesis 1                             Número de alumnos: 20
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20156713  FARFAN/FALCON/ELIZABETH-KARIN             ____       2.-  20085379  ASTETE/RIOS/CESAR-WILVER                  ____      
+ 3.-  20155258  VILLA/SEDANO/MARTIN-JUVENAL               ____       4.-  20077682  LOZADA/AGUERO/ANTONIO-ELOY                ____      
+ 5.-  20109606  DURAND/VALVERDE/ENRIQUE-JORGE             ____       6.-  20136871  JUSTINO/NORABUENA/VIRGINIA-KARINA         ____      
+ 7.-  20149327  PAIRAZAMAN/RAFFO/TATIANA-DELICIA          ____       8.-  20043212  SAM/YALLICO/INES                          ____      
+ 9.-  20119351  SAKAGUCHI/MORI/CARLOS-RONAL               ____      10.-  20073586  EGUSQUIZA/BERROCAL/DORIS-NANCY            ____      
+11.-  20131357  DIAZ/TANG/ENRIQUE                         ____      12.-  20151285  PENA/SUAREZ/GLENDA-MARGOT                 ____      
+13.-  20042021  RAFFO/CORONADO/ROLANDO                    ____      14.-  20098298  VIZCARRA/CARBAJAL/IVAN-FAUSTO             ____      
+15.-  20132696  ZAMBRANO/MIRANDA/JUVENAL-MELVIN           ____      16.-  20051425  VALVERDE/MERCADO/NESTOR-GUSTAVO           ____      
+17.-  20103519  TSUKAZAN/ORTEGA/VICTOR                    ____      18.-  20071347  ARROYO/COLLADO/JESSICA-DELICIA            ____      
+19.-  20142523  URBINA/MOYA/ISRAEL-OSCAR                  ____      20.-  20125297  HERNANDEZ/CONTRERAS/MELVIN-ALVARO         ____      
+============================================================================================================================================
+     Clave: LIT306                  Curso: Critica Textual                                  Número de alumnos: 19
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20079075  MEREL/SALAZAR/ANNIE-LOURDES               ____       2.-  20042194  LAU/BACA/MONICA-TERESA                    ____      
+ 3.-  20065382  VILLEGAS/LEIVA/FELICITA                   ____       4.-  20069086  AYALA/VIZCARDO/EDGAR-MANUEL               ____      
+ 5.-  20138915  ROSEMBERG/LAU/JULIO-HENRRY                ____       6.-  20108660  JAUREGUI/DEL_CASTILLO/VICTOR-RICARDO      ____      
+ 7.-  20124234  NARVAEZ/CASTILLO/JESUS-RAFAEL             ____       8.-  20112553  LOZADA/FORZANI/DELIA                      ____      
+ 9.-  20151540  SOLIS/NARVAEZ/MARIA-MADELEINE             ____      10.-  20041087  CHAVEZ/BERROCAL/JOHAN                     ____      
+11.-  20156683  CERNA/CERNA/CINTHIA                       ____      12.-  20099696  TOKESHI/GUEVARA/JAIME                     ____      
+13.-  20062483  EPIQUEN/YEP/GUIDA-VICTORIA                ____      14.-  20040858  ZAVALETA/CORONADO/FELICITA-ELOISA         ____      
+15.-  20043038  VALDERRAMA/BERROCAL/EVERT                 ____      16.-  20063781  ROSEMBERG/ROSEMBERG/JAIR-ALONSO           ____      
+17.-  20110152  CORREA/ROJAS/BEATRIZ                      ____      18.-  20132872  DELGADO/JUSTINO/TERESA                    ____      
+19.-  20061580  RODRIGUEZ/ARGUEDAS/ALFONSO                ____      
+============================================================================================================================================
+     Clave: LIT312                  Curso: Teatro Espanol de la Edad de Oro                 Número de alumnos: 13
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20135792  DIAZ/REYES/WALTER-EDGAR                   ____       2.-  20042724  VARGAS/ALAMO/DANIEL                       ____      
+ 3.-  20116369  FLORENCIO/CORONADO/ALONSO                 ____       4.-  20090658  PATINO/BOLANOS/DELICIA-VIRGINIA           ____      
+ 5.-  20072011  FARFAN/SALAZAR/MARGOT                     ____       6.-  20040269  AYALA/CASTILLO/ERICKA-OFELIA              ____      
+ 7.-  20057294  FLORIAN/CUBA/CHRISTIAN                    ____       8.-  20108314  NORABUENA/MOYA/HECTOR                     ____      
+ 9.-  20095104  DIAZ/SERRANO/WALDEMAR                     ____      10.-  20110152  CORREA/ROJAS/BEATRIZ                      ____      
+11.-  20086512  DEL/POZO/JENNY-MAEIREIZO                  ____      12.-  20117076  GAVIDIA/TORO/BLANCA                       ____      
+13.-  20120839  SALAZAR/PAIRAZAMAN/ANNIE-EVELING          ____      
+============================================================================================================================================
+     Clave: LIT313                  Curso: Narrativa espanola de la edad de oro             Número de alumnos: 12
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20142807  SUELDO/RUIZ/ANTONIO                       ____       2.-  20127835  FIGUEROA/COLLADO/EVERT                    ____      
+ 3.-  20075260  MONTERO/MONTERO/ANNIE                     ____       4.-  20060051  ORTIZ/DURAND/RAUL                         ____      
+ 5.-  20135048  VEGA/VILCARA/CARMELA-TERESA               ____       6.-  20106168  MARTINEZ/CRUZ/EVERT-RONY                  ____      
+ 7.-  20086004  CABRERA/TORO/FANNY                        ____       8.-  20063781  ROSEMBERG/ROSEMBERG/JAIR-ALONSO           ____      
+ 9.-  20054732  URBINA/MEJIA/MAGDA-DIALY                  ____      10.-  20062828  DELGADO/BENITES/JUVENAL                   ____      
+11.-  20043941  MORENO/VERGEL/GUILLERMO                   ____      12.-  20125297  HERNANDEZ/CONTRERAS/MELVIN-ALVARO         ____      
+============================================================================================================================================
+     Clave: MAT218                  Curso: Ecuaciones Diferenciales Aplicadas               Número de alumnos: 16
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20065927  SEGURA/MALCA/RONY                         ____       2.-  20072765  DE_LA_HAZA/CABRERA/ALBERTO                ____      
+ 3.-  20057917  ZAMBRANO/MOSCOSO/OFELIA-MARIA             ____       4.-  20060051  ORTIZ/DURAND/RAUL                         ____      
+ 5.-  20119351  SAKAGUCHI/MORI/CARLOS-RONAL               ____       6.-  20122354  CAMACHO/PAIRAZAMAN/YDALI-LUCERO           ____      
+ 7.-  20112553  LOZADA/FORZANI/DELIA                      ____       8.-  20131253  RIOS/ZAMORA/INES                          ____      
+ 9.-  20087432  RIVERO/CORTEZ/WILVER-ALFONSO              ____      10.-  20055048  RIVERO/CORONADO/HECTOR-ALONSO             ____      
+11.-  20142181  RIOS/DURAND/CARLOS-EDILBERTO              ____      12.-  20074873  FUENTES/GAMARRA/HUGO                      ____      
+13.-  20046889  EPIQUEN/AVILA/ENRIQUE                     ____      14.-  20075832  TRIGUEROS/PORTUGAL/ARTURO-FAUSTO          ____      
+15.-  20062828  DELGADO/BENITES/JUVENAL                   ____      16.-  20061580  RODRIGUEZ/ARGUEDAS/ALFONSO                ____      
+============================================================================================================================================
+     Clave: MAT244                  Curso: Algebra Lineal y Multilineal                     Número de alumnos: 16
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20085379  ASTETE/RIOS/CESAR-WILVER                  ____       2.-  20125340  DURAND/MEZA/WALDEMAR-EDGARD               ____      
+ 3.-  20092823  ZAVALETA/VILCA/ERICKA-ELEONOR             ____       4.-  20099696  TOKESHI/GUEVARA/JAIME                     ____      
+ 5.-  20089674  RUIZ/ZEVALLOS/WALTER-RONY                 ____       6.-  20070116  PINTO/ROJAS/JUVENAL-FRANCISCO             ____      
+ 7.-  20047985  ZEGARRA/PENA/CARMELA                      ____       8.-  20061004  FLORIAN/VALDERRAMA/JOSE                   ____      
+ 9.-  20063978  LEYVA/LANDEO/NANCY-SONIA                  ____      10.-  20111192  MEJIA/RODRIGUEZ/INES-VALENTINA            ____      
+11.-  20067237  RONDON/CABRERA/ALEXANDER-ADOLFO           ____      12.-  20053733  SUAREZ/CHANG/GLORIA                       ____      
+13.-  20057166  CANO/POLO/MILAGROS-ISABEL                 ____      14.-  20141864  YEP/VALDERRAMA/ALVARO                     ____      
+15.-  20049234  BOLANOS/CORREA/MARIBEL-FREYSA             ____      16.-  20063462  PASQUEL/AGUERO/LUIS-MELVIN                ____      
+============================================================================================================================================
+     Clave: MAT245                  Curso: Logica Matematica y Teoria de Conjuntos          Número de alumnos: 17
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20156713  FARFAN/FALCON/ELIZABETH-KARIN             ____       2.-  20085379  ASTETE/RIOS/CESAR-WILVER                  ____      
+ 3.-  20057917  ZAMBRANO/MOSCOSO/OFELIA-MARIA             ____       4.-  20077682  LOZADA/AGUERO/ANTONIO-ELOY                ____      
+ 5.-  20114860  SOMA/PINTO/LOURDES-SONIA                  ____       6.-  20122859  CALIXTO/CASTILLO/ERICK-PAUL               ____      
+ 7.-  20109606  DURAND/VALVERDE/ENRIQUE-JORGE             ____       8.-  20093768  VEGA/SORIA/HENRRY                         ____      
+ 9.-  20122125  LOZADA/ARGUEDAS/FELICITA-VALENTINA        ____      10.-  20087432  RIVERO/CORTEZ/WILVER-ALFONSO              ____      
+11.-  20055659  MOSCOSO/LAURA/JANET-VALENTINA             ____      12.-  20142181  RIOS/DURAND/CARLOS-EDILBERTO              ____      
+13.-  20070116  PINTO/ROJAS/JUVENAL-FRANCISCO             ____      14.-  20143134  IPARRAGUIRRE/PEREZ/NICOLAS                ____      
+15.-  20141864  YEP/VALDERRAMA/ALVARO                     ____      16.-  20059096  MIRANDA/RODRIGUEZ/JAVIER                  ____      
+17.-  20048451  BOLANOS/SANTISTEBAN/MARINA-GUIDA          ____      
+============================================================================================================================================
+     Clave: MAT251                  Curso: Geometria                                        Número de alumnos: 20
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20142807  SUELDO/RUIZ/ANTONIO                       ____       2.-  20125340  DURAND/MEZA/WALDEMAR-EDGARD               ____      
+ 3.-  20043619  SUAREZ/MUNOZ/MADELEINE                    ____       4.-  20075260  MONTERO/MONTERO/ANNIE                     ____      
+ 5.-  20064523  SERRANO/RAMIREZ/ARTURO-GUSTAVO            ____       6.-  20122354  CAMACHO/PAIRAZAMAN/YDALI-LUCERO           ____      
+ 7.-  20076692  HERNANDEZ/CORRALES/GUILLERMO              ____       8.-  20129380  BACA/CAMACHO/MILAGROS-NATALIA             ____      
+ 9.-  20156683  CERNA/CERNA/CINTHIA                       ____      10.-  20042021  RAFFO/CORONADO/ROLANDO                    ____      
+11.-  20040269  AYALA/CASTILLO/ERICKA-OFELIA              ____      12.-  20110166  PRADO/ESPINOZA/MILAGROS                   ____      
+13.-  20128058  HENRIQUEZ/PAREDES/PAUL-RAFAEL             ____      14.-  20133005  CASANOVA/ZEGARRA/MARITZA                  ____      
+15.-  20130239  POMAJAMBO/EGUSQUIZA/PAUL                  ____      16.-  20093211  AYALA/SHIRAKAWA/VICTORIA                  ____      
+17.-  20068503  RIOS/ARROYO/RAUL-ENRIQUE                  ____      18.-  20141722  PINTO/SAAVEDRA/RAUL                       ____      
+19.-  20048451  BOLANOS/SANTISTEBAN/MARINA-GUIDA          ____      20.-  20071347  ARROYO/COLLADO/JESSICA-DELICIA            ____      
+============================================================================================================================================
+     Clave: MAT253                  Curso: Topologia                                        Número de alumnos: 18
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20156713  FARFAN/FALCON/ELIZABETH-KARIN             ____       2.-  20142807  SUELDO/RUIZ/ANTONIO                       ____      
+ 3.-  20046083  URBINA/HIJAR/RAFAEL                       ____       4.-  20127835  FIGUEROA/COLLADO/EVERT                    ____      
+ 5.-  20122859  CALIXTO/CASTILLO/ERICK-PAUL               ____       6.-  20082229  HENRIQUEZ/DIAZ/SILVANA-DIANA              ____      
+ 7.-  20057488  ALFARO/ALFARO/ERICK-BRUNO                 ____       8.-  20131253  RIOS/ZAMORA/INES                          ____      
+ 9.-  20089674  RUIZ/ZEVALLOS/WALTER-RONY                 ____      10.-  20142181  RIOS/DURAND/CARLOS-EDILBERTO              ____      
+11.-  20075832  TRIGUEROS/PORTUGAL/ARTURO-FAUSTO          ____      12.-  20063978  LEYVA/LANDEO/NANCY-SONIA                  ____      
+13.-  20082434  GONZALES/GAMARRA/GIOVANA-KARINA           ____      14.-  20142300  AVILA/MARTEL/JAIME-MANUEL                 ____      
+15.-  20112281  CUEVA/FUENTES/CINTHIA-DELIA               ____      16.-  20057166  CANO/POLO/MILAGROS-ISABEL                 ____      
+17.-  20093211  AYALA/SHIRAKAWA/VICTORIA                  ____      18.-  20063462  PASQUEL/AGUERO/LUIS-MELVIN                ____      
+============================================================================================================================================
+     Clave: MEC206                  Curso: Termodinamica 1                                  Número de alumnos: 13
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20065927  SEGURA/MALCA/RONY                         ____       2.-  20043619  SUAREZ/MUNOZ/MADELEINE                    ____      
+ 3.-  20138915  ROSEMBERG/LAU/JULIO-HENRRY                ____       4.-  20092784  ESCALANTE/ROJAS/INES-ADRIA                ____      
+ 5.-  20055659  MOSCOSO/LAURA/JANET-VALENTINA             ____       6.-  20144266  TANG/MOSCOSO/JOHANA                       ____      
+ 7.-  20089674  RUIZ/ZEVALLOS/WALTER-RONY                 ____       8.-  20142181  RIOS/DURAND/CARLOS-EDILBERTO              ____      
+ 9.-  20142300  AVILA/MARTEL/JAIME-MANUEL                 ____      10.-  20098298  VIZCARRA/CARBAJAL/IVAN-FAUSTO             ____      
+11.-  20110166  PRADO/ESPINOZA/MILAGROS                   ____      12.-  20141864  YEP/VALDERRAMA/ALVARO                     ____      
+13.-  20094460  GAMARRA/GAVIDIA/FAUSTO-EMIGDIO            ____      
+============================================================================================================================================
+     Clave: MEC208                  Curso: Termodinamica 2                                  Número de alumnos: 14
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20046083  URBINA/HIJAR/RAFAEL                       ____       2.-  20072765  DE_LA_HAZA/CABRERA/ALBERTO                ____      
+ 3.-  20046056  MIRANDA/CHUMPITAZ/ALFONSO                 ____       4.-  20090658  PATINO/BOLANOS/DELICIA-VIRGINIA           ____      
+ 5.-  20122354  CAMACHO/PAIRAZAMAN/YDALI-LUCERO           ____       6.-  20097601  FUENTES/ESCALANTE/PATRICIA-ELIZABETH      ____      
+ 7.-  20114913  WONG/MAEIREIZO/BEATRIZ                    ____       8.-  20105269  INGA/PALOMARES/ERIKA                      ____      
+ 9.-  20057294  FLORIAN/CUBA/CHRISTIAN                    ____      10.-  20124809  MINAYA/BERROCAL/HELI                      ____      
+11.-  20057166  CANO/POLO/MILAGROS-ISABEL                 ____      12.-  20117076  GAVIDIA/TORO/BLANCA                       ____      
+13.-  20061580  RODRIGUEZ/ARGUEDAS/ALFONSO                ____      14.-  20068763  NARVAEZ/PEREZ/EVELING                     ____      
+============================================================================================================================================
+     Clave: MEC227                  Curso: Dibujo Mecanico 2                                Número de alumnos: 17
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20046083  URBINA/HIJAR/RAFAEL                       ____       2.-  20043496  CHUMPITAZ/PALOMARES/VIRGINIA              ____      
+ 3.-  20042724  VARGAS/ALAMO/DANIEL                       ____       4.-  20064523  SERRANO/RAMIREZ/ARTURO-GUSTAVO            ____      
+ 5.-  20082229  HENRIQUEZ/DIAZ/SILVANA-DIANA              ____       6.-  20043212  SAM/YALLICO/INES                          ____      
+ 7.-  20073586  EGUSQUIZA/BERROCAL/DORIS-NANCY            ____       8.-  20151540  SOLIS/NARVAEZ/MARIA-MADELEINE             ____      
+ 9.-  20114913  WONG/MAEIREIZO/BEATRIZ                    ____      10.-  20087754  SALAMANCA/VEGA/VIRGINIA-MARTHA            ____      
+11.-  20146634  LAU/ZAVALETA/YDALI-ELIA                   ____      12.-  20070116  PINTO/ROJAS/JUVENAL-FRANCISCO             ____      
+13.-  20061004  FLORIAN/VALDERRAMA/JOSE                   ____      14.-  20079558  DIAZ/MOYA/ELIA-ANNIE                      ____      
+15.-  20111439  SINCHE/PRECIADO/MARTHA                    ____      16.-  20043941  MORENO/VERGEL/GUILLERMO                   ____      
+17.-  20068763  NARVAEZ/PEREZ/EVELING                     ____      
+============================================================================================================================================
+     Clave: MEC298                  Curso: Proyecto de Ingenieria Mecanica 2                Número de alumnos: 15
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20065927  SEGURA/MALCA/RONY                         ____       2.-  20079075  MEREL/SALAZAR/ANNIE-LOURDES               ____      
+ 3.-  20135268  ASMAD/CHAVEZ/ADRIA                        ____       4.-  20108660  JAUREGUI/DEL_CASTILLO/VICTOR-RICARDO      ____      
+ 5.-  20050432  MERCADO/CORONEL/ELIA                      ____       6.-  20131253  RIOS/ZAMORA/INES                          ____      
+ 7.-  20129380  BACA/CAMACHO/MILAGROS-NATALIA             ____       8.-  20082399  ZUNIGA/ROSEMBERG/REBECA                   ____      
+ 9.-  20063781  ROSEMBERG/ROSEMBERG/JAIR-ALONSO           ____      10.-  20095104  DIAZ/SERRANO/WALDEMAR                     ____      
+11.-  20132696  ZAMBRANO/MIRANDA/JUVENAL-MELVIN           ____      12.-  20142092  RIOS/VILCA/SHIRLEY                        ____      
+13.-  20110152  CORREA/ROJAS/BEATRIZ                      ____      14.-  20040489  ARANA/CALDERON/MILAGROS                   ____      
+15.-  20055637  LOYOLA/PEREZ/ALBERTO                      ____      
+============================================================================================================================================
+     Clave: MEC299                  Curso: Motores de Combustion Interna                    Número de alumnos: 21
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20080607  SALAS/URBINA/MAGDA-CARMEN                 ____       2.-  20111117  SUAREZ/MORALES/AMARU                      ____      
+ 3.-  20116369  FLORENCIO/CORONADO/ALONSO                 ____       4.-  20101183  CONTRERAS/CHANG/JOHANA-CINTHIA            ____      
+ 5.-  20131253  RIOS/ZAMORA/INES                          ____       6.-  20087754  SALAMANCA/VEGA/VIRGINIA-MARTHA            ____      
+ 7.-  20111288  RETAMOSO/SALAMANCA/DELIA-MARITZA          ____       8.-  20083398  JUSTINO/MARTINEZ/ENRIQUE                  ____      
+ 9.-  20047985  ZEGARRA/PENA/CARMELA                      ____      10.-  20142300  AVILA/MARTEL/JAIME-MANUEL                 ____      
+11.-  20112281  CUEVA/FUENTES/CINTHIA-DELIA               ____      12.-  20122240  YEP/PRECIADO/RICHARD                      ____      
+13.-  20110166  PRADO/ESPINOZA/MILAGROS                   ____      14.-  20086004  CABRERA/TORO/FANNY                        ____      
+15.-  20159029  VILCA/LEE/NESTOR-HUGO                     ____      16.-  20040945  SUELDO/ANTEZANO/LUIS-JESUS                ____      
+17.-  20132696  ZAMBRANO/MIRANDA/JUVENAL-MELVIN           ____      18.-  20048451  BOLANOS/SANTISTEBAN/MARINA-GUIDA          ____      
+19.-  20142523  URBINA/MOYA/ISRAEL-OSCAR                  ____      20.-  20061580  RODRIGUEZ/ARGUEDAS/ALFONSO                ____      
+21.-  20144988  INGA/LEYVA/RONY-ALEXANDER                 ____      
+============================================================================================================================================
+     Clave: MEC2M1                  Curso: Elementos de Maquinas 1                          Número de alumnos: 13
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20143595  SUCHERO/EPIQUEN/EDGAR-JAVIER              ____       2.-  20057917  ZAMBRANO/MOSCOSO/OFELIA-MARIA             ____      
+ 3.-  20042724  VARGAS/ALAMO/DANIEL                       ____       4.-  20073586  EGUSQUIZA/BERROCAL/DORIS-NANCY            ____      
+ 5.-  20063057  VIZCARDO/SINCHE/MARIBEL                   ____       6.-  20112553  LOZADA/FORZANI/DELIA                      ____      
+ 7.-  20131253  RIOS/ZAMORA/INES                          ____       8.-  20097601  FUENTES/ESCALANTE/PATRICIA-ELIZABETH      ____      
+ 9.-  20092823  ZAVALETA/VILCA/ERICKA-ELEONOR             ____      10.-  20055048  RIVERO/CORONADO/HECTOR-ALONSO             ____      
+11.-  20113401  TORREALBA/SALAS/DIANA-ANNIE               ____      12.-  20041690  VILLA/TORO/RONAL-JAIME                    ____      
+13.-  20076857  VILCA/ESPINO/INES                         ____      
+============================================================================================================================================
+     Clave: MEC337                  Curso: Refrigeracion y Aire Acondicionado               Número de alumnos: 16
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20085379  ASTETE/RIOS/CESAR-WILVER                  ____       2.-  20114860  SOMA/PINTO/LOURDES-SONIA                  ____      
+ 3.-  20106102  SOLIS/CHUNG/ROLANDO                       ____       4.-  20101183  CONTRERAS/CHANG/JOHANA-CINTHIA            ____      
+ 5.-  20139452  RODRIGUEZ/MORENO/BLANCA-OFELIA            ____       6.-  20066147  ZARATE/PEREZ/ALEXANDER                    ____      
+ 7.-  20114913  WONG/MAEIREIZO/BEATRIZ                    ____       8.-  20096326  MENDOZA/ROMERO/VIRGINIA-YDALI             ____      
+ 9.-  20142300  AVILA/MARTEL/JAIME-MANUEL                 ____      10.-  20116047  VIZCARRA/MONTERO/JAIR                     ____      
+11.-  20057294  FLORIAN/CUBA/CHRISTIAN                    ____      12.-  20108314  NORABUENA/MOYA/HECTOR                     ____      
+13.-  20141864  YEP/VALDERRAMA/ALVARO                     ____      14.-  20059096  MIRANDA/RODRIGUEZ/JAVIER                  ____      
+15.-  20103519  TSUKAZAN/ORTEGA/VICTOR                    ____      16.-  20070991  CONTRERAS/EGUSQUIZA/AMARU-ALONSO          ____      
+============================================================================================================================================
+     Clave: MEC346                  Curso: Corrosion                                        Número de alumnos: 23
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20042194  LAU/BACA/MONICA-TERESA                    ____       2.-  20046083  URBINA/HIJAR/RAFAEL                       ____      
+ 3.-  20069086  AYALA/VIZCARDO/EDGAR-MANUEL               ____       4.-  20126555  TRIGUEROS/JUGO/LUZ                        ____      
+ 5.-  20056663  PRADO/VERA/JUAN                           ____       6.-  20050577  MOSCOSO/ARIAS/FIORELLA                    ____      
+ 7.-  20050432  MERCADO/CORONEL/ELIA                      ____       8.-  20069218  LUNA/VARGAS/WALDEMAR                      ____      
+ 9.-  20135048  VEGA/VILCARA/CARMELA-TERESA               ____      10.-  20097601  FUENTES/ESCALANTE/PATRICIA-ELIZABETH      ____      
+11.-  20042021  RAFFO/CORONADO/ROLANDO                    ____      12.-  20072011  FARFAN/SALAZAR/MARGOT                     ____      
+13.-  20062239  ZAMORA/ZAVALETA/RONAL-MANUEL              ____      14.-  20106168  MARTINEZ/CRUZ/EVERT-RONY                  ____      
+15.-  20056015  CARBAJAL/SALAS/MAGDA-ZKENIA               ____      16.-  20159029  VILCA/LEE/NESTOR-HUGO                     ____      
+17.-  20071876  SOMA/MIRANDA/ELOISA                       ____      18.-  20079996  CALDERON/ROSEMBERG/RHONY                  ____      
+19.-  20132497  WONG/SUELDO/RICHARD                       ____      20.-  20068503  RIOS/ARROYO/RAUL-ENRIQUE                  ____      
+21.-  20048451  BOLANOS/SANTISTEBAN/MARINA-GUIDA          ____      22.-  20120839  SALAZAR/PAIRAZAMAN/ANNIE-EVELING          ____      
+23.-  20125297  HERNANDEZ/CONTRERAS/MELVIN-ALVARO         ____      
+============================================================================================================================================
+     Clave: MEC348                  Curso: Ingenieria de Combustibles Gaseosos              Número de alumnos: 22
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20143595  SUCHERO/EPIQUEN/EDGAR-JAVIER              ____       2.-  20155258  VILLA/SEDANO/MARTIN-JUVENAL               ____      
+ 3.-  20092784  ESCALANTE/ROJAS/INES-ADRIA                ____       4.-  20089203  RAMIREZ/ASTETE/KARINA-ESTEFANIA           ____      
+ 5.-  20063057  VIZCARDO/SINCHE/MARIBEL                   ____       6.-  20050432  MERCADO/CORONEL/ELIA                      ____      
+ 7.-  20069218  LUNA/VARGAS/WALDEMAR                      ____       8.-  20055659  MOSCOSO/LAURA/JANET-VALENTINA             ____      
+ 9.-  20059675  LEYVA/SAM/DIANA-DELIA                     ____      10.-  20101701  LEE/SERRANO/ROSARIO                       ____      
+11.-  20135758  FIGUEROA/MEDINA/MADELEINE                 ____      12.-  20105269  INGA/PALOMARES/ERIKA                      ____      
+13.-  20075832  TRIGUEROS/PORTUGAL/ARTURO-FAUSTO          ____      14.-  20063978  LEYVA/LANDEO/NANCY-SONIA                  ____      
+15.-  20082434  GONZALES/GAMARRA/GIOVANA-KARINA           ____      16.-  20133005  CASANOVA/ZEGARRA/MARITZA                  ____      
+17.-  20080032  ESPINOZA/CHANG/SHIRLEY                    ____      18.-  20082399  ZUNIGA/ROSEMBERG/REBECA                   ____      
+19.-  20054732  URBINA/MEJIA/MAGDA-DIALY                  ____      20.-  20105132  BENITES/RAFFO/FIORELLA-ELEONOR            ____      
+21.-  20103519  TSUKAZAN/ORTEGA/VICTOR                    ____      22.-  20055637  LOYOLA/PEREZ/ALBERTO                      ____      
+============================================================================================================================================
+     Clave: MEC350                  Curso: Metalurgia de la Soldadura                       Número de alumnos: 20
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20156713  FARFAN/FALCON/ELIZABETH-KARIN             ____       2.-  20081057  URBINA/CASTILLO/HELI                      ____      
+ 3.-  20054935  CHUMPITAZ/ALCOCER/ANGEL-ERICK             ____       4.-  20155258  VILLA/SEDANO/MARTIN-JUVENAL               ____      
+ 5.-  20109606  DURAND/VALVERDE/ENRIQUE-JORGE             ____       6.-  20155919  VALVERDE/MAEIREIZO/MELVIN-JAIR            ____      
+ 7.-  20056663  PRADO/VERA/JUAN                           ____       8.-  20050432  MERCADO/CORONEL/ELIA                      ____      
+ 9.-  20040831  SUELDO/SEDANO/ADRIA                       ____      10.-  20072011  FARFAN/SALAZAR/MARGOT                     ____      
+11.-  20040269  AYALA/CASTILLO/ERICKA-OFELIA              ____      12.-  20046889  EPIQUEN/AVILA/ENRIQUE                     ____      
+13.-  20122240  YEP/PRECIADO/RICHARD                      ____      14.-  20040858  ZAVALETA/CORONADO/FELICITA-ELOISA         ____      
+15.-  20111439  SINCHE/PRECIADO/MARTHA                    ____      16.-  20071876  SOMA/MIRANDA/ELOISA                       ____      
+17.-  20132497  WONG/SUELDO/RICHARD                       ____      18.-  20094460  GAMARRA/GAVIDIA/FAUSTO-EMIGDIO            ____      
+19.-  20086512  DEL/POZO/JENNY-MAEIREIZO                  ____      20.-  20141722  PINTO/SAAVEDRA/RAUL                       ____      
+============================================================================================================================================
+     Clave: MIN227                  Curso: Topografia Minera                                Número de alumnos: 26
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20065927  SEGURA/MALCA/RONY                         ____       2.-  20079075  MEREL/SALAZAR/ANNIE-LOURDES               ____      
+ 3.-  20158245  DE_LA_CUBA/JUGO/LUCERO-DELICIA            ____       4.-  20125340  DURAND/MEZA/WALDEMAR-EDGARD               ____      
+ 5.-  20075260  MONTERO/MONTERO/ANNIE                     ____       6.-  20072765  DE_LA_HAZA/CABRERA/ALBERTO                ____      
+ 7.-  20077682  LOZADA/AGUERO/ANTONIO-ELOY                ____       8.-  20136871  JUSTINO/NORABUENA/VIRGINIA-KARINA         ____      
+ 9.-  20093768  VEGA/SORIA/HENRRY                         ____      10.-  20122125  LOZADA/ARGUEDAS/FELICITA-VALENTINA        ____      
+11.-  20124234  NARVAEZ/CASTILLO/JESUS-RAFAEL             ____      12.-  20069218  LUNA/VARGAS/WALDEMAR                      ____      
+13.-  20129380  BACA/CAMACHO/MILAGROS-NATALIA             ____      14.-  20062703  INFANTES/MERCADO/LUIS-WALDEMAR            ____      
+15.-  20106394  MORALES/PASQUEL/KARIN-MARIBEL             ____      16.-  20155657  SAAVEDRA/GONZALES/WILMER                  ____      
+17.-  20124163  DURAND/MIRANDA/MIGUEL-JUAN                ____      18.-  20116047  VIZCARRA/MONTERO/JAIR                     ____      
+19.-  20133005  CASANOVA/ZEGARRA/MARITZA                  ____      20.-  20107815  SERRANO/IBEROS/FRANCISCO                  ____      
+21.-  20043038  VALDERRAMA/BERROCAL/EVERT                 ____      22.-  20082399  ZUNIGA/ROSEMBERG/REBECA                   ____      
+23.-  20051425  VALVERDE/MERCADO/NESTOR-GUSTAVO           ____      24.-  20120839  SALAZAR/PAIRAZAMAN/ANNIE-EVELING          ____      
+25.-  20040489  ARANA/CALDERON/MILAGROS                   ____      26.-  20125297  HERNANDEZ/CONTRERAS/MELVIN-ALVARO         ____      
+============================================================================================================================================
+     Clave: MIN248                  Curso: Transporte en Minas                              Número de alumnos: 14
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20046083  URBINA/HIJAR/RAFAEL                       ____       2.-  20158245  DE_LA_CUBA/JUGO/LUCERO-DELICIA            ____      
+ 3.-  20125340  DURAND/MEZA/WALDEMAR-EDGARD               ____       4.-  20064523  SERRANO/RAMIREZ/ARTURO-GUSTAVO            ____      
+ 5.-  20063057  VIZCARDO/SINCHE/MARIBEL                   ____       6.-  20131357  DIAZ/TANG/ENRIQUE                         ____      
+ 7.-  20042021  RAFFO/CORONADO/ROLANDO                    ____       8.-  20135758  FIGUEROA/MEDINA/MADELEINE                 ____      
+ 9.-  20074873  FUENTES/GAMARRA/HUGO                      ____      10.-  20110166  PRADO/ESPINOZA/MILAGROS                   ____      
+11.-  20056015  CARBAJAL/SALAS/MAGDA-ZKENIA               ____      12.-  20043038  VALDERRAMA/BERROCAL/EVERT                 ____      
+13.-  20062828  DELGADO/BENITES/JUVENAL                   ____      14.-  20061580  RODRIGUEZ/ARGUEDAS/ALFONSO                ____      
+============================================================================================================================================
+     Clave: MIN250                  Curso: Geologia de Yacimientos Minerales                Número de alumnos: 21
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20125340  DURAND/MEZA/WALDEMAR-EDGARD               ____       2.-  20155258  VILLA/SEDANO/MARTIN-JUVENAL               ____      
+ 3.-  20064523  SERRANO/RAMIREZ/ARTURO-GUSTAVO            ____       4.-  20122859  CALIXTO/CASTILLO/ERICK-PAUL               ____      
+ 5.-  20136871  JUSTINO/NORABUENA/VIRGINIA-KARINA         ____       6.-  20049268  LOZADA/IBEROS/HELI-BLANCA                 ____      
+ 7.-  20139452  RODRIGUEZ/MORENO/BLANCA-OFELIA            ____       8.-  20097753  SEDANO/RETAMOSO/ELIA-YOLANDA              ____      
+ 9.-  20076692  HERNANDEZ/CORRALES/GUILLERMO              ____      10.-  20059675  LEYVA/SAM/DIANA-DELIA                     ____      
+11.-  20146634  LAU/ZAVALETA/YDALI-ELIA                   ____      12.-  20047985  ZEGARRA/PENA/CARMELA                      ____      
+13.-  20063978  LEYVA/LANDEO/NANCY-SONIA                  ____      14.-  20079558  DIAZ/MOYA/ELIA-ANNIE                      ____      
+15.-  20062483  EPIQUEN/YEP/GUIDA-VICTORIA                ____      16.-  20128058  HENRIQUEZ/PAREDES/PAUL-RAFAEL             ____      
+17.-  20043038  VALDERRAMA/BERROCAL/EVERT                 ____      18.-  20139358  CASTILLO/NARVAEZ/ELOISA-SILVANA           ____      
+19.-  20071876  SOMA/MIRANDA/ELOISA                       ____      20.-  20110152  CORREA/ROJAS/BEATRIZ                      ____      
+21.-  20141722  PINTO/SAAVEDRA/RAUL                       ____      
+============================================================================================================================================
+     Clave: MIN258                  Curso: Mineralogia y Petrologia                         Número de alumnos: 22
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20081057  URBINA/CASTILLO/HELI                      ____       2.-  20080607  SALAS/URBINA/MAGDA-CARMEN                 ____      
+ 3.-  20043619  SUAREZ/MUNOZ/MADELEINE                    ____       4.-  20155258  VILLA/SEDANO/MARTIN-JUVENAL               ____      
+ 5.-  20092784  ESCALANTE/ROJAS/INES-ADRIA                ____       6.-  20122125  LOZADA/ARGUEDAS/FELICITA-VALENTINA        ____      
+ 7.-  20089203  RAMIREZ/ASTETE/KARINA-ESTEFANIA           ____       8.-  20108660  JAUREGUI/DEL_CASTILLO/VICTOR-RICARDO      ____      
+ 9.-  20139452  RODRIGUEZ/MORENO/BLANCA-OFELIA            ____      10.-  20135048  VEGA/VILCARA/CARMELA-TERESA               ____      
+11.-  20083398  JUSTINO/MARTINEZ/ENRIQUE                  ____      12.-  20074873  FUENTES/GAMARRA/HUGO                      ____      
+13.-  20063978  LEYVA/LANDEO/NANCY-SONIA                  ____      14.-  20082434  GONZALES/GAMARRA/GIOVANA-KARINA           ____      
+15.-  20155910  AVILA/DEL_CASTILLO/ANNIE                  ____      16.-  20144852  GORDILLO/SANCHEZ/RONALD-JUVENAL           ____      
+17.-  20080032  ESPINOZA/CHANG/SHIRLEY                    ____      18.-  20041690  VILLA/TORO/RONAL-JAIME                    ____      
+19.-  20132497  WONG/SUELDO/RICHARD                       ____      20.-  20069680  ROMERO/RAFFO/JENNY-SILVIA                 ____      
+21.-  20051425  VALVERDE/MERCADO/NESTOR-GUSTAVO           ____      22.-  20117871  MARTINEZ/AQUINO/YVONNE                    ____      
+============================================================================================================================================
+     Clave: MIN260                  Curso: Perforacion y Voladura                           Número de alumnos: 19
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20081057  URBINA/CASTILLO/HELI                      ____       2.-  20042724  VARGAS/ALAMO/DANIEL                       ____      
+ 3.-  20064523  SERRANO/RAMIREZ/ARTURO-GUSTAVO            ____       4.-  20098819  BRAVO/CORTES/JANET-FLOR                   ____      
+ 5.-  20155919  VALVERDE/MAEIREIZO/MELVIN-JAIR            ____       6.-  20116369  FLORENCIO/CORONADO/ALONSO                 ____      
+ 7.-  20090658  PATINO/BOLANOS/DELICIA-VIRGINIA           ____       8.-  20071255  ARCA/LARRIEGA/LUCERO-YLIANA               ____      
+ 9.-  20144266  TANG/MOSCOSO/JOHANA                       ____      10.-  20111288  RETAMOSO/SALAMANCA/DELIA-MARITZA          ____      
+11.-  20083398  JUSTINO/MARTINEZ/ENRIQUE                  ____      12.-  20070116  PINTO/ROJAS/JUVENAL-FRANCISCO             ____      
+13.-  20105269  INGA/PALOMARES/ERIKA                      ____      14.-  20082434  GONZALES/GAMARRA/GIOVANA-KARINA           ____      
+15.-  20141864  YEP/VALDERRAMA/ALVARO                     ____      16.-  20086512  DEL/POZO/JENNY-MAEIREIZO                  ____      
+17.-  20040489  ARANA/CALDERON/MILAGROS                   ____      18.-  20117871  MARTINEZ/AQUINO/YVONNE                    ____      
+19.-  20132872  DELGADO/JUSTINO/TERESA                    ____      
+============================================================================================================================================
+     Clave: MIN266                  Curso: Mecanica de Rocas                                Número de alumnos: 16
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20065927  SEGURA/MALCA/RONY                         ____       2.-  20064523  SERRANO/RAMIREZ/ARTURO-GUSTAVO            ____      
+ 3.-  20122166  ESCALANTE/ESPINO/EMIGDIO-FRANCISCO        ____       4.-  20136871  JUSTINO/NORABUENA/VIRGINIA-KARINA         ____      
+ 5.-  20135268  ASMAD/CHAVEZ/ADRIA                        ____       6.-  20050577  MOSCOSO/ARIAS/FIORELLA                    ____      
+ 7.-  20086797  ARROYO/TOMASICHE/NATALIA                  ____       8.-  20097601  FUENTES/ESCALANTE/PATRICIA-ELIZABETH      ____      
+ 9.-  20114913  WONG/MAEIREIZO/BEATRIZ                    ____      10.-  20146634  LAU/ZAVALETA/YDALI-ELIA                   ____      
+11.-  20124163  DURAND/MIRANDA/MIGUEL-JUAN                ____      12.-  20075832  TRIGUEROS/PORTUGAL/ARTURO-FAUSTO          ____      
+13.-  20056015  CARBAJAL/SALAS/MAGDA-ZKENIA               ____      14.-  20159029  VILCA/LEE/NESTOR-HUGO                     ____      
+15.-  20071876  SOMA/MIRANDA/ELOISA                       ____      16.-  20110152  CORREA/ROJAS/BEATRIZ                      ____      
+============================================================================================================================================
+     Clave: MIN269                  Curso: Concentracion de Minerales                       Número de alumnos: 15
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20142807  SUELDO/RUIZ/ANTONIO                       ____       2.-  20075062  BARRERA/MIRANDA/ALEXANDER-MARTIN          ____      
+ 3.-  20072765  DE_LA_HAZA/CABRERA/ALBERTO                ____       4.-  20077682  LOZADA/AGUERO/ANTONIO-ELOY                ____      
+ 5.-  20092784  ESCALANTE/ROJAS/INES-ADRIA                ____       6.-  20122354  CAMACHO/PAIRAZAMAN/YDALI-LUCERO           ____      
+ 7.-  20151285  PENA/SUAREZ/GLENDA-MARGOT                 ____       8.-  20097753  SEDANO/RETAMOSO/ELIA-YOLANDA              ____      
+ 9.-  20040831  SUELDO/SEDANO/ADRIA                       ____      10.-  20062239  ZAMORA/ZAVALETA/RONAL-MANUEL              ____      
+11.-  20066681  CORTES/CORTEZ/RAUL-ALEX                   ____      12.-  20075891  SALAMANCA/CABRERA/NESTOR-EVERT            ____      
+13.-  20128058  HENRIQUEZ/PAREDES/PAUL-RAFAEL             ____      14.-  20069680  ROMERO/RAFFO/JENNY-SILVIA                 ____      
+15.-  20144988  INGA/LEYVA/RONY-ALEXANDER                 ____      
+============================================================================================================================================
+     Clave: MIN344                  Curso: Plan de Cierre y Recuperacion en Minas           Número de alumnos: 11
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20111117  SUAREZ/MORALES/AMARU                      ____       2.-  20106102  SOLIS/CHUNG/ROLANDO                       ____      
+ 3.-  20126555  TRIGUEROS/JUGO/LUZ                        ____       4.-  20122125  LOZADA/ARGUEDAS/FELICITA-VALENTINA        ____      
+ 5.-  20050577  MOSCOSO/ARIAS/FIORELLA                    ____       6.-  20050432  MERCADO/CORONEL/ELIA                      ____      
+ 7.-  20131357  DIAZ/TANG/ENRIQUE                         ____       8.-  20151540  SOLIS/NARVAEZ/MARIA-MADELEINE             ____      
+ 9.-  20046889  EPIQUEN/AVILA/ENRIQUE                     ____      10.-  20124163  DURAND/MIRANDA/MIGUEL-JUAN                ____      
+11.-  20069680  ROMERO/RAFFO/JENNY-SILVIA                 ____      
+============================================================================================================================================
+     Clave: MIN346                  Curso: Simulacion de Operaciones Mineras                Número de alumnos: 21
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20075260  MONTERO/MONTERO/ANNIE                     ____       2.-  20092784  ESCALANTE/ROJAS/INES-ADRIA                ____      
+ 3.-  20049268  LOZADA/IBEROS/HELI-BLANCA                 ____       4.-  20129380  BACA/CAMACHO/MILAGROS-NATALIA             ____      
+ 5.-  20040269  AYALA/CASTILLO/ERICKA-OFELIA              ____       6.-  20155657  SAAVEDRA/GONZALES/WILMER                  ____      
+ 7.-  20144266  TANG/MOSCOSO/JOHANA                       ____       8.-  20055048  RIVERO/CORONADO/HECTOR-ALONSO             ____      
+ 9.-  20143134  IPARRAGUIRRE/PEREZ/NICOLAS                ____      10.-  20053733  SUAREZ/CHANG/GLORIA                       ____      
+11.-  20116047  VIZCARRA/MONTERO/JAIR                     ____      12.-  20110166  PRADO/ESPINOZA/MILAGROS                   ____      
+13.-  20108314  NORABUENA/MOYA/HECTOR                     ____      14.-  20041690  VILLA/TORO/RONAL-JAIME                    ____      
+15.-  20086512  DEL/POZO/JENNY-MAEIREIZO                  ____      16.-  20062828  DELGADO/BENITES/JUVENAL                   ____      
+17.-  20048451  BOLANOS/SANTISTEBAN/MARINA-GUIDA          ____      18.-  20142523  URBINA/MOYA/ISRAEL-OSCAR                  ____      
+19.-  20063462  PASQUEL/AGUERO/LUIS-MELVIN                ____      20.-  20043941  MORENO/VERGEL/GUILLERMO                   ____      
+21.-  20070991  CONTRERAS/EGUSQUIZA/AMARU-ALONSO          ____      
+============================================================================================================================================
+     Clave: QUI204                  Curso: Quimica Inorganica 1                             Número de alumnos: 15
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20075260  MONTERO/MONTERO/ANNIE                     ____       2.-  20120085  GUEVARA/MIYAKE/MILENA                     ____      
+ 3.-  20064523  SERRANO/RAMIREZ/ARTURO-GUSTAVO            ____       4.-  20151540  SOLIS/NARVAEZ/MARIA-MADELEINE             ____      
+ 5.-  20054931  HIJAR/LAM/MARTIN                          ____       6.-  20101701  LEE/SERRANO/ROSARIO                       ____      
+ 7.-  20055048  RIVERO/CORONADO/HECTOR-ALONSO             ____       8.-  20089674  RUIZ/ZEVALLOS/WALTER-RONY                 ____      
+ 9.-  20106168  MARTINEZ/CRUZ/EVERT-RONY                  ____      10.-  20112281  CUEVA/FUENTES/CINTHIA-DELIA               ____      
+11.-  20122240  YEP/PRECIADO/RICHARD                      ____      12.-  20079996  CALDERON/ROSEMBERG/RHONY                  ____      
+13.-  20132497  WONG/SUELDO/RICHARD                       ____      14.-  20069680  ROMERO/RAFFO/JENNY-SILVIA                 ____      
+15.-  20093211  AYALA/SHIRAKAWA/VICTORIA                  ____      
+============================================================================================================================================
+     Clave: QUI206                  Curso: Quimica Analitica 1                              Número de alumnos: 23
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20135792  DIAZ/REYES/WALTER-EDGAR                   ____       2.-  20081057  URBINA/CASTILLO/HELI                      ____      
+ 3.-  20065382  VILLEGAS/LEIVA/FELICITA                   ____       4.-  20138915  ROSEMBERG/LAU/JULIO-HENRRY                ____      
+ 5.-  20122859  CALIXTO/CASTILLO/ERICK-PAUL               ____       6.-  20108660  JAUREGUI/DEL_CASTILLO/VICTOR-RICARDO      ____      
+ 7.-  20069218  LUNA/VARGAS/WALDEMAR                      ____       8.-  20097753  SEDANO/RETAMOSO/ELIA-YOLANDA              ____      
+ 9.-  20087432  RIVERO/CORTEZ/WILVER-ALFONSO              ____      10.-  20097601  FUENTES/ESCALANTE/PATRICIA-ELIZABETH      ____      
+11.-  20055659  MOSCOSO/LAURA/JANET-VALENTINA             ____      12.-  20144266  TANG/MOSCOSO/JOHANA                       ____      
+13.-  20101701  LEE/SERRANO/ROSARIO                       ____      14.-  20135758  FIGUEROA/MEDINA/MADELEINE                 ____      
+15.-  20067237  RONDON/CABRERA/ALEXANDER-ADOLFO           ____      16.-  20053733  SUAREZ/CHANG/GLORIA                       ____      
+17.-  20098298  VIZCARRA/CARBAJAL/IVAN-FAUSTO             ____      18.-  20095104  DIAZ/SERRANO/WALDEMAR                     ____      
+19.-  20094460  GAMARRA/GAVIDIA/FAUSTO-EMIGDIO            ____      20.-  20068503  RIOS/ARROYO/RAUL-ENRIQUE                  ____      
+21.-  20117871  MARTINEZ/AQUINO/YVONNE                    ____      22.-  20132872  DELGADO/JUSTINO/TERESA                    ____      
+23.-  20068763  NARVAEZ/PEREZ/EVELING                     ____      
+============================================================================================================================================
+     Clave: QUI208                  Curso: Quimica Analitica 2                              Número de alumnos:  9
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20081057  URBINA/CASTILLO/HELI                      ____       2.-  20149327  PAIRAZAMAN/RAFFO/TATIANA-DELICIA          ____      
+ 3.-  20101183  CONTRERAS/CHANG/JOHANA-CINTHIA            ____       4.-  20131253  RIOS/ZAMORA/INES                          ____      
+ 5.-  20142181  RIOS/DURAND/CARLOS-EDILBERTO              ____       6.-  20080032  ESPINOZA/CHANG/SHIRLEY                    ____      
+ 7.-  20043038  VALDERRAMA/BERROCAL/EVERT                 ____       8.-  20141864  YEP/VALDERRAMA/ALVARO                     ____      
+ 9.-  20051425  VALVERDE/MERCADO/NESTOR-GUSTAVO           ____      
+============================================================================================================================================
+     Clave: QUI211                  Curso: Trabajo de Investigacion 1                       Número de alumnos: 17
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20120085  GUEVARA/MIYAKE/MILENA                     ____       2.-  20057917  ZAMBRANO/MOSCOSO/OFELIA-MARIA             ____      
+ 3.-  20092784  ESCALANTE/ROJAS/INES-ADRIA                ____       4.-  20108660  JAUREGUI/DEL_CASTILLO/VICTOR-RICARDO      ____      
+ 5.-  20151540  SOLIS/NARVAEZ/MARIA-MADELEINE             ____       6.-  20071255  ARCA/LARRIEGA/LUCERO-YLIANA               ____      
+ 7.-  20135758  FIGUEROA/MEDINA/MADELEINE                 ____       8.-  20092823  ZAVALETA/VILCA/ERICKA-ELEONOR             ____      
+ 9.-  20111288  RETAMOSO/SALAMANCA/DELIA-MARITZA          ____      10.-  20082348  VILCARA/YALLICO/MAGALI                    ____      
+11.-  20070116  PINTO/ROJAS/JUVENAL-FRANCISCO             ____      12.-  20082434  GONZALES/GAMARRA/GIOVANA-KARINA           ____      
+13.-  20116047  VIZCARRA/MONTERO/JAIR                     ____      14.-  20133005  CASANOVA/ZEGARRA/MARITZA                  ____      
+15.-  20069680  ROMERO/RAFFO/JENNY-SILVIA                 ____      16.-  20110152  CORREA/ROJAS/BEATRIZ                      ____      
+17.-  20132872  DELGADO/JUSTINO/TERESA                    ____      
+============================================================================================================================================
+     Clave: QUI221                  Curso: Quimica Organica 1                               Número de alumnos: 13
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20042194  LAU/BACA/MONICA-TERESA                    ____       2.-  20107278  FALCON/PRECIADO/ALEX-HENRY                ____      
+ 3.-  20158245  DE_LA_CUBA/JUGO/LUCERO-DELICIA            ____       4.-  20077682  LOZADA/AGUERO/ANTONIO-ELOY                ____      
+ 5.-  20098819  BRAVO/CORTES/JANET-FLOR                   ____       6.-  20156683  CERNA/CERNA/CINTHIA                       ____      
+ 7.-  20083658  AVILA/REYES/TATIANA                       ____       8.-  20111192  MEJIA/RODRIGUEZ/INES-VALENTINA            ____      
+ 9.-  20056015  CARBAJAL/SALAS/MAGDA-ZKENIA               ____      10.-  20093211  AYALA/SHIRAKAWA/VICTORIA                  ____      
+11.-  20068503  RIOS/ARROYO/RAUL-ENRIQUE                  ____      12.-  20051425  VALVERDE/MERCADO/NESTOR-GUSTAVO           ____      
+13.-  20076857  VILCA/ESPINO/INES                         ____      
+============================================================================================================================================
+     Clave: QUI223                  Curso: Quimica Organica 2                               Número de alumnos:  9
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20106102  SOLIS/CHUNG/ROLANDO                       ____       2.-  20063057  VIZCARDO/SINCHE/MARIBEL                   ____      
+ 3.-  20112553  LOZADA/FORZANI/DELIA                      ____       4.-  20103205  ARCA/SANCHEZ/MAGALI-BEATRIZ               ____      
+ 5.-  20062239  ZAMORA/ZAVALETA/RONAL-MANUEL              ____       6.-  20067237  RONDON/CABRERA/ALEXANDER-ADOLFO           ____      
+ 7.-  20053733  SUAREZ/CHANG/GLORIA                       ____       8.-  20110152  CORREA/ROJAS/BEATRIZ                      ____      
+ 9.-  20142523  URBINA/MOYA/ISRAEL-OSCAR                  ____      
+============================================================================================================================================
+     Clave: QUI237                  Curso: Quimica Inorganica 3                             Número de alumnos: 22
+--------------------------------------------------------------------------------------------------------------------------------------------
+ No.   Código   Nombre                                     Nota      No.   Código   Nombre                                     Nota     
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1.-  20158245  DE_LA_CUBA/JUGO/LUCERO-DELICIA            ____       2.-  20054935  CHUMPITAZ/ALCOCER/ANGEL-ERICK             ____      
+ 3.-  20042724  VARGAS/ALAMO/DANIEL                       ____       4.-  20111117  SUAREZ/MORALES/AMARU                      ____      
+ 5.-  20043212  SAM/YALLICO/INES                          ____       6.-  20089309  SINCHE/RIVERO/YVONNE-SILVANA              ____      
+ 7.-  20089203  RAMIREZ/ASTETE/KARINA-ESTEFANIA           ____       8.-  20054931  HIJAR/LAM/MARTIN                          ____      
+ 9.-  20156683  CERNA/CERNA/CINTHIA                       ____      10.-  20103205  ARCA/SANCHEZ/MAGALI-BEATRIZ               ____      
+11.-  20144266  TANG/MOSCOSO/JOHANA                       ____      12.-  20101701  LEE/SERRANO/ROSARIO                       ____      
+13.-  20135758  FIGUEROA/MEDINA/MADELEINE                 ____      14.-  20062239  ZAMORA/ZAVALETA/RONAL-MANUEL              ____      
+15.-  20055048  RIVERO/CORONADO/HECTOR-ALONSO             ____      16.-  20061004  FLORIAN/VALDERRAMA/JOSE                   ____      
+17.-  20116047  VIZCARRA/MONTERO/JAIR                     ____      18.-  20040945  SUELDO/ANTEZANO/LUIS-JESUS                ____      
+19.-  20046546  QUIROGA/HERNANDEZ/SILVANA-ZKENIA          ____      20.-  20082399  ZUNIGA/ROSEMBERG/REBECA                   ____      
+21.-  20141864  YEP/VALDERRAMA/ALVARO                     ____      22.-  20076857  VILCA/ESPINO/INES                         ____      

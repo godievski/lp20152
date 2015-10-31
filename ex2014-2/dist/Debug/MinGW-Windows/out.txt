@@ -1,0 +1,221 @@
+CATALAGO DE AUTORES:
+================================================================================
+01) 136176 Roary Mueller Singleton
+    Libros:
+      Codigo     Titulo                                   Precio  
+      DB7726HM   Vandoies/Vintl                           484.89
+--------------------------------------------------------------------------------
+02) 221140 Cheyenne Swanson Townsend
+    Libros:
+      Codigo     Titulo                                   Precio  
+      RT1695HR   Poggio San Marcello                      170.56
+      YF3386WM   Malgesso                                 51.49
+--------------------------------------------------------------------------------
+03) 240034 Germaine Hampton Paul
+    Libros:
+      Codigo     Titulo                                   Precio  
+      DH9168OM   Nashik                                   833.71
+--------------------------------------------------------------------------------
+04) 274693 Shana Price Montoya
+    Libros:
+      Codigo     Titulo                                   Precio  
+      WL0834SJ   Harrisburg                               792.95
+--------------------------------------------------------------------------------
+05) 302514 Claudia Hughes Ferguson
+    Libros:
+      Codigo     Titulo                                   Precio  
+      CD8584SW   Brechin                                  387.43
+      IG1796YO   Bowden                                   726.80
+--------------------------------------------------------------------------------
+06) 306464 Brynne Berger Holland
+    Libros:
+      Codigo     Titulo                                   Precio  
+      IT9953WV   Levin                                    361.27
+--------------------------------------------------------------------------------
+07) 337900 Pamela Warren Valenzuela
+    Libros:
+      Codigo     Titulo                                   Precio  
+      BN2484WB   Vosselaar                                487.07
+      KM9930PH   Vorselaar                                254.99
+--------------------------------------------------------------------------------
+08) 398704 Brady Benton Petty
+    Libros:
+      Codigo     Titulo                                   Precio  
+      GU1148TY   Stewart                                  697.51
+      ME0371CR   Polatl                                   507.70
+--------------------------------------------------------------------------------
+09) 406567 Knox Fischer Nixon
+    Libros:
+      Codigo     Titulo                                   Precio  
+      ZR0250XR   Ponte nelle Alpi                         772.47
+--------------------------------------------------------------------------------
+10) 415365 Blaine Salas Jefferson
+    Libros:
+      Codigo     Titulo                                   Precio  
+      AY1798WE   Oromocto                                 221.10
+      BJ2377VL   Vliermaalroot                            951.77
+--------------------------------------------------------------------------------
+11) 421151 Ulric Sloan Quinn
+    Libros:
+      Codigo     Titulo                                   Precio  
+      WE4136MJ   Bonavista                                80.07
+--------------------------------------------------------------------------------
+12) 441404 Astra Sellers Cross
+    Libros:
+      Codigo     Titulo                                   Precio  
+      FX1128MP   Jaranwala                                919.27
+--------------------------------------------------------------------------------
+13) 449508 Christine Shaffer Calderon
+    Libros:
+      Codigo     Titulo                                   Precio  
+      EL3540RM   Kalgoorlie-Boulder                       187.25
+--------------------------------------------------------------------------------
+14) 461280 Justine Shaffer Cantu
+    Libros:
+      Codigo     Titulo                                   Precio  
+      CK5532IT   Omaha                                    567.53
+      UY7029HT   Recife                                   262.42
+--------------------------------------------------------------------------------
+15) 472498 Judah Bauer Mcgee
+    Libros:
+      Codigo     Titulo                                   Precio  
+      NH6684BJ   Manchester                               973.41
+--------------------------------------------------------------------------------
+16) 503471 Marshall Mcfadden Bray
+    Libros:
+      Codigo     Titulo                                   Precio  
+      GO1236HP   Mildura                                  563.57
+      KP8413II   Bolzano/Bozen                            57.11
+--------------------------------------------------------------------------------
+17) 518191 Molly Kennedy Weiss
+    Libros:
+      Codigo     Titulo                                   Precio  
+      BD3472WB   Rotem                                    564.78
+      GP9449RW   Brunn am Gebirge                         813.82
+--------------------------------------------------------------------------------
+18) 519408 Jin Rivera Bennett
+    Libros:
+      Codigo     Titulo                                   Precio  
+      SJ6054UL   Branchon                                 114.61
+--------------------------------------------------------------------------------
+19) 522697 Donovan Gilmore Clements
+    Libros:
+      Codigo     Titulo                                   Precio  
+      JI6803RT   Ruisbroek                                928.51
+      YH9858ST   Kulti-Barakar                            693.78
+--------------------------------------------------------------------------------
+20) 552053 Doris Cline Meyer
+    Libros:
+      Codigo     Titulo                                   Precio  
+      KH9844GE   Ketchikan                                938.79
+      LX3626NH   Merksplas                                538.64
+--------------------------------------------------------------------------------
+21) 554447 Paloma Rose Howard
+    Libros:
+      Codigo     Titulo                                   Precio  
+      YU8220TG   Spermalie                                152.89
+--------------------------------------------------------------------------------
+22) 678831 Cynthia Bean Welch
+    Libros:
+      Codigo     Titulo                                   Precio  
+      RK9810LK   Gallicchio                               603.70
+--------------------------------------------------------------------------------
+23) 680172 Yoshi Mcclain Carney
+    Libros:
+      Codigo     Titulo                                   Precio  
+      HL9826EC   Carleton                                 535.90
+      UE6109PA   Milestone                                821.21
+--------------------------------------------------------------------------------
+24) 690132 Kennan Conway Mccray
+    Libros:
+      Codigo     Titulo                                   Precio  
+      AQ3151SS   Coatbridge                               152.13
+--------------------------------------------------------------------------------
+25) 735180 Reed Warren Barron
+    Libros:
+      Codigo     Titulo                                   Precio  
+      JG6431HQ   Muzaffargarh                             931.25
+      JX5528EL   San Francisco                            393.05
+--------------------------------------------------------------------------------
+26) 755582 Odysseus Lewis Palmer
+    Libros:
+      Codigo     Titulo                                   Precio  
+      AW9644AJ   Bangalore                                495.39
+      FL0478YD   Edmundston                               201.15
+--------------------------------------------------------------------------------
+27) 764272 Denton Bowman Hancock
+    Libros:
+      Codigo     Titulo                                   Precio  
+      RH2390OR   Falkensee                                767.52
+--------------------------------------------------------------------------------
+28) 804526 Katelyn Cruz Rose
+    Libros:
+      Codigo     Titulo                                   Precio  
+      JH3353UB   Gembloux                                 567.02
+--------------------------------------------------------------------------------
+29) 807138 Beatrice Riley Perry
+    Libros:
+      Codigo     Titulo                                   Precio  
+      TC3039ML   Qu?bec City                              232.65
+--------------------------------------------------------------------------------
+30) 842319 Nayda Mclean Sellers
+    Libros:
+      Codigo     Titulo                                   Precio  
+      BL9716RL   Cordoba                                  196.09
+      OC7909CM   Jefferson City                           835.79
+--------------------------------------------------------------------------------
+31) 853592 Demetrius Valdez Ewing
+    Libros:
+      Codigo     Titulo                                   Precio  
+      CI4897LW   Alsemberg                                463.55
+      MJ3477TJ   Limal                                    30.00
+--------------------------------------------------------------------------------
+32) 898040 Branden Reese Kane
+    Libros:
+      Codigo     Titulo                                   Precio  
+      CH3184NF   Roosdaal                                 895.29
+      DU6818EH   Gadag Betigeri                           953.54
+--------------------------------------------------------------------------------
+33) 913921 Iliana Yang Mccoy
+    Libros:
+      Codigo     Titulo                                   Precio  
+      RA0894SW   Livorno                                  886.01
+--------------------------------------------------------------------------------
+34) 925810 Lucas Boone Medina
+    Libros:
+      Codigo     Titulo                                   Precio  
+      HA7894VA   Lochristi                                979.48
+--------------------------------------------------------------------------------
+35) 936980 Christine Mccray Kelly
+    Libros:
+      Codigo     Titulo                                   Precio  
+      XZ1249KW   Guntur                                   255.71
+--------------------------------------------------------------------------------
+36) 947847 Keefe Lynn Wolf
+    Libros:
+      Codigo     Titulo                                   Precio  
+      NV5132XJ   Bad Hersfeld                             700.53
+--------------------------------------------------------------------------------
+37) 956446 David Paul Skinner
+    Libros:
+      Codigo     Titulo                                   Precio  
+      PI4072CB   Kansas City                              961.81
+      ZZ8636UJ   Annapolis                                712.44
+--------------------------------------------------------------------------------
+38) 965883 Camilla Sanders Vaughn
+    Libros:
+      Codigo     Titulo                                   Precio  
+      YC2039UP   Fort Simpson                             354.46
+--------------------------------------------------------------------------------
+39) 982637 Hadley Stanley Whitfield
+    Libros:
+      Codigo     Titulo                                   Precio  
+      AO4730WG   Moustier-sur-Sambre                      74.92
+      VX2351IT   Bergama                                  926.29
+--------------------------------------------------------------------------------
+40) 984136 Acton Meyers Whitley
+    Libros:
+      Codigo     Titulo                                   Precio  
+      RT1513HU   Guysborough                              514.30
+      YU7376NG   Oetingen                                 683.50
+--------------------------------------------------------------------------------

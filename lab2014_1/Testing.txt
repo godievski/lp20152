@@ -1,0 +1,844 @@
+Codigo: IND367
+Cursos: CREATIVIDAD E INNOVACION
+Creditos: 3
+--------------------------------------------------
+Codigo: CCE254
+Cursos: FUENTES Y ESTRUCTURA DEL ESTADO
+Creditos: 3
+--------------------------------------------------
+Codigo: HIS391
+Cursos: HISTORIA CULTURAL Y DE MENTALIDADES
+Creditos: 3
+--------------------------------------------------
+Codigo: HIS375
+Cursos: HISTORIA DE LA FORMACION DE OCCIDENTE
+Creditos: 3
+--------------------------------------------------
+Codigo: INF358
+Cursos: INNOVACION Y DESARROLLO
+Creditos: 3.5
+--------------------------------------------------
+Codigo: MTR202
+Cursos: PRACTICA SUPERVISADA PRE-PROFESIONAL
+Creditos: 0.5
+--------------------------------------------------
+Codigo: CCO222
+Cursos: TECNOLOGIA DE LA INFORMACION
+Creditos: 4
+--------------------------------------------------
+Codigo: MEC267
+Cursos: INGENIERIA DE MATERIALES
+Creditos: 4
+--------------------------------------------------
+Codigo: MEC2M2
+Cursos: ELEMENTOS DE MAQUINAS 2
+Creditos: 3.5
+--------------------------------------------------
+Codigo: CCC244
+Cursos: FUENTES DOCUMENTALES
+Creditos: 3
+--------------------------------------------------
+Codigo: INF379
+Cursos: SEGURIDAD, CONTROL Y AUDITORIA DE SISTEMAS DE INFORMACION
+Creditos: 4
+--------------------------------------------------
+Codigo: CCO221
+Cursos: METODOS Y TECNICAS DE INVESTIGACION 1
+Creditos: 4
+--------------------------------------------------
+Codigo: HIS392
+Cursos: SEMINARIO DE TESIS 2
+Creditos: 4
+--------------------------------------------------
+Codigo: CCC253
+Cursos: MAQUILLAJE Y CARACTERIZACION
+Creditos: 2
+--------------------------------------------------
+Codigo: CCE204
+Cursos: ACTUACION 1
+Creditos: 4
+--------------------------------------------------
+Codigo: IEE314
+Cursos: TOPICOS DE INSTRUMENTACION Y CONTROL
+Creditos: 3.5
+--------------------------------------------------
+Codigo: LIN208
+Cursos: LENGUA Y COMPOSICION
+Creditos: 3
+--------------------------------------------------
+Codigo: MEC2T1
+Cursos: TERMOFLUIDOS
+Creditos: 4
+--------------------------------------------------
+Codigo: EST218
+Cursos: ESTADISTICA PARA INGENIERIA
+Creditos: 3.5
+--------------------------------------------------
+Codigo: CCE221
+Cursos: DRAMATURGIA 1
+Creditos: 3
+--------------------------------------------------
+Codigo: CCO352
+Cursos: LEGISLACION EN COMUNICACIONES
+Creditos: 2
+--------------------------------------------------
+Codigo: ING225
+Cursos: RESISTENCIA DE MATERIALES 1
+Creditos: 5
+--------------------------------------------------
+Codigo: FIS239
+Cursos: ESTADO SOLIDO
+Creditos: 4.5
+--------------------------------------------------
+Codigo: FIS404
+Cursos: ELECTIVO PARA FISICA 4
+Creditos: 3
+--------------------------------------------------
+Codigo: CCO203
+Cursos: LENGUAJE DE LOS MEDIOS
+Creditos: 4
+--------------------------------------------------
+Codigo: CCC297
+Cursos: PUBLICIDAD INTERACTIVA
+Creditos: 3
+--------------------------------------------------
+Codigo: CCC295
+Cursos: SELECCION Y EVALUACION DE MEDIOS AVANZADO
+Creditos: 3
+--------------------------------------------------
+Codigo: ANT211
+Cursos: ANTROPOLOGIA
+Creditos: 3
+--------------------------------------------------
+Codigo: CCE251
+Cursos: COMUNICACION INTERCULTURAL
+Creditos: 3
+--------------------------------------------------
+Codigo: HIS385
+Cursos: HISTORIA DEL PERU 4: SIGLO XIX (1839-1930)
+Creditos: 4
+--------------------------------------------------
+Codigo: HIS317
+Cursos: HISTORIA DE LA IGLESIA EN EL PERU Y AMERICA LATINA
+Creditos: 3
+--------------------------------------------------
+Codigo: CCE253
+Cursos: HISTORIA DEL PERIODISMO
+Creditos: 2
+--------------------------------------------------
+Codigo: FIS255
+Cursos: ELECTROMAGNETISMO 2
+Creditos: 4.5
+--------------------------------------------------
+Codigo: HIS371
+Cursos: METODOLOGIA DE LA INVESTIGACION HISTORICA 1
+Creditos: 3
+--------------------------------------------------
+Codigo: ICA614
+Cursos: SIMULACION DE SISTEMAS
+Creditos: 3
+--------------------------------------------------
+Codigo: MTR603
+Cursos: ROBOTICA AVANZADA
+Creditos: 3
+--------------------------------------------------
+Codigo: FIS405
+Cursos: ELECTIVO PARA FISICA 5
+Creditos: 3
+--------------------------------------------------
+Codigo: CIC621
+Cursos: ALGORITMOS
+Creditos: 3
+--------------------------------------------------
+Codigo: MTR343
+Cursos: TECNOLOGIAS DE AUTOMATIZACION
+Creditos: 3.5
+--------------------------------------------------
+Codigo: FIS219
+Cursos: SISTEMAS ELECTROMAGNETICOS Y OPTOELECTRONICOS
+Creditos: 4.5
+--------------------------------------------------
+Codigo: CCO363
+Cursos: ESTETICA Y COMUNICACION
+Creditos: 3
+--------------------------------------------------
+Codigo: CCC268
+Cursos: TEATRO MUSICAL
+Creditos: 2
+--------------------------------------------------
+Codigo: MTR606
+Cursos: METROLOGIA Y TECNICAS DE MEDICION
+Creditos: 3
+--------------------------------------------------
+Codigo: IEE239
+Cursos: PROCESAMIENTO DE SENALES E IMAGENES DIGITALES
+Creditos: 4
+--------------------------------------------------
+Codigo: CCE219
+Cursos: OPINION PUBLICA
+Creditos: 3
+--------------------------------------------------
+Codigo: INF370
+Cursos: CALIDAD DE SOFTWARE
+Creditos: 3
+--------------------------------------------------
+Codigo: HIS393
+Cursos: SEMINARIO INTERDISCIPLINARIO
+Creditos: 3
+--------------------------------------------------
+Codigo: INF384
+Cursos: TEMAS AVANZADOS EN INGENIERIA DE SOFTWARE 1
+Creditos: 3.5
+--------------------------------------------------
+Codigo: IEE238
+Cursos: ELECTRONICA BASICA
+Creditos: 4
+--------------------------------------------------
+Codigo: FIS328
+Cursos: TEMAS DE FISICA 5
+Creditos: 4.5
+--------------------------------------------------
+Codigo: HIS404
+Cursos: HISTORIA ANDINA REPUBLICANA
+Creditos: 3
+--------------------------------------------------
+Codigo: CCE354
+Cursos: PROYECTO DE ARTES ESCENICAS
+Creditos: 7
+--------------------------------------------------
+Codigo: INF281
+Cursos: LENGUAJE DE PROGRAMACION 1
+Creditos: 5
+--------------------------------------------------
+Codigo: IEE217
+Cursos: SISTEMAS ELECTRICOS
+Creditos: 3.5
+--------------------------------------------------
+Codigo: CCE271
+Cursos: DRAMATURGIA 2
+Creditos: 4
+--------------------------------------------------
+Codigo: TEO240
+Cursos: TEOLOGIA 2
+Creditos: 3
+--------------------------------------------------
+Codigo: MEC320
+Cursos: OLEOHIDRAULICA Y NEUMATICA
+Creditos: 3
+--------------------------------------------------
+Codigo: MAT218
+Cursos: ECUACIONES DIFERENCIALES APLICADAS
+Creditos: 4.5
+--------------------------------------------------
+Codigo: INF383
+Cursos: TEMAS AVANZADOS EN SISTEMAS DE INFORMACION 2
+Creditos: 3
+--------------------------------------------------
+Codigo: INF008
+Cursos: PRACTICA SUPERVISADA PREPROFESIONAL
+Creditos: 0.5
+--------------------------------------------------
+Codigo: MTR250
+Cursos: PROYECTO DE DISENO MECATRONICO
+Creditos: 6
+--------------------------------------------------
+Codigo: HIS395
+Cursos: HISTORIA DEL PENSAMIENTO Y LA CULTURA POLITICOS
+Creditos: 3
+--------------------------------------------------
+Codigo: INF239
+Cursos: SISTEMAS OPERATIVOS
+Creditos: 4
+--------------------------------------------------
+Codigo: CCC258
+Cursos: PRINCIPIOS DE DANZA
+Creditos: 3
+--------------------------------------------------
+Codigo: CCC250
+Cursos: INDICADORES SOCIALES
+Creditos: 2
+--------------------------------------------------
+Codigo: CCC241
+Cursos: ECONOMIA PARA PERIODISTAS
+Creditos: 3
+--------------------------------------------------
+Codigo: CCC242
+Cursos: ESTUDIOS DE CONSUMO
+Creditos: 2
+--------------------------------------------------
+Codigo: CCC256
+Cursos: PERIODISMO DEPORTIVO
+Creditos: 3
+--------------------------------------------------
+Codigo: CCE249
+Cursos: EDICION DE VIDEO
+Creditos: 4
+--------------------------------------------------
+Codigo: ICA618
+Cursos: CONTROL NOLINEAL
+Creditos: 4
+--------------------------------------------------
+Codigo: HIS232
+Cursos: PALEOGRAFIA Y DIPLOMATICA
+Creditos: 3
+--------------------------------------------------
+Codigo: INF265
+Cursos: APLICACIONES DE CIENCIAS DE LA COMPUTACION
+Creditos: 4
+--------------------------------------------------
+Codigo: IND290
+Cursos: SEGURIDAD INTEGRAL
+Creditos: 3
+--------------------------------------------------
+Codigo: FIS313
+Cursos: FISICA EXPERIMENTAL 2
+Creditos: 4
+--------------------------------------------------
+Codigo: FIS366
+Cursos: ELECTROACUSTICA
+Creditos: 3.5
+--------------------------------------------------
+Codigo: IEE245
+Cursos: TEORIA DE CONTROL 2
+Creditos: 5
+--------------------------------------------------
+Codigo: CCC234
+Cursos: ARTES VISUALES
+Creditos: 2
+--------------------------------------------------
+Codigo: HIS368
+Cursos: TEORIA DE LA HISTORIA
+Creditos: 3
+--------------------------------------------------
+Codigo: CCC232
+Cursos: ANALISIS SEMIOTICO DE LA IMAGEN
+Creditos: 3
+--------------------------------------------------
+Codigo: MEC250
+Cursos: RESISTENCIA DE MATERIALES 2
+Creditos: 4.25
+--------------------------------------------------
+Codigo: CCE248
+Cursos: DISENO Y GESTION DE PROYECTOS DE COMUNICACION
+Creditos: 4
+--------------------------------------------------
+Codigo: FIL324
+Cursos: FILOSOFIA DE LA HISTORIA
+Creditos: 4
+--------------------------------------------------
+Codigo: INF342
+Cursos: SEMINARIO DE INFORMATICA
+Creditos: 3.5
+--------------------------------------------------
+Codigo: HIS380
+Cursos: HISTORIA DEL PERU 3: SIGLO XVIII E INDEPENDENCIA
+Creditos: 4
+--------------------------------------------------
+Codigo: IND293
+Cursos: SEGURIDAD INTEGRAL Y GESTION AMBIENTAL
+Creditos: 4
+--------------------------------------------------
+Codigo: CCE247
+Cursos: ACTORES SOCIALES Y PUBLICOS
+Creditos: 3
+--------------------------------------------------
+Codigo: CCE237
+Cursos: TALLER DE IMAGEN PUBLICITARIA
+Creditos: 4
+--------------------------------------------------
+Codigo: IEE207
+Cursos: ARQUITECTURA DE COMPUTADORAS
+Creditos: 3.5
+--------------------------------------------------
+Codigo: FIS333
+Cursos: INTRODUCCION AL DISENO OPTICO
+Creditos: 4
+--------------------------------------------------
+Codigo: FIS309
+Cursos: MECANICA CUANTICA 2
+Creditos: 4.5
+--------------------------------------------------
+Codigo: CCC333
+Cursos: ESTRATEGIAS Y BRANDING EN LA ERA DIGITAL
+Creditos: 3
+--------------------------------------------------
+Codigo: INF382
+Cursos: TEMAS AVANZADOS EN SISTEMAS DE INFORMACION 1
+Creditos: 3.5
+--------------------------------------------------
+Codigo: HIS381
+Cursos: HISTORIA DEL MUNDO MODERNO
+Creditos: 4
+--------------------------------------------------
+Codigo: CCC267
+Cursos: TEATRO LATINOAMERICANO
+Creditos: 2
+--------------------------------------------------
+Codigo: HIS645
+Cursos: SEMINARIO DE HISTORIA ECONOMICA DE AMERICA LATINA
+Creditos: 3
+--------------------------------------------------
+Codigo: INF273
+Cursos: ADMINISTRACION DE LA FUNCION INFORMATICA
+Creditos: 3.5
+--------------------------------------------------
+Codigo: INF263
+Cursos: ALGORITMIA
+Creditos: 3.75
+--------------------------------------------------
+Codigo: INF237
+Cursos: LENGUAJE DE PROGRAMACION ORIENTADA A OBJETOS
+Creditos: 4
+--------------------------------------------------
+Codigo: INF371
+Cursos: INTELIGENCIA ARTIFICIAL
+Creditos: 4
+--------------------------------------------------
+Codigo: HIS388
+Cursos: SEMINARIO DE TESIS 1
+Creditos: 4
+--------------------------------------------------
+Codigo: INF377
+Cursos: SISTEMAS DE INFORMACION GERENCIAL
+Creditos: 4
+--------------------------------------------------
+Codigo: MEC2T3
+Cursos: LABORATORIO DE INTRODUCCION AL DISENO DE MAQUINAS
+Creditos: 1
+--------------------------------------------------
+Codigo: MEC270
+Cursos: PROCESOS DE MANUFACTURA
+Creditos: 4
+--------------------------------------------------
+Codigo: CCO202
+Cursos: TEORIAS DE LA COMUNICACION
+Creditos: 3
+--------------------------------------------------
+Codigo: FIS324
+Cursos: TEMAS DE FISICA 1
+Creditos: 4.5
+--------------------------------------------------
+Codigo: CCE256
+Cursos: DISENO, EDICION Y PRODUCCION EDITORIAL
+Creditos: 4
+--------------------------------------------------
+Codigo: INF220
+Cursos: FUNDAMENTOS DE PROGRAMACION
+Creditos: 5
+--------------------------------------------------
+Codigo: HIS389
+Cursos: HISTORIA DEL PERU 5: 1930 HASTA LA ACTUALIDAD
+Creditos: 4
+--------------------------------------------------
+Codigo: INF388
+Cursos: TEMAS AVANZADOS EN INGENIERIA DE COMPUTADORAS 1
+Creditos: 3.5
+--------------------------------------------------
+Codigo: HIS236
+Cursos: HISTORIOGRAFIA PERUANA
+Creditos: 3
+--------------------------------------------------
+Codigo: IND328
+Cursos: GESTION DE PROYECTOS
+Creditos: 3
+--------------------------------------------------
+Codigo: CCC286
+Cursos: ECOLOGIA Y COMUNICACION
+Creditos: 3
+--------------------------------------------------
+Codigo: MEC206
+Cursos: TERMODINAMICA 1
+Creditos: 4.5
+--------------------------------------------------
+Codigo: FIS402
+Cursos: ELECTIVO PARA FISICA 2
+Creditos: 3
+--------------------------------------------------
+Codigo: MAT202
+Cursos: SERIES Y TRANSFORMADAS
+Creditos: 3.5
+--------------------------------------------------
+Codigo: FIL216
+Cursos: FILOSOFIA 2
+Creditos: 3
+--------------------------------------------------
+Codigo: CCE218
+Cursos: INFORMACION PERIODISTICA
+Creditos: 3
+--------------------------------------------------
+Codigo: CCC279
+Cursos: INTRODUCCION AL ENSAYO
+Creditos: 3
+--------------------------------------------------
+Codigo: MEC328
+Cursos: PROCESOS INDUSTRIALES E INSTRUMENTACION
+Creditos: 3
+--------------------------------------------------
+Codigo: HIS379
+Cursos: HISTORIA DEL MUNDO MEDIEVAL
+Creditos: 3
+--------------------------------------------------
+Codigo: CCE215
+Cursos: ILUMINACION
+Creditos: 4
+--------------------------------------------------
+Codigo: CCE232
+Cursos: REALIZACION DE AUDIO Y VIDEO
+Creditos: 5
+--------------------------------------------------
+Codigo: INF274
+Cursos: ADMINISTRACION DE SISTEMAS OPERATIVOS Y BASE DE DATOS
+Creditos: 4
+--------------------------------------------------
+Codigo: INF378
+Cursos: SISTEMAS EXPERTOS
+Creditos: 4
+--------------------------------------------------
+Codigo: MAT781
+Cursos: MATEMATICA COMPUTACIONAL PARA CONTROL
+Creditos: 3
+--------------------------------------------------
+Codigo: INF386
+Cursos: TEMAS AVANZADOS EN TECNOLOGIA DE INFORMACION 1
+Creditos: 3.5
+--------------------------------------------------
+Codigo: MEC209
+Cursos: MECANICA DE FLUIDOS
+Creditos: 5.25
+--------------------------------------------------
+Codigo: MEC315
+Cursos: DINAMICA APLICADA
+Creditos: 3
+--------------------------------------------------
+Codigo: TEL201
+Cursos: TEORIA DE COMUNICACIONES
+Creditos: 4
+--------------------------------------------------
+Codigo: CCE356
+Cursos: TENDENCIAS TEATRALES CONTEMPORANEAS
+Creditos: 3
+--------------------------------------------------
+Codigo: CCE217
+Cursos: PRODUCCION PARA MEDIOS AUDIOVISUALES
+Creditos: 3
+--------------------------------------------------
+Codigo: IEE208
+Cursos: LABORATORIO DE ARQUITECTURA DE COMPUTADORAS
+Creditos: 1
+--------------------------------------------------
+Codigo: CIC602
+Cursos: LENGUAJES DE PROGRAMACION
+Creditos: 3
+--------------------------------------------------
+Codigo: CCO232
+Cursos: METODOS Y TECNICAS DE INVESTIGACION 2
+Creditos: 4
+--------------------------------------------------
+Codigo: MTR605
+Cursos: DISENO E INTEGRACION DEL SISTEMA MECATRONICO
+Creditos: 3
+--------------------------------------------------
+Codigo: CCE264
+Cursos: PERIODISMO DE INVESTIGACION
+Creditos: 4
+--------------------------------------------------
+Codigo: HIS378
+Cursos: HISTORIA DE AMERICA CONTEMPORANEA: SIGLOS XIX A XXI
+Creditos: 4
+--------------------------------------------------
+Codigo: MAT241
+Cursos: METODOS NUMERICOS EN INGENIERIA
+Creditos: 3
+--------------------------------------------------
+Codigo: CCE210
+Cursos: PERSUASION
+Creditos: 3
+--------------------------------------------------
+Codigo: CCE226
+Cursos: COMUNICACION PARA EL DESARROLLO 1: PERSPECTIVAS TEORICAS
+Creditos: 3
+--------------------------------------------------
+Codigo: INF630
+Cursos: BASE DE DATOS 2
+Creditos: 3
+--------------------------------------------------
+Codigo: CCC298
+Cursos: COMUNICACION BTL
+Creditos: 4
+--------------------------------------------------
+Codigo: IND251
+Cursos: GESTION Y DIRECCION DE EMPRESAS
+Creditos: 3.5
+--------------------------------------------------
+Codigo: CCO234
+Cursos: SEMIOTICA PARA COMUNICACIONES
+Creditos: 3
+--------------------------------------------------
+Codigo: CCC254
+Cursos: MARKETING DE SERVICIOS
+Creditos: 4
+--------------------------------------------------
+Codigo: CCE211
+Cursos: MEDIOS AUDIOVISUALES
+Creditos: 3
+--------------------------------------------------
+Codigo: INF248
+Cursos: SISTEMAS DE INFORMACION 1
+Creditos: 5
+--------------------------------------------------
+Codigo: CCE261
+Cursos: TECNICAS DE GUION
+Creditos: 3
+--------------------------------------------------
+Codigo: IND232
+Cursos: ELABORACION Y EVALUACION DE PROYECTOS
+Creditos: 3.5
+--------------------------------------------------
+Codigo: CCE212
+Cursos: HISTORIA DEL TEATRO PERUANO
+Creditos: 3
+--------------------------------------------------
+Codigo: CCC231
+Cursos: ACTUACION 3
+Creditos: 4
+--------------------------------------------------
+Codigo: FIS220
+Cursos: TECNICAS COMPUTACIONALES EN FISICA
+Creditos: 4.5
+--------------------------------------------------
+Codigo: INF376
+Cursos: SISTEMAS DISTRIBUIDOS
+Creditos: 4
+--------------------------------------------------
+Codigo: HIS405
+Cursos: HISTORIA DE LA POBLACION Y ETNICIDAD
+Creditos: 3
+--------------------------------------------------
+Codigo: INF392
+Cursos: PROYECTO DE TESIS 2
+Creditos: 4
+--------------------------------------------------
+Codigo: INF357
+Cursos: INTELIGENCIA DE NEGOCIOS
+Creditos: 3.5
+--------------------------------------------------
+Codigo: FIS218
+Cursos: FISICA MODERNA
+Creditos: 4.5
+--------------------------------------------------
+Codigo: IEE216
+Cursos: LABORATORIO DE MAQUINAS ELECTRICAS 1
+Creditos: 0.5
+--------------------------------------------------
+Codigo: FIS240
+Cursos: TERMODINAMICA Y MECANICA ESTADISTICA
+Creditos: 4.5
+--------------------------------------------------
+Codigo: ING301
+Cursos: MANUFACTURA INTEGRADA POR COMPUTADORA
+Creditos: 3.5
+--------------------------------------------------
+Codigo: CCC292
+Cursos: PRODUCC.Y REALIZAC . DE MATERIAL. AUDIOVISUALES PARA EL DESARR
+Creditos: 4
+--------------------------------------------------
+Codigo: FIS403
+Cursos: ELECTIVO PARA FISICA 3
+Creditos: 3
+--------------------------------------------------
+Codigo: HIS318
+Cursos: HISTORIA SOCIAL
+Creditos: 3
+--------------------------------------------------
+Codigo: FIS325
+Cursos: TEMAS DE FISICA 2
+Creditos: 4.5
+--------------------------------------------------
+Codigo: INF385
+Cursos: TEMAS AVANZADOS EN INGENIERIA DE SOFTWARE 2
+Creditos: 3
+--------------------------------------------------
+Codigo: MTR240
+Cursos: METODOLOGIA DEL DISENO MECATRONICO
+Creditos: 3
+--------------------------------------------------
+Codigo: HIS374
+Cursos: HISTORIA DE AMERICA ANTIGUA Y COLONIAL
+Creditos: 4
+--------------------------------------------------
+Codigo: INF356
+Cursos: TECNOLOGIAS WEB
+Creditos: 3.5
+--------------------------------------------------
+Codigo: FIS248
+Cursos: MECANICA CLASICA 1
+Creditos: 4.5
+--------------------------------------------------
+Codigo: IOP225
+Cursos: TEORIA DE COLAS
+Creditos: 3.5
+--------------------------------------------------
+Codigo: INF627
+Cursos: PROGRAMACION EN EL SISTEMA UNIX
+Creditos: 3
+--------------------------------------------------
+Codigo: INF353
+Cursos: ADMINISTRACION DE SISTEMAS OPERATIVOS
+Creditos: 4
+--------------------------------------------------
+Codigo: CCC289
+Cursos: RESPONSABILIDAD SOCIAL, CONCERTACION Y MANEJO DE CONFLICTOS
+Creditos: 3
+--------------------------------------------------
+Codigo: CCE239
+Cursos: PRODUCCION PUBLICITARIA
+Creditos: 3
+--------------------------------------------------
+Codigo: IND231
+Cursos: INGENIERIA ECONOMICA
+Creditos: 3.5
+--------------------------------------------------
+Codigo: IND281
+Cursos: INVESTIGACION OPERATIVA 2
+Creditos: 4
+--------------------------------------------------
+Codigo: IEE312
+Cursos: ELECTRONICA DE POTENCIA
+Creditos: 3.5
+--------------------------------------------------
+Codigo: IEE223
+Cursos: CIRCUITOS ELECTRICOS
+Creditos: 5
+--------------------------------------------------
+Codigo: CCC238
+Cursos: CREACION FOTOGRAFICA
+Creditos: 4
+--------------------------------------------------
+Codigo: INF647
+Cursos: INTERACCION PERSONA-COMPUTADOR
+Creditos: 3
+--------------------------------------------------
+Codigo: MEC373
+Cursos: METROLOGIA
+Creditos: 3
+--------------------------------------------------
+Codigo: CCO351
+Cursos: SEMINARIO DE INVESTIGACION 1
+Creditos: 4
+--------------------------------------------------
+Codigo: INF291
+Cursos: METODOS Y PROCEDIMIENTOS
+Creditos: 3.5
+--------------------------------------------------
+Codigo: MEC286
+Cursos: TRANSFERENCIA DE CALOR
+Creditos: 4.25
+--------------------------------------------------
+Codigo: HIS666
+Cursos: SEMINARIO SOBRE HISTORIA REGIONAL
+Creditos: 3
+--------------------------------------------------
+Codigo: CCE222
+Cursos: EXPRESION ORAL Y CORPORAL 1
+Creditos: 3
+--------------------------------------------------
+Codigo: ICA611
+Cursos: IDENTIFICACION DE SISTEMAS
+Creditos: 4
+--------------------------------------------------
+Codigo: INF391
+Cursos: PROYECTO DE TESIS 1
+Creditos: 2
+--------------------------------------------------
+Codigo: MTR218
+Cursos: HERRAMIENTAS DE SIMULACION
+Creditos: 3
+--------------------------------------------------
+Codigo: MTR607
+Cursos: AUTOMATIZACION DE LA FABRICACION
+Creditos: 3
+--------------------------------------------------
+Codigo: HIS394
+Cursos: TALLER DE FORMACION PROFESIONAL
+Creditos: 3
+--------------------------------------------------
+Codigo: HIS386
+Cursos: HISTORIA DEL MUNDO CONTEMPORANEO
+Creditos: 4
+--------------------------------------------------
+Codigo: CCE231
+Cursos: NARRACION AUDIOVISUAL
+Creditos: 4
+--------------------------------------------------
+Codigo: CCE216
+Cursos: VIDEO 1
+Creditos: 5
+--------------------------------------------------
+Codigo: HIS390
+Cursos: ETICA PROFESIONAL DEL HISTORIADOR
+Creditos: 2
+--------------------------------------------------
+Codigo: MTR601
+Cursos: MECANICA DE PRECISION Y MICROMECANICA
+Creditos: 3
+--------------------------------------------------
+Codigo: HIS294
+Cursos: HISTORIA DE ESPANA MEDIEVAL Y MODERNA
+Creditos: 3
+--------------------------------------------------
+Codigo: FIS203
+Cursos: FISICA 4
+Creditos: 4.5
+--------------------------------------------------
+Codigo: CCE201
+Cursos: FOTOGRAFIA
+Creditos: 4
+--------------------------------------------------
+Codigo: CCC270
+Cursos: TELECOMUNICACIONES
+Creditos: 3
+--------------------------------------------------
+Codigo: MTR608
+Cursos: VISION POR COMPUTADORA
+Creditos: 3
+--------------------------------------------------
+Codigo: CIS232
+Cursos: SOCIOLOGIA 2
+Creditos: 3
+--------------------------------------------------
+Codigo: CCC331
+Cursos: CINE LATINOAMERICANO
+Creditos: 3
+--------------------------------------------------
+Codigo: FIS335
+Cursos: ACUSTICA
+Creditos: 4
+--------------------------------------------------
+Codigo: INF227
+Cursos: DESARROLLO DE PROGRAMAS 2
+Creditos: 3
+--------------------------------------------------
+Codigo: INF639
+Cursos: PROCESO DE CONSTRUCCION DE SOFTWARE 1
+Creditos: 3
+--------------------------------------------------
+Codigo: CCE220
+Cursos: TECNICAS Y ESTRATEGIAS DE MARKETING 1
+Creditos: 3
+--------------------------------------------------
+Codigo: HIS397
+Cursos: HISTORIA DE LOS ESTADOS UNIDOS DE AMERICA
+Creditos: 3
+--------------------------------------------------
+Codigo: FIS326
+Cursos: TEMAS DE FISICA 3
+Creditos: 4.5
+--------------------------------------------------
+Codigo: CCE250
+Cursos: COMUNICACION Y PERSUASION
+Creditos: 3
+--------------------------------------------------
+Codigo: CIC611
+Cursos: MATEMATICAS PARA COMPUTACION
+Creditos: 3
+--------------------------------------------------

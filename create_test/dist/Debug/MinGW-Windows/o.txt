@@ -1,0 +1,139 @@
+552053    	Doris       Cline      Meyer
+398704   	Brady     Benton    Petty
+518191     	Molly      Kennedy      Weiss
+735180   	Reed     Warren     Barron
+984136    	Acton       Meyers     Whitley
+690132      	Kennan       Conway      Mccray
+965883      	Camilla    Sanders       Vaughn
+449508   	Christine      Shaffer     Calderon
+522697   	Donovan      Gilmore     Clements
+982637   	Hadley      Stanley       Whitfield
+947847      	Keefe      Lynn       Wolf
+240034     	Germaine     Hampton    Paul
+764272      	Denton       Bowman       Hancock
+519408     	Jin       Rivera       Bennett
+755582     	Odysseus     Lewis     Palmer
+804526   	Katelyn     Cruz       Rose
+441404    	Astra    Sellers       Cross
+274693   	Shana      Price     Montoya
+925810    	Lucas       Boone       Medina
+406567    	Knox     Fischer      Nixon
+956446   	David       Paul      Skinner
+302514     	Claudia    Hughes      Ferguson
+853592   	Demetrius      Valdez    Ewing
+842319   	Nayda      Mclean     Sellers
+503471     	Marshall     Mcfadden      Bray
+221140     	Cheyenne      Swanson     Townsend
+807138    	Beatrice    Riley     Perry
+936980      	Christine    Mccray      Kelly
+306464   	Brynne    Berger      Holland
+461280   	Justine       Shaffer    Cantu
+337900   	Pamela       Warren      Valenzuela
+554447      	Paloma     Rose      Howard
+898040     	Branden      Reese     Kane
+421151    	Ulric     Sloan       Quinn
+136176      	Roary      Mueller    Singleton
+680172     	Yoshi     Mcclain      Carney
+913921    	Iliana      Yang     Mccoy
+472498    	Judah    Bauer    Mcgee
+678831     	Cynthia     Bean     Welch
+415365    	Blaine     Salas    Jefferson
+TZ6992BY     	Birmingham     	     175.31
+AV4301GH   	Langenburg      	       831.63
+CG7775HS      	Waasmunster     	       151.81
+CX8610DF   	Calgary     	      256.98
+YP9092WS    	Meise   	      973.01
+ZM4019QX     	Villafranca       d'Asti      	       633.86
+EU8863RY    	Elen    	       551.52
+NW8713FJ    	McCallum      	     594.39
+FQ5601JW    	Fulda    	      134.84
+RS1097PE    	Southaven   	      438.11
+OR3582ZG     	Marke     	      469.50
+MM6599DA    	Nanaimo   	    693.49
+EH0353MH      	Leverkusen     	       795.94
+QW5751ZB     	East       Linton   	     407.11
+JF1053TG   	Coalhurst      	       605.44
+UE9966UV    	Aserrí     	      213.91
+ML3958RR      	Corvino    San      Quirico   	    728.76
+CJ2153NR    	Midlands   	       469.74
+OQ8793PM   	Sint-Gillis-bij-Dendermonde   	     819.24
+OA1071JN     	Runcorn    	       392.93
+TU4478FS     	Huntsville     	    97.06
+EW7827YG   	Rotterdam      	       787.59
+UX7584TD   	Castres    	    444.61
+LS3357RN      	Spruce       Grove    	      123.09
+LF8715JV    	Senneville    	      272.08
+GO3295YH    	Bellevue   	       633.48
+IT5207IR      	Montenero    Val     Cocchiara      	    110.31
+SV6685ZL     	Quispamsis      	    591.00
+WH1924UU   	Körfez   	     56.17
+CP4175HB    	Rochester     	       527.99
+UX0802BO    	Daly    	       48.09
+SQ6249PL      	Couillet      	      599.74
+EL3615FJ      	Jedburgh   	    60.06
+JU8386UQ     	Bo'ness     	    71.50
+OY8392SY   	Prince      Albert    	     382.33
+UQ6669VH     	Mesa    	     374.17
+MT8805KJ   	Colombo     	      654.40
+KH6452ED   	Galashiels     	       448.91
+PL0847UQ     	Mobile    	      174.05
+XU8010WF      	Eastbourne      	    50.74
+ME0371CR   	Polatlı      	      507.70
+GP9449RW     	Brunn    am       Gebirge   	      813.82
+JI6803RT     	Ruisbroek     	       928.51
+PI4072CB    	Kansas     City     	    961.81
+CD8584SW   	Brechin    	      387.43
+VX2351IT     	Bergama      	     926.29
+JX5528EL      	San     Francisco   	    393.05
+BN2484WB    	Vosselaar      	    487.07
+AW9644AJ   	Bangalore     	       495.39
+GO1236HP    	Mildura    	    563.57
+RT1695HR    	Poggio     San       Marcello      	      170.56
+DU6818EH    	Gadag      Betigeri    	    953.54
+RT1513HU     	Guysborough    	     514.30
+KH9844GE   	Ketchikan   	     938.79
+BJ2377VL     	Vliermaalroot    	     951.77
+UY7029HT   	Recife    	    262.42
+UE6109PA   	Milestone    	       821.21
+MJ3477TJ     	Limal    	     30.00
+OC7909CM   	Jefferson     City   	      835.79
+NH6684BJ    	Manchester      	       973.41
+YU8220TG      	Spermalie   	       152.89
+TC3039ML    	Qu?bec     City    	      232.65
+DH9168OM    	Nashik    	       833.71
+WE4136MJ    	Bonavista   	      80.07
+XZ1249KW    	Guntur   	      255.71
+WL0834SJ      	Harrisburg     	      792.95
+AQ3151SS    	Coatbridge   	       152.13
+HA7894VA     	Lochristi      	     979.48
+EL3540RM      	Kalgoorlie-Boulder    	     187.25
+DB7726HM   	Vandoies/Vintl   	    484.89
+YC2039UP    	Fort     Simpson   	     354.46
+RK9810LK     	Gallicchio     	      603.70
+FX1128MP    	Jaranwala   	    919.27
+SJ6054UL     	Branchon    	     114.61
+NV5132XJ      	Bad      Hersfeld    	      700.53
+IT9953WV   	Levin      	    361.27
+ZR0250XR      	Ponte     nelle    Alpi     	      772.47
+RA0894SW    	Livorno    	      886.01
+JH3353UB    	Gembloux     	      567.02
+RH2390OR   	Falkensee     	       767.52
+GU1148TY    	Stewart     	       697.51
+BD3472WB     	Rotem    	     564.78
+YH9858ST     	Kulti-Barakar     	    693.78
+ZZ8636UJ     	Annapolis     	    712.44
+IG1796YO      	Bowden    	      726.80
+AO4730WG      	Moustier-sur-Sambre    	      74.92
+JG6431HQ    	Muzaffargarh    	      931.25
+KM9930PH      	Vorselaar   	    254.99
+FL0478YD    	Edmundston     	    201.15
+KP8413II    	Bolzano/Bozen      	      57.11
+YF3386WM      	Malgesso      	     51.49
+CH3184NF      	Roosdaal   	       895.29
+YU7376NG   	Oetingen    	     683.50
+LX3626NH      	Merksplas   	     538.64
+AY1798WE    	Oromocto    	       221.10
+CK5532IT   	Omaha     	      567.53
+HL9826EC     	Carleton   	    535.90
+CI4897LW      	Alsemberg   	     463.55
+BL9716RL     	Córdoba     	      196.09
