@@ -1,0 +1,205 @@
+92568858 RAFFO ARIAS SURAMI ANNIE       INGENIERIA INFORMATICA
+2009-2   2013-1
+Promedio: <12.7397>
+Creditos totales: 157.5
+------------------------------------------------
+53770822 VELASQUEZ HUAYANAY EDGARD       INGENIERIA INFORMATICA
+2004-1   2008-1
+Promedio: <12.4884>
+Creditos totales: 151.5
+------------------------------------------------
+28662905 CORONEL CHUMPITAZ HELI       INGENIERIA INFORMATICA
+2009-2   2013-2
+Promedio: <11.2603>
+Creditos totales: 146
+------------------------------------------------
+11210211 CERNA HIJAR JOSE ROLANDO       INGENIERIA INFORMATICA
+2002-2   2006-1
+Promedio: <13.2244>
+Creditos totales: 151.5
+------------------------------------------------
+33950388 ARCA AMEZQUITA EDRIC RONALD       ARTES ESCENICAS
+2009-2   2014-2
+Promedio: <13.2519>
+Creditos totales: 194.5
+------------------------------------------------
+48257083 CHUNG LEE ALVARO       ARTES ESCENICAS
+2002-2   2010-2
+Promedio: <12.5882>
+Creditos totales: 246.5
+------------------------------------------------
+99542858 VALVERDE FLORES IRMA YDALI       HISTORIA
+2010-1   2014-1
+Promedio: <13.4295>
+Creditos totales: 156
+------------------------------------------------
+27045389 PINTO CALIXTO SHIRLEY       INGENIERIA INFORMATICA
+2010-1   2016-1
+Promedio: <12.0632>
+Creditos totales: 213.5
+------------------------------------------------
+59798296 INGA FLORES CESAR ADOLFO       INGENIERIA INFORMATICA
+2010-1   2017-2
+Promedio: <13.303>
+Creditos totales: 247.5
+------------------------------------------------
+80454741 JUSTINO FORZANI ERICKA VICTORIA       HISTORIA
+2004-2   2010-2
+Promedio: <12.29>
+Creditos totales: 219
+------------------------------------------------
+91822709 SHIRAKAWA ORTEGA ANGEL       HISTORIA
+2010-2   2018-1
+Promedio: <12.0781>
+Creditos totales: 256
+------------------------------------------------
+76640089 CORRALES TSUKAZAN IRMA LOURDE      INGENIERIA INFORMATICA
+2003-1   2009-2
+Promedio: <13.5657>
+Creditos totales: 224.5
+------------------------------------------------
+89952695 WONG MARTEL MADELEINE       ARTES ESCENICAS
+2000-2   2005-2
+Promedio: <11.6514>
+Creditos totales: 218
+------------------------------------------------
+43198264 ARROYO GORDILLO MARIA HELI       HISTORIA
+2007-2   2011-2
+Promedio: <12.7962>
+Creditos totales: 159.5
+------------------------------------------------
+54374521 SALAS AGUERO DANIEL       INGENIERIA INFORMATICA
+2004-2   2012-1
+Promedio: <12.951>
+Creditos totales: 285.5
+------------------------------------------------
+34927575 CHUMPITAZ IBEROS RONAL       FISICA
+2009-2   2017-2
+Promedio: <12.4322>
+Creditos totales: 298.5
+------------------------------------------------
+67803427 FERNANDEZ ORTEGA ELIZABETH ELIZ      INGENIERIA INFORMATICA
+2010-2   2014-2
+Promedio: <11.0578>
+Creditos totales: 173
+------------------------------------------------
+97424727 DIAZ CORREA IRMA VIRGINIA       FISICA
+2001-2   2007-1
+Promedio: <12.9932>
+Creditos totales: 219
+------------------------------------------------
+11607743 MORALES VALVERDE INES MARTHA      ARTES ESCENICAS
+2000-2   2005-1
+Promedio: <11.9348>
+Creditos totales: 176.5
+------------------------------------------------
+16271079 PEREZ FARFAN RICHARD SANDRO       FISICA
+2001-2   2008-2
+Promedio: <12.5051>
+Creditos totales: 244.5
+------------------------------------------------
+29133508 PAIRAZAMAN ALAMO MOISES MIGUEL       FISICA
+2000-1   2007-2
+Promedio: <12.6015>
+Creditos totales: 268.5
+------------------------------------------------
+27384107 DIAZ ANTEZANO MAGALI SILVANA       INGENIERIA INFORMATICA
+2000-2   2006-1
+Promedio: <12.3342>
+Creditos totales: 196
+------------------------------------------------
+17571342 HENRIQUEZ ESPINO BEATRIZ       HISTORIA
+2008-1   2013-1
+Promedio: <11.7268>
+Creditos totales: 194
+------------------------------------------------
+70221990 VILLA YALLICO TATIANA NANCY       HISTORIA
+2010-2   2017-2
+Promedio: <12.5286>
+Creditos totales: 210
+------------------------------------------------
+63972659 FORZANI CARO ALONSO       HISTORIA
+2005-2   2013-2
+Promedio: <12.1684>
+Creditos totales: 285
+------------------------------------------------
+23433873 NORABUENA PRECIADO CINTHIA       HISTORIA
+2002-2   2009-1
+Promedio: <13.5496>
+Creditos totales: 232
+------------------------------------------------
+95519931 REYES TANG EDWARD       FISICA
+2005-2   2011-2
+Promedio: <12.6603>
+Creditos totales: 262
+------------------------------------------------
+12695502 CABRERA CANALES GUILLERMO       HISTORIA
+2002-1   2008-1
+Promedio: <12.7196>
+Creditos totales: 214
+------------------------------------------------
+13656751 VEGA GARCIA JANET REBECA       INGENIERIA INFORMATICA
+2004-1   2010-2
+Promedio: <11.7388>
+Creditos totales: 233.5
+------------------------------------------------
+69473291 ROMERO PALOMARES GLORIA TATIAN      ARTES ESCENICAS
+2010-1   2015-2
+Promedio: <12.3432>
+Creditos totales: 185
+------------------------------------------------
+61493520 CERNA PAIRAZAMAN FIORELLA       INGENIERIA INFORMATICA
+2010-1   2016-2
+Promedio: <11.7818>
+Creditos totales: 192.5
+------------------------------------------------
+46493617 LANDEO SUELDO ADOLFO       HISTORIA
+2007-1   2013-1
+Promedio: <12.086>
+Creditos totales: 215
+------------------------------------------------
+63495451 VASQUEZ PAZ ALEX MARTIN       FISICA
+2005-1   2011-2
+Promedio: <13.4499>
+Creditos totales: 234.5
+------------------------------------------------
+66470953 PALOMARES VERA HENRRY HUMBERTO       INGENIERIA INFORMATICA
+2001-2   2008-1
+Promedio: <12.787>
+Creditos totales: 253.5
+------------------------------------------------
+14012431 SHIRAKAWA MIRANDA MADELEINE       FISICA
+2008-2   2013-1
+Promedio: <11.7072>
+Creditos totales: 152
+------------------------------------------------
+63289680 PRADO VERGEL CARLOS JU      FISICA
+2010-1   2015-2
+Promedio: <12.8792>
+Creditos totales: 194.5
+------------------------------------------------
+84922739 HERNANDEZ BARRIOS EMILIO       INGENIERIA INFORMATICA
+2001-1   2009-2
+Promedio: <13.1037>
+Creditos totales: 284.5
+------------------------------------------------
+92186259 AQUINO TORO VALENTINA ROCIO       ARTES ESCENICAS
+2005-2   2010-2
+Promedio: <13.5806>
+Creditos totales: 186
+------------------------------------------------
+24461535 CERNA DURAND MARTIN       INGENIERIA INFORMATICA
+2008-2   2013-2
+Promedio: <11.7206>
+Creditos totales: 204
+------------------------------------------------
+39026855 CABRERA LUNA SHIRLEY ISABEL       ARTES ESCENICAS
+2003-1   2009-2
+Promedio: <11.2005>
+Creditos totales: 187
+------------------------------------------------
+93317884 PAREDES PATINO CHRISTIAN       HISTORIA
+2007-2   2014-2
+Promedio: <13.276>
+Creditos totales: 235.5
+------------------------------------------------
