@@ -75,7 +75,9 @@ void AdministradorDeArchivos::leeNombre (ifstream &archTxt,char *nombre)
         nombre[n] = c;
         n++;
     }
-    nombre[n] = 0;
+    int i = n - 1;
+    while (nombre[i] == ' ') i--;
+    nombre[i+1] = 0;
 }
 
 void AdministradorDeArchivos::leeEspecialidad (ifstream &archTxt,char *especialidad)
@@ -138,7 +140,11 @@ void AdministradorDeArchivos::setNombres(char *nomb)
     setNombreBin(nomb);
     int n = 0;
     
-    while (nombreBin[n] != '.') n++;
+    while (nombreBin[n] != '.' && nombreBin[n]) n++;
+    if (!nombreBin[n]){
+        cerr << "El nombre del archivo\"" << nomb << "\" no tiene una extensión.\n";
+        exit(1);
+    }
     //Se cambia la extension a .bin el nombre el archivo
     nombreBin[n+1] = 'b';
     nombreBin[n+2] = 'i';

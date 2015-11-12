@@ -48,6 +48,7 @@ void AdministradorDeArchivos::actualizarArchivo (void)
     int anho, sem;
     char trash[30], codStr[30], linea[1000];
     
+    /*LO DE ABAJO SE LEE EN LINEA 57*/
     archTxt.getline(trash,30,' ');
     while (1){
         archTxt >> anho >> sem;
