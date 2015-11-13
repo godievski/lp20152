@@ -25,7 +25,7 @@ public:
     void assign (char*);
     void assign (const StringGD&);
     int length (void) const;
-    StringGD& operator = (char *);
+    void operator = (char *);
     StringGD& operator = (const StringGD&);
     void append (char*);
     void append (const StringGD&);

@@ -81,6 +81,7 @@ void StringGD::assign (const StringGD& orig)
         cerr << "Error in assign method. Null is not permited\n";
         exit(1);
     }
+    
     this->len = orig.length();
     if (orig.length() > this->cap){
         this->cap = (INCREMENT + 1) * orig.length();
@@ -91,14 +92,14 @@ void StringGD::assign (const StringGD& orig)
         this->str[i] = orig.str[i];
 }
 
-StringGD& StringGD::operator = (char* str)
+void StringGD::operator = (char* str)
 {
     if (!str){
         cerr << "Error in assignment operator. Null is not permited\n";
         exit(1);
     }
     assign(str);
-    return *this;
+    //return *this;
 }
 
 StringGD& StringGD::operator = (const StringGD& orig)
@@ -115,15 +116,13 @@ void StringGD::append (char * str)
     }
     int len_str = _strlen(str);
     int lim = len + len_str;
+    StringGD temp (len);
     if (lim > cap){
-        char *temp_self = new char[len+1];
-        char_cast(temp_self);
-        cap = (1 + INCREMENT) * lim;
+        temp.assign(*this);
+        this->cap = (INCREMENT + 1) * lim;
         delete [] this->str;
-        this->str = new char[cap];
-        for (int i = 0; i < len; i++)
-            (this->str)[i] = temp_self[i];
-        delete [] temp_self;
+        this->str = new char[this->cap];
+        assign(temp);
     }
     for (int i = len; i < lim; i++)
         (this->str)[i] = str[i - len];
@@ -138,15 +137,13 @@ void StringGD::append (const StringGD& orig)
     }
     int len_str = orig.length();
     int lim = len + len_str;
+    StringGD temp (len);
     if (lim > cap){
-        char *temp_self = new char[len+1];
-        char_cast(temp_self);
-        cap = (1 + INCREMENT) * lim;
+        temp.assign(*this);
+        this->cap = (1 + INCREMENT) * lim;
         delete [] this->str;
-        this->str = new char[cap];
-        for (int i = 0; i < len; i++)
-            (this->str)[i] = temp_self[i];
-        delete [] temp_self;
+        this->str = new char[this->cap];
+        assign(temp);
     }
     for (int i = len; i < lim; i++)
         (this->str)[i] = orig.str[i - len];
