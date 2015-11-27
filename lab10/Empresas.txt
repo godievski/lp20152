@@ -1,0 +1,17 @@
+    713660          Banco de la construccion
+    239229          Transportes seguros S. A.
+    661959          Panaderia y pasteleria Valentina
+    717867          Supermercados Verdes
+    942173          Taxis Los Rapidos de las carreteras
+    733117          Financiera Los millones
+    901632          Automotriz Ruedas Timones y Motores
+    549168          Chocolates Naomi
+    195945          Seguros El riesgoso
+    798879          Gasolineras El combustible S. A.
+    145909          Centro comercial Los Manzanos
+    728374          Inmobiliaria Las casonas
+    540081          Zapateria El botin de oro
+    377774          Bodegas unificadas
+    300259          Telecomunicaciones En picada
+    151156          Gimnasios Dorados
+    273041          Librerias grandiosas

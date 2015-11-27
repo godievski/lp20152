@@ -38,6 +38,7 @@ public:
     int operator > (const StringGD&) const;
     void print (void) const;
     void char_cast (char *) const; //My own method
+    char operator [] (int) const;
 private:
     char *str;
     int len;

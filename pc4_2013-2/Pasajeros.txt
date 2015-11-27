@@ -1,0 +1,6 @@
+ 37787771            ACUNA/AYLLON/BLANCA-LUZ                     Juliaca
+ 87334863        URBINA/ANTEZANO/VALENTINA-PAULA                 Iquitos
+ 39598526        GONZALES/AGUIRRE/EMILIO-EMIGDIO            Puerto-Maldonado
+ 67592501          MORI/SUAREZ/EDILBERTO-JESUS                   Huacho
+ 25669913        VARGAS/GUEVARA/HUMBERTO-ALBERTO                 Huacho
+ 

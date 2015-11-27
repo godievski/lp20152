@@ -256,3 +256,16 @@ int StringGD::_min (int len, int len_str) const
     else
         return len_str;
 }
+
+char StringGD::operator [](int i) const
+{
+    if (len == 0) return 0;
+    int real_i;
+    if (i >= 0){
+        real_i = i % len;
+        return str[real_i];
+    } else {
+        real_i = (-1 * i) % len;
+        return str[len - real_i];
+    }   
+}
