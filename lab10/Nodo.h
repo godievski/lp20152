@@ -19,14 +19,13 @@ class Nodo {
     Nodo();
 private:
     friend class Lista <TipoDato>;
-    TipoDato* dato;
+    TipoDato dato;
     Nodo<TipoDato> *sgte;
 };
 
 template<typename TipoDato>
 Nodo<TipoDato>::Nodo()
 {
-    dato = NULL;
     sgte = NULL;
 }
 

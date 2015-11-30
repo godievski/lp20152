@@ -33,6 +33,7 @@ public:
     int operator > (Llamada &);
     void operator += (Llamada &);
     friend ostream& operator << (ostream&, Llamada&);
+    int GetCodPais(void);
 private:
     char numero[DIGITOS];
     double tiempo;

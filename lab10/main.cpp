@@ -36,7 +36,14 @@ int main(int argc, char** argv) {
         exit(1);
     }
     miCop.leerLlamadas(archLlam);
-    miCop.impEmp();
+    //miCop.impEmp();
+    
+    ifstream archCost ("CostosPorLlamada.txt", ios::in);
+    if (!archCost){
+        cerr << "No se pudo abrir el archivo CostosPorLlamada.txt" << endl;
+        exit(1);
+    }
+    miCop.impReporte(archCost);
     
     return 0;
 }

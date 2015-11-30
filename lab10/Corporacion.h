@@ -24,9 +24,11 @@ class Corporacion {
 public:
     void leerEmpresas (ifstream&);
     void leerLlamadas (ifstream&);
+    void impReporte (ifstream&);
     void impEmp (void);
 private:
     Lista <Empresa> empresas;
+    void leerCostos (ifstream &, double*);
 };
 
 #endif	/* CORPORACION_H */

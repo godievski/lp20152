@@ -39,11 +39,41 @@ void Corporacion::impEmp (void)
 {
     Empresa *ptrEmp;
     int tam = empresas.length();
-    int cod;
-    char nombre[200];
     for (int i = 0; i < tam; i++){
         empresas.obtener(i, ptrEmp);
         cout << *ptrEmp;
         ptrEmp->impLlamadas();
+    }
+}
+
+void Corporacion::leerCostos (ifstream& arch, double*costos)
+{
+    /*FALTA IMPLEMENTAR*/
+    int cod;
+    double costo;
+    while (arch >> cod){
+        arch >> costo;
+        costos[cod] = costo;
+    }
+}
+
+void Corporacion::impReporte (ifstream& arch)
+{
+    double total;
+    char nomb[200];
+    Empresa *emp;
+    double costos[500];
+    
+    leerCostos(arch, costos);
+    cout.precision(2);
+    for (int i = 0; i < empresas.length(); i++){
+        empresas.obtener(i, emp);
+        total = emp->obtenerTotal(costos);
+        cout << "CODIGO: " << emp->GetCodigo() << endl;
+        emp->GetNombre(nomb);
+        cout << "NOMBRE: " << nomb << endl;
+        cout << "Monto por llamadas: S/. " << fixed << setw(8) << total << endl;
+        for (int j = 0; j < 50 ; j++) cout << '=';
+        cout << endl;
     }
 }

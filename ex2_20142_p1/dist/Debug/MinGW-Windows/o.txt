@@ -1,0 +1,363 @@
+CODIGO: ANT211
+NOMBRE: ANTROPOLOGÍA
+CREDITOS:   3.0
+================================================================================
+HORARIO   PROFESOR            #MATRICULADOS  CLASES                        
+================================================================================
+
+CODIGO: ARQ217
+NOMBRE: TECNOLOGÍA PREHISPÁNICA
+CREDITOS: 3.0  
+================================================================================
+HORARIO   PROFESOR            #MATRICULADOS  CLASES                        
+================================================================================
+
+CODIGO: EST145
+NOMBRE: ESTADÍSTICA
+CREDITOS: 4.5  
+================================================================================
+HORARIO   PROFESOR            #MATRICULADOS  CLASES                        
+================================================================================
+0401      Pavletich,S              64        LUN  8 - 10 E209
+                                             MIE  8 - 10 E303
+0402      Pavletich,S              63        LUN 10 - 12 E209
+                                             VIE 10 - 12 E306
+0403      Valdivia,M               49        MAR 11 - 13 E213
+                                             JUE 10 - 12 E213
+0404      Luna,W                   64        MAR 10 - 12 E301
+                                             JUE  7 -  9 E213
+0405      Valdivia,M               49        MAR  8 - 10 E213
+                                             MIE 11 - 13 E102
+0406      Luna,W                   64        MAR  7 -  9 E204
+                                             JUE 10 - 12 E301
+
+CODIGO: FIL216
+NOMBRE: FILOSOFÍA 2
+CREDITOS:   3.0
+================================================================================
+HORARIO   PROFESOR            #MATRICULADOS  CLASES                        
+================================================================================
+
+CODIGO: IEE229
+NOMBRE: ELECTRÓNICA DIGITAL
+CREDITOS: 3.8  
+================================================================================
+HORARIO   PROFESOR            #MATRICULADOS  CLASES                        
+================================================================================
+0581      Davalos,J                40        VIE 10 - 13 A403
+
+CODIGO: IEE240
+NOMBRE: ORGANIZACIÓN Y ARQUITECTURA DE COMPUTADORAS
+CREDITOS:   5.0
+================================================================================
+HORARIO   PROFESOR            #MATRICULADOS  CLASES                        
+================================================================================
+0681      Barriga,J                32        LUN  8 - 10 A302
+                                             MAR 11 - 13 A305
+
+CODIGO: IND231
+NOMBRE: INGENIERÍA ECONÓMICA
+CREDITOS:   3.5
+================================================================================
+HORARIO   PROFESOR            #MATRICULADOS  CLASES                        
+================================================================================
+0631      Haro,J                   47        MAR 19 - 22 A702
+0632      Guerra,R                 44        MIE 15 - 18 A305
+0633      Alva,N                   42        MAR 19 - 22 A705
+0634      Haro,J                   46        JUE 19 - 22 A406
+0635      Romero,C                 44        MIE  8 - 11 A401
+0636      Alva,N                   44        JUE 19 - 22 A601
+0637      Quiroz,A                 44        MAR 10 - 13 A403
+0638      Romero,C                 44        JUE  8 - 11 A301
+0639      Miranda,O                44        MAR 19 - 22 A302
+
+CODIGO: IND251
+NOMBRE: GESTIÓN Y DIRECCIÓN DE EMPRESAS
+CREDITOS:   3.5
+================================================================================
+HORARIO   PROFESOR            #MATRICULADOS  CLASES                        
+================================================================================
+0531      Luna,R                   43        MAR 19 - 22 A403
+0532      Vega,R                   42        JUE 19 - 22 A301
+0533      Nakama,G                 43        JUE 19 - 22 A403
+0534      Luyo,J                   47        MAR  8 - 11 A305
+0535      Vargas,E                 44        MAR  7 - 10 A601
+0536      Leidinger,R              38        MAR  7 - 10 A705
+0537      Luna,M                   44        VIE 16 - 19 A406
+
+CODIGO: IND273
+NOMBRE: INVESTIGACIÓN OPERATIVA 1
+CREDITOS:   4.0
+================================================================================
+HORARIO   PROFESOR            #MATRICULADOS  CLASES                        
+================================================================================
+
+CODIGO: IND275
+NOMBRE: CONTROL DE GESTIÓN INDUSTRIAL
+CREDITOS: 4.5  
+================================================================================
+HORARIO   PROFESOR            #MATRICULADOS  CLASES                        
+================================================================================
+
+CODIGO: IND281
+NOMBRE: INVESTIGACIÓN OPERATIVA 2
+CREDITOS: 4.0  
+================================================================================
+HORARIO   PROFESOR            #MATRICULADOS  CLASES                        
+================================================================================
+
+CODIGO: IND290
+NOMBRE: SEGURIDAD INTEGRAL
+CREDITOS: 3.0  
+================================================================================
+HORARIO   PROFESOR            #MATRICULADOS  CLASES                        
+================================================================================
+0731      Corrales,C               40        MIE 10 - 13 A303
+0732      Hermoza,M                22        MAR 19 - 22 A307
+0733      Roa,R                    37        LUN 15 - 18 A203
+0734      Valencia,A               40        JUE 16 - 19 A401
+
+CODIGO: INF117
+NOMBRE: INTRODUCCIÓN A LA COMPUTACIÓN
+CREDITOS:   3.0
+================================================================================
+HORARIO   PROFESOR            #MATRICULADOS  CLASES                        
+================================================================================
+0101      Alva,F                   64        VIE 10 - 12 E106
+0102      Zapata,C                 64        VIE  8 - 10 E106
+0103      Hinojosa,H               64        MIE 11 - 13 E106
+0104      Zárate,J                 64        MIE 17 - 19 E106
+0105      Ramirez,J                64        SAB 10 - 12 E106
+0106      Murillo,B                63        MIE 15 - 17 E106
+0107      Roncal,A                 47        MAR 10 - 12 E106
+0108      Caldas,I                 56        MAR 16 - 18 E106
+0109      Aguilera,C               64        JUE  8 - 10 E106
+0110      Allasi,D                 64        MIE  8 - 10 E106
+0111      Berrocal,J               64        LUN  8 - 10 E106
+0112      Campos,J                 64        JUE 17 - 19 E106
+0113      Espinoza,N               64        SAB  8 - 10 E106
+
+CODIGO: INF120
+NOMBRE: INTRODUCCIÓN A LA INGENIERÍA INFORMÁTICA
+CREDITOS:   2.5
+================================================================================
+HORARIO   PROFESOR            #MATRICULADOS  CLASES                        
+================================================================================
+0331      Aguilera,C               49        LUN 14 - 16 E309
+
+CODIGO: INF134
+NOMBRE: ESTRUCTURAS DISCRETAS
+CREDITOS:   4.5
+================================================================================
+HORARIO   PROFESOR            #MATRICULADOS  CLASES                        
+================================================================================
+0331      Pavletich,S              46        MIE 10 - 12 E216
+                                             JUE  8 - 10 E214
+
+CODIGO: INF144
+NOMBRE: TÉCNICAS DE PROGRAMACIÓN
+CREDITOS:   5.0
+================================================================================
+HORARIO   PROFESOR            #MATRICULADOS  CLASES                        
+================================================================================
+0431      Guanira,J                36        LUN  8 - 10 E204
+                                             VIE 10 - 12 E303
+0432      Espinoza,N               47        LUN  8 - 10 E314
+                                             VIE 10 - 12 E304
+
+CODIGO: INF220
+NOMBRE: FUNDAMENTOS DE PROGRAMACIÓN
+CREDITOS:   5.0
+================================================================================
+HORARIO   PROFESOR            #MATRICULADOS  CLASES                        
+================================================================================
+0581      Khlebnikov,V             27        MIE  8 - 10 A204
+                                             VIE  8 - 10 A204
+0582      Bello,A                  35        MIE  8 - 10 A207
+                                             VIE  8 - 10 A207
+
+CODIGO: INF226
+NOMBRE: DESARROLLO DE PROGRAMAS 1
+CREDITOS:   3.0
+================================================================================
+HORARIO   PROFESOR            #MATRICULADOS  CLASES                        
+================================================================================
+0981      Davila,A                 23        MAR 18 - 20 V201
+
+CODIGO: INF227
+NOMBRE: DESARROLLO DE PROGRAMAS 2
+CREDITOS:   3.0
+================================================================================
+HORARIO   PROFESOR            #MATRICULADOS  CLASES                        
+================================================================================
+1081      Aguilera,C               26        VIE 18 - 20 V201
+1082      De-Olazabal,E            17        VIE 18 - 20 V202
+
+CODIGO: INF234
+NOMBRE: MODELOS Y SIMULACIÓN EMPRESARIAL
+CREDITOS:   3.5
+================================================================================
+HORARIO   PROFESOR            #MATRICULADOS  CLASES                        
+================================================================================
+0881      Solis,J                  32        JUE 19 - 22 A203
+
+CODIGO: INF238
+NOMBRE: REDES DE COMPUTADORAS
+CREDITOS:   4.0
+================================================================================
+HORARIO   PROFESOR            #MATRICULADOS  CLASES                        
+================================================================================
+0881      Daly,C                   34        JUE  9 - 12 A207
+
+CODIGO: INF239
+NOMBRE: SISTEMAS OPERATIVOS
+CREDITOS:   4.0
+================================================================================
+HORARIO   PROFESOR            #MATRICULADOS  CLASES                        
+================================================================================
+0781      Khlebnikov,V             21        LUN 15 - 18 A204
+
+CODIGO: INF245
+NOMBRE: INGENIERÍA DE SOFTWARE
+CREDITOS:   4.0
+================================================================================
+HORARIO   PROFESOR            #MATRICULADOS  CLASES                        
+================================================================================
+0881      Flores,L                 28        MIE 14 - 17 A206
+
+CODIGO: INF246
+NOMBRE: BASES DE DATOS
+CREDITOS:   3.8
+================================================================================
+HORARIO   PROFESOR            #MATRICULADOS  CLASES                        
+================================================================================
+0581      Aguilera,C               43        MIE 10 - 13 A403
+
+CODIGO: INF248
+NOMBRE: SISTEMAS DE INFORMACIÓN 1
+CREDITOS:   5.0
+================================================================================
+HORARIO   PROFESOR            #MATRICULADOS  CLASES                        
+================================================================================
+0681      Yrigoyen,J               39        LUN 10 - 12 A605
+                                             MIE 10 - 12 A402
+
+CODIGO: INF250
+NOMBRE: SISTEMAS DE INFORMACIÓN 2
+CREDITOS:   5.0
+================================================================================
+HORARIO   PROFESOR            #MATRICULADOS  CLASES                        
+================================================================================
+0781      Flores,L                 13        MAR  8 - 10 A405
+                                             JUE  8 - 10 A707
+
+CODIGO: INF263
+NOMBRE: ALGORITMIA
+CREDITOS:   3.8
+================================================================================
+HORARIO   PROFESOR            #MATRICULADOS  CLASES                        
+================================================================================
+0581      Melgar,H                 35        MIE 15 - 18 A406
+0582      Alva,F                   35        MIE 15 - 18 A601
+
+CODIGO: INF265
+NOMBRE: APLICACIONES DE CIENCIAS DE LA COMPUTACIÓN
+CREDITOS:   4.0
+================================================================================
+HORARIO   PROFESOR            #MATRICULADOS  CLASES                        
+================================================================================
+0781      Beltrán,C                40        MIE 10 - 13 A603
+
+CODIGO: INF273
+NOMBRE: ADMINISTRACIÓN DE LA FUNCIÓN INFORMÁTICA
+CREDITOS:   3.5
+================================================================================
+HORARIO   PROFESOR            #MATRICULADOS  CLASES                        
+================================================================================
+0981      Tupia,M                  34        MIE 15 - 18 A705
+
+CODIGO: INF274
+NOMBRE: ADMINISTRACIÓN DE SISTEMAS OPERATIVOS Y BASE DE DATOS
+CREDITOS:   4.0
+================================================================================
+HORARIO   PROFESOR            #MATRICULADOS  CLASES                        
+================================================================================
+0981      Solari,F                 31        SAB 10 - 13 A601
+
+CODIGO: INF281
+NOMBRE: LENGUAJE DE PROGRAMACIÓN 1
+CREDITOS:   5.0
+================================================================================
+HORARIO   PROFESOR            #MATRICULADOS  CLASES                        
+================================================================================
+0681      Guanira,J                31        MAR  8 - 10 A403
+                                             MIE  8 - 10 A403
+0682      Alva,F                   30        MAR  8 - 10 A206
+                                             MIE  8 - 10 A206
+
+CODIGO: INF282
+NOMBRE: LENGUAJE DE PROGRAMACIÓN 2
+CREDITOS:   5.0
+================================================================================
+HORARIO   PROFESOR            #MATRICULADOS  CLASES                        
+================================================================================
+0781      Baldeón,J                15        JUE 10 - 12 V208
+                                             VIE 11 - 13 V208
+
+CODIGO: INF291
+NOMBRE: MÉTODOS Y PROCEDIMIENTOS
+CREDITOS:   3.5
+================================================================================
+HORARIO   PROFESOR            #MATRICULADOS  CLASES                        
+================================================================================
+0681      Berrocal,J               36        LUN 15 - 18 A403
+
+CODIGO: INF295
+NOMBRE: PLANEAMIENTO ESTRATÉGICO EN INFORMÁTICA
+CREDITOS:   3.5
+================================================================================
+HORARIO   PROFESOR            #MATRICULADOS  CLASES                        
+================================================================================
+0981      Rios,L                   31        MIE 19 - 22 V207
+
+CODIGO: INF310
+NOMBRE: TEORÍA DE GRAFOS
+CREDITOS:   3.0
+================================================================================
+HORARIO   PROFESOR            #MATRICULADOS  CLASES                        
+================================================================================
+1081      Gutiérrez,J              21        MAR 10 - 13 A603
+
+CODIGO: INF391
+NOMBRE: PROYECTO DE TESIS 1
+CREDITOS:   2.0
+================================================================================
+HORARIO   PROFESOR            #MATRICULADOS  CLASES                        
+================================================================================
+0981      Melgar,H                 31        LUN 16 - 18 A207
+
+CODIGO: INF392
+NOMBRE: PROYECTO DE TESIS 2
+CREDITOS:   4.0
+================================================================================
+HORARIO   PROFESOR            #MATRICULADOS  CLASES                        
+================================================================================
+1081      Baldeón,J                20        LUN 18 - 22 A603
+1082      Davila,A                 20        LUN 18 - 22 A604
+1083      Cueva,R                  18        LUN 18 - 22 A405
+
+CODIGO: ING220
+NOMBRE: ÉTICA PROFESIONAL
+CREDITOS:   2.0
+================================================================================
+HORARIO   PROFESOR            #MATRICULADOS  CLASES                        
+================================================================================
+
+CODIGO: TEL201
+NOMBRE: TEORÍA DE COMUNICACIONES
+CREDITOS: 4.0  
+================================================================================
+HORARIO   PROFESOR            #MATRICULADOS  CLASES                        
+================================================================================
+0781      Ramírez,F                26        LUN 10 - 13 A405
+

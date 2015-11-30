@@ -63,15 +63,17 @@ ostream& operator << (ostream& cout, Empresa& emp)
 
 Empresa& Empresa::operator = (Empresa& emp)
 {
-    codigo = emp.codigo;
-    SetNombre(emp.nombre);
-    llamadas = emp.llamadas;
+    if (this != &emp){
+        codigo = emp.codigo;
+        SetNombre(emp.nombre);
+        llamadas = emp.llamadas;
+    }
     return *this;
 }
 
 int Empresa::operator > (Empresa & emp)
 {
-    return strcmp(nombre,emp.nombre ) > 0;
+    return strcmp(nombre,emp.nombre) > 0;
 }
 
 int Empresa::operator == (Empresa& emp)
@@ -91,10 +93,6 @@ void Empresa::agregarLlamada (Llamada & llam)
             exit(1);
         }
         *ptrLlam += llam;
-//        if (!llamadas.insertar(ind, llamTemp)){
-//            cerr << "No se pudo insertar en " << ind << endl;
-//            exit(1);
-//        }
     } else
         llamadas.insertar(llam);
 }
@@ -107,4 +105,17 @@ void Empresa::impLlamadas (void)
         llamadas.obtener(i, llam);
         cout << *llam;
     }
+}
+
+double Empresa::obtenerTotal(double* costos)
+{
+    double total = 0;
+    int codigo;
+    Llamada* llam;
+    for (int i = 0; i < llamadas.length(); i++){
+        llamadas.obtener(i, llam);
+        codigo = llam->GetCodPais();
+        total += costos[codigo] * llam->GetTiempo();
+    }
+    return total;
 }

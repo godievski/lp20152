@@ -34,6 +34,7 @@ public:
     int operator > (Empresa &);
     void agregarLlamada (Llamada &);
     void impLlamadas (void);
+    double obtenerTotal (double*);
 private:
     int codigo;
     char* nombre;
