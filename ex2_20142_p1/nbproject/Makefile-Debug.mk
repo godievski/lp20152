@@ -39,6 +39,7 @@ OBJECTFILES= \
 	${OBJECTDIR}/ListaCursos.o \
 	${OBJECTDIR}/NodoCurso.o \
 	${OBJECTDIR}/NodoHorario.o \
+	${OBJECTDIR}/funAux.o \
 	${OBJECTDIR}/main.o
 
 
@@ -85,6 +86,11 @@ ${OBJECTDIR}/NodoHorario.o: NodoHorario.cpp
 	${MKDIR} -p ${OBJECTDIR}
 	${RM} "$@.d"
 	$(COMPILE.cc) -g -MMD -MP -MF "$@.d" -o ${OBJECTDIR}/NodoHorario.o NodoHorario.cpp
+
+${OBJECTDIR}/funAux.o: funAux.cpp 
+	${MKDIR} -p ${OBJECTDIR}
+	${RM} "$@.d"
+	$(COMPILE.cc) -g -MMD -MP -MF "$@.d" -o ${OBJECTDIR}/funAux.o funAux.cpp
 
 ${OBJECTDIR}/main.o: main.cpp 
 	${MKDIR} -p ${OBJECTDIR}

@@ -11,7 +11,9 @@
 #include <list>
 #include "Evento.h"
 #include <iostream>
+#include <fstream>
 #include <iomanip>
+#include "funAux.h"
 using namespace std;
 
 class NodoHorario {
@@ -19,6 +21,11 @@ public:
     NodoHorario();
     NodoHorario(char*, char*, int);
     friend ostream& operator << (ostream&, NodoHorario*);
+    friend ifstream& operator >> (ifstream&, NodoHorario&);
+    void SetCodigo(char* codigo);
+    void SetProfesor(char* profesor);
+    void GetCodigo(char* codigo);
+    void GetProfesor(char* profesor);
 private:
     char* codigo;
     char* profesor;
@@ -26,6 +33,8 @@ private:
     list <Evento> eventos;
     NodoHorario* sgte;
     friend class ListaCursos;
+    void leeEventos(ifstream&, Evento*, int&);
+    void insertarEventos (Evento*, int);
 };
 
 #endif	/* NODOHORARIO_H */

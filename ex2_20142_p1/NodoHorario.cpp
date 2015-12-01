@@ -55,3 +55,76 @@ ostream& operator << (ostream& cout, NodoHorario* horario)
     }
     return cout;
 }
+
+ifstream& operator >> (ifstream& arch, NodoHorario& horario)
+{
+    char codigo[10], profesor[100];
+    int alumnos;
+    Evento eventos[20];
+    int cantEventos;
+    arch>>codigo;
+    arch>>profesor;
+    arch>>alumnos;
+    horario.SetCodigo(codigo);
+    horario.SetProfesor(profesor);
+    horario.alumnos = alumnos;
+    horario.leeEventos(arch, eventos, cantEventos);
+    horario.insertarEventos(eventos, cantEventos);
+    return arch;
+}
+
+void NodoHorario::leeEventos(ifstream& arch, Evento* eventos, int& cantEventos)
+{
+    char linea[1000];
+    char *palabras[100];
+    int cantPal;
+    arch.getline(linea,1000);
+    
+    cantEventos = 0;
+    separaPalabras(linea, palabras, cantPal);
+    /*PRIMER EVENTO QUE SIEMPRE HAY*/
+    eventos[0].SetDia(palabras[0]);
+    eventos[0].SetHoraIni(atoi(palabras[1]));
+    //palabras[2] == TRASH
+    eventos[0].SetHoraFin(atoi(palabras[3]));
+    eventos[0].SetAula(palabras[4]);
+    cantEventos++;
+    /*FIN DEL PRIMER EVENTO*/
+    
+    /*COMPLETAR OTROS EVENTOS SI LO HUBIESEN*/
+    for (int i = 5; i < cantPal; i+=6){
+        eventos[cantEventos].SetDia(palabras[i+1]);
+        eventos[cantEventos].SetHoraIni(atoi(palabras[i+2]));
+        eventos[cantEventos].SetHoraFin(atoi(palabras[i+4]));
+        eventos[cantEventos].SetAula(palabras[i+5]);    
+        cantEventos++;
+    }
+}
+
+void NodoHorario::insertarEventos(Evento* eventos, int cantEventos)
+{
+    for (int i = 0; i < cantEventos; i++)
+        this->eventos.push_back(eventos[i]);
+}
+
+void NodoHorario::SetCodigo(char* codigo)
+{
+    this->codigo = new char[strlen(codigo)+1];
+    strcpy(this->codigo, codigo);
+}
+    
+void NodoHorario::SetProfesor(char* profesor)
+{
+    this->profesor = new char[strlen(profesor)+1];
+    strcpy(this->profesor, profesor);
+}
+    
+void NodoHorario::GetCodigo(char* codigo)
+{
+    strcpy(codigo, this->codigo);
+}
+    
+void NodoHorario::GetProfesor(char* profesor)
+{
+    strcpy(profesor, this->profesor);
+}

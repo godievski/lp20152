@@ -26,6 +26,32 @@ void ListaCursos::leerCursos(ifstream& arch)
     }
 }
 
+void ListaCursos::leerCursosVer2(ifstream& arch)
+{
+    NodoCurso *curso;
+    while (1){
+        curso = new NodoCurso;
+        if (!(arch >> (*curso))){
+            delete curso;
+            break;
+        }
+        insertar(curso);
+    }
+}
+
+
+void ListaCursos::leerHorariosVer2(ifstream& arch)
+{
+    char codigoCurso[10];
+    NodoHorario* horario;
+    while (arch>>codigoCurso){
+        horario = new NodoHorario;
+        arch >> (*horario);
+        horario->eventos.sort();
+        insertar(codigoCurso, horario);
+    }
+}
+
 void ListaCursos::insertar(NodoCurso* curso)
 {
     /*INSERTAR SIN ORDENAR*/
@@ -191,22 +217,24 @@ void ListaCursos::impCabecera (void)
     for (int j = 0; j < 80; j++) cout << '=';
     cout << endl;
 }
-
-void ListaCursos::separaPalabras(char* linea, char** palabras, int& cantPal)
+    
+void ListaCursos::operator << (char* codigo)
 {
-    cantPal = 0;
-    if (!isblank(linea[0])){
-        palabras[0] = linea;
-        cantPal++;
+    NodoCurso* curso = inicio;
+    NodoHorario* horario;
+    for (int i = 0; i < longitud; i++){
+        if (strcmp(curso->codigo,codigo) == 0) break;
+        curso = curso->sgte;
     }
-    for (int i = 1; linea[i]; i++){
-        if (!isblank(linea[i]) && (isblank(linea[i-1]) || linea[i-1] == 0)){
-            palabras[cantPal] = &(linea[i]);
-            cantPal++;
+    if (curso){
+        cout << curso;
+        horario = curso->inicio;
+        impCabecera();
+        for (int i = 0; i < curso->longitud; i++){
+            cout << horario;
+            horario = horario->sgte;
         }
-        if (!isblank(linea[i]) && isblank(linea[i+1])){
-            linea[i+1] = 0;
-            i++;
-        }
+        cout << endl;
+        curso = curso->sgte;
     }
 }

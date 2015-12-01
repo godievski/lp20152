@@ -9,6 +9,7 @@
 #define	NODOCURSO_H
 
 #include "NodoHorario.h"
+#include "funAux.h"
 #include <iostream>
 #include <iomanip>
 using namespace std;
@@ -18,6 +19,11 @@ public:
     NodoCurso();
     NodoCurso(char*, char*, double);
     friend ostream& operator << (ostream&, NodoCurso*);
+    friend ifstream& operator >> (ifstream&, NodoCurso&);
+    void SetCodigo(char* codigo);
+    void SetNombre(char* nombre);
+    void GetCodigo(char* codigo);
+    void GetNombre(char* nombre);
 private:
     char* codigo;
     char* nombre;
@@ -29,6 +35,7 @@ private:
     /*FIN LISTA HORARIO*/
     NodoCurso* sgte;
     friend class ListaCursos;
+    void leeNombreYCred(ifstream&, char*, double&);
 };
 
 #endif	/* NODOCURSO_H */

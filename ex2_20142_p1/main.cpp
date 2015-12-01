@@ -24,7 +24,7 @@ int main(int argc, char** argv) {
         exit(1);
     }
     
-    miLista.leerCursos(cursos);
+    miLista.leerCursosVer2(cursos);
     
     ifstream horarios ("horarios.txt", ios::in);
     if (!horarios){
@@ -32,10 +32,10 @@ int main(int argc, char** argv) {
         exit(1);
     }
     
-    miLista.leerHorarios(horarios);
+    miLista.leerHorariosVer2(horarios);
     
-    miLista.impReporte();
-    
+    //miLista.impReporte();
+    miLista << "INF220";
     return 0;
 }
 

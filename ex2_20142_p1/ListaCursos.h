@@ -11,6 +11,7 @@
 #include "Evento.h"
 #include "NodoCurso.h"
 #include "NodoHorario.h"
+#include "funAux.h"
 #include <list>
 #include <fstream>
 #include <iostream>
@@ -25,14 +26,18 @@ public:
     void impReporte(void);
     void insertar(NodoCurso*);
     void insertar(char*, NodoHorario*);
+    /*SEGUNDA VERSION DE LEER*/
+    void leerCursosVer2(ifstream& arch);
+    void leerHorariosVer2(ifstream& arch);
+    /*FIN SEGUNDA VERSION*/
+    void operator << (char*);
 private:
     NodoCurso* inicio;
     NodoCurso* fin;
     int longitud;
-    void leeNombreYCred(ifstream&,char*,double&);
-    void leeEventos(ifstream&, Evento*, int&);
-    void insertarEventos(NodoHorario*, Evento*, int);
-    void separaPalabras(char* linea, char** palabras, int& cantPal);
+    void leeNombreYCred(ifstream&,char*,double&); //METEODO DUPLICADO VER 1
+    void leeEventos(ifstream&, Evento*, int&); //METODO DUPLICADO VER 1
+    void insertarEventos(NodoHorario*, Evento*, int); //METODO DUPLICADO VER 1
     void impCabecera (void);
 };
 
